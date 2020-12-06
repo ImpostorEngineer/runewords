@@ -1,0 +1,489 @@
+{
+	"runewords": [{
+			"name": "ancients pledge",
+			"runes": "Ral, Ort, Tal",
+			"items": "Shields",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWShields#Ancient.27s_Pledge"
+		},
+		{
+			"name": "beast",
+			"runes": "Ber, Tir, Um, Mal, Lum",
+			"items": "Axes/Scepters/Hammers",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Beast"
+		},
+		{
+			"name": "black",
+			"runes": "Thul, Io, Nef",
+			"items": "Clubs/Hammers/Maces",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Black"
+		},
+		{
+			"name": "bone",
+			"runes": "Sol, Um, Um",
+			"items": "Body Armor (Necromancer)",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Bone"
+		},
+		{
+			"name": "bramble",
+			"runes": "Ral, Ohm, Sur, Eth",
+			"items": "Body Armor",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Bramble"
+		},
+		{
+			"name": "brand",
+			"runes": "Jah, Lo, Mal, Gul",
+			"items": "Missile Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Brand"
+		},
+		{
+			"name": "breath of the dying",
+			"runes": "Vex, Hel, El, Eld, Zod, Eth",
+			"items": "Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Breath_of_the_Dying"
+		},
+		{
+			"name": "call to arms",
+			"runes": "Amn, Ral, Mal, Ist, Ohm",
+			"items": "Weapons",
+			"link": "https://diablo2.diablowiki.net/Call_to_Arms"
+		},
+		{
+			"name": "chains of honor",
+			"runes": "Dol, Um, Ber, Ist",
+			"items": "Body Armor",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Chains_of_Honor"
+		},
+		{
+			"name": "chaos",
+			"runes": "Fal, Ohm, Um",
+			"items": "Claws",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Chaos"
+		},
+		{
+			"name": "crescent moon",
+			"runes": "Shael, Um, Tir",
+			"items": "Axes/Swords/Polearms",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Crescent_Moon"
+		},
+		{
+			"name": "death",
+			"runes": "Hel, El, Vex, Ort, Gul",
+			"items": "Swords/Axes",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Death"
+		},
+		{
+			"name": "delirium",
+			"runes": "Lem, Ist, Io",
+			"items": "Helms",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWHelmets#Delirium"
+		},
+		{
+			"name": "destruction",
+			"runes": "Vex, Lo, Ber, Jah, Ko",
+			"items": "Polearms/Swords",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Destruction"
+		},
+		{
+			"name": "doom",
+			"runes": "Hel, Ohm, Um, Lo, Cham",
+			"items": "Axes/Polearms/Hammers",
+			"link": "https://diablo2.diablowiki.net/Doom"
+		},
+		{
+			"name": "dragon",
+			"runes": "Sur, Lo, Sol",
+			"items": "Body Armor/Shields",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Dragon"
+		},
+		{
+			"name": "dream",
+			"runes": "Io, Jah, Pul",
+			"items": "Helms/Shields",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWHelmets#Dream"
+		},
+		{
+			"name": "duress",
+			"runes": "Shael, Um, Thul",
+			"items": "Body Armor",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Duress"
+		},
+		{
+			"name": "edge",
+			"runes": "Tir, Tal, Amn",
+			"items": "Missile Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Edge"
+		},
+		{
+			"name": "enigma",
+			"runes": "Jah, Ith, Ber",
+			"items": "Body Armor",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Enigma"
+		},
+		{
+			"name": "enlightenment",
+			"runes": "Pul, Ral, Sol",
+			"items": "Body Armor (Sorceress)",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Enlightenment"
+		},
+		{
+			"name": "eternity",
+			"runes": "Amn, Ber, Ist, Sol, Sur",
+			"items": "Melee Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Eternity"
+		},
+		{
+			"name": "exile",
+			"runes": "Vex, Ohm, Ist, Dol",
+			"items": "Paladin Shields (only)",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWShields#Exile"
+		},
+		{
+			"name": "faith",
+			"runes": "Ohm, Jah, Lem, Eld",
+			"items": "Missile Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Faith"
+		},
+		{
+			"name": "famine",
+			"runes": "Fal, Ohm, Ort, Jah",
+			"items": "Axes/Hammers",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Famine"
+		},
+		{
+			"name": "fortitude",
+			"runes": "El, Sol, Dol, Lo",
+			"items": "Weapons/Body Armor",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Fortitude"
+		},
+		{
+			"name": "fury",
+			"runes": "Jah, Gul, Eth",
+			"items": "Melee Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Fury"
+		},
+		{
+			"name": "gloom",
+			"runes": "Fal, Um, Pul",
+			"items": "Body Armor",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Gloom"
+		},
+		{
+			"name": "grief",
+			"runes": "Eth, Tir, Lo, Mal, Ral",
+			"items": "Swords/Axes",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Grief"
+		},
+		{
+			"name": "hand of justice",
+			"runes": "Sur, Cham, Amn, Lo",
+			"items": "Weapons",
+			"link": "https://diablo2.diablowiki.net/Hand_of_Justice"
+		},
+		{
+			"name": "harmony",
+			"runes": "Tir, Ith, Sol, Ko",
+			"items": "Missile Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Harmony"
+		},
+		{
+			"name": "heart of the oak",
+			"runes": "Ko, Vex, Pul, Thul",
+			"items": "Staves*/Maces",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Heart_of_the_Oak"
+		},
+		{
+			"name": "hoto",
+			"runes": "Ko, Vex, Pul, Thul",
+			"items": "Staves*/Maces",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Heart_of_the_Oak"
+		},
+		{
+			"name": "holy thunder",
+			"runes": "Eth, Ral, Ort, Tal",
+			"items": "Scepters",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Holy_Thunder"
+		},
+		{
+			"name": "honor",
+			"runes": "Amn, El, Ith, Tir, Sol",
+			"items": "Melee Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Honor"
+		},
+		{
+			"name": "ice",
+			"runes": "Amn, Shael, Jah, Lo",
+			"items": "Missile Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Ice"
+		},
+		{
+			"name": "infinity",
+			"runes": "Ber, Mal, Ber, Ist",
+			"items": "Polearms",
+			"link": "https://diablo2.diablowiki.net/Infinity"
+		},
+		{
+			"name": "insight",
+			"runes": "Ral, Tir, Tal, Sol",
+			"items": "Polearms/Staves",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Insight"
+		},
+		{
+			"name": "kings grace",
+			"runes": "Amn, Ral, Thul",
+			"items": "Swords/Scepters",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#King.27s_Grace"
+		},
+		{
+			"name": "kingslayer",
+			"runes": "Mal, Um, Gul, Fal",
+			"items": "Swords/Axes",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Kingslayer"
+		},
+		{
+			"name": "last wish",
+			"runes": "Jah, Mal, Jah, Sur, Jah, Ber",
+			"items": "Swords/Hammers/Axes",
+			"link": "https://diablo2.diablowiki.net/Last_Wish"
+		},
+		{
+			"name": "lawbringer",
+			"runes": "Amn, Lem, Ko",
+			"items": "Swords/Hammers/Scepter",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Lawbringer"
+		},
+		{
+			"name": "leaf",
+			"runes": "Tir, Ral",
+			"items": "Staves (Not Orbs/Wands)",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Leaf"
+		},
+		{
+			"name": "lionheart",
+			"runes": "Hel, Lum, Fal",
+			"items": "Body Armor",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Lionheart"
+		},
+		{
+			"name": "lore",
+			"runes": "Ort, Sol",
+			"items": "Helms",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWHelmets#Lore"
+		},
+		{
+			"name": "malice",
+			"runes": "Ith, El, Eth",
+			"items": "Melee Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Malice"
+		},
+		{
+			"name": "melody",
+			"runes": "Shael, Ko, Nef",
+			"items": "Missile Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Melody"
+		},
+		{
+			"name": "memory",
+			"runes": "Lum, Io, Sol, Eth",
+			"items": "Staves (Not Orbs)",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Memory"
+		},
+		{
+			"name": "myth",
+			"runes": "Hel, Amn, Nef",
+			"items": "Body Armor (Barbarian)",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Myth"
+		},
+		{
+			"name": "nadir",
+			"runes": "Nef, Tir",
+			"items": "Helms",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWHelmets#Nadir"
+		},
+		{
+			"name": "oath",
+			"runes": "Shael, Pul, Mal, Lum",
+			"items": "Swords/Axes/Maces",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Oath"
+		},
+		{
+			"name": "obedience",
+			"runes": "Hel, Ko, Thul, Eth, Fal",
+			"items": "Polearms",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Obedience"
+		},
+		{
+			"name": "passion",
+			"runes": "Dol, Ort, Eld, Lem",
+			"items": "Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Passion"
+		},
+		{
+			"name": "pattern",
+			"runes": "Tal, Ort, Tir",
+			"items": "Claws",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Pattern"
+		},
+		{
+			"name": "peace",
+			"runes": "Shael, Thul, Amn",
+			"items": "Body Armor (Amazon)",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Peace"
+		},
+		{
+			"name": "phoenix",
+			"runes": "Vex, Vex, Lo, Jah",
+			"items": "Weapons/Shields",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Phoenix"
+		},
+		{
+			"name": "plague",
+			"runes": "Cham, Fal, Um",
+			"items": "Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Plague"
+		},
+		{
+			"name": "pride",
+			"runes": "Cham, Sur, Io, Lo",
+			"items": "Polearms",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Pride"
+		},
+		{
+			"name": "principle",
+			"runes": "Ral, Gul, Eld",
+			"items": "Body Armor (Paladin)",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Principle"
+		},
+		{
+			"name": "prudence",
+			"runes": "Mal, Tir",
+			"items": "Body Armor",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Prudence"
+		},
+		{
+			"name": "radiance",
+			"runes": "Nef, Sol, Ith",
+			"items": "Helms",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWHelmets#Radiance"
+		},
+		{
+			"name": "rain",
+			"runes": "Ort, Mal, Ith",
+			"items": "Body Armor (Druid)",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Rain"
+		},
+		{
+			"name": "rhyme",
+			"runes": "Shael, Eth",
+			"items": "Shields",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWShields#Rhyme"
+		},
+		{
+			"name": "rift",
+			"runes": "Hel, Ko, Lem, Gul",
+			"items": "Polearms/Scepters",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Rift"
+		},
+		{
+			"name": "sanctuary",
+			"runes": "Ko, Ko, Mal",
+			"items": "Shields",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWShields#Sanctuary"
+		},
+		{
+			"name": "silence",
+			"runes": "Dol, Eld, Hel, Ist, Tir, Vex",
+			"items": "Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Silence"
+		},
+		{
+			"name": "smoke",
+			"runes": "Nef, Lum",
+			"items": "Body Armor",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Smoke"
+		},
+		{
+			"name": "spirit",
+			"runes": "Tal, Thul, Ort, Amn",
+			"items": "Swords/Shields",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Spirit"
+		},
+		{
+			"name": "splendor",
+			"runes": "Eth, Lum",
+			"items": "Shields",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWShields#Splendor"
+		},
+		{
+			"name": "stealth",
+			"runes": "Tal, Eth",
+			"items": "Body Armor",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Stealth"
+		},
+		{
+			"name": "steel",
+			"runes": "Tir, El",
+			"items": "Swords/Axes/Maces",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Steel"
+		},
+		{
+			"name": "stone",
+			"runes": "Shael, Um, Pul, Lum",
+			"items": "Body Armor",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Stone"
+		},
+		{
+			"name": "strength",
+			"runes": "Amn, Tir",
+			"items": "Melee Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Strength"
+		},
+		{
+			"name": "treachery",
+			"runes": "Shael, Thul, Lem",
+			"items": "Body Armor (Assassin)",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Treachery"
+		},
+		{
+			"name": "venom",
+			"runes": "Tal, Dol, Mal",
+			"items": "Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Venom"
+		},
+		{
+			"name": "voice of reason",
+			"runes": "Lem, Ko, El, Eld",
+			"items": "Swords/Maces",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Voice_of_Reason"
+		},
+		{
+			"name": "wealth",
+			"runes": "Lem, Ko, Tir",
+			"items": "Body Armor",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWChests#Wealth"
+		},
+		{
+			"name": "white",
+			"runes": "Dol, Io",
+			"items": "Wand",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#White"
+		},
+		{
+			"name": "wind",
+			"runes": "Sur, El",
+			"items": "Melee Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Wind"
+		},
+		{
+			"name": "wrath",
+			"runes": "Pul, Lum, Ber, Mal",
+			"items": "Missile Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Wrath"
+		},
+		{
+			"name": "zephyr",
+			"runes": "Ort, Eth",
+			"items": "Missile Weapons",
+			"link": "https://projectdiablo2.miraheze.org/wiki/RWWeapons#Zephyr"
+		}
+	]
+}
