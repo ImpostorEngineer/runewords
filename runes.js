@@ -13,7 +13,7 @@ xmlhttp.setRequestHeader('X-PINGOTHER', 'pingpong');
 xmlhttp.setRequestHeader('Content-Type', 'application/xml');
 xmlhttp.send();  */
 
-const runewords = [
+/* const runewords = [
 	{
 	"name": "ancients pledge",
 	"runes": "Ral, Ort, Tal",
@@ -62,7 +62,10 @@ const runewords = [
 	"items": "Weapons",
 	"link": "https://diablo2.diablowiki.net/Call_to_Arms"
 }
-]
+] */
+
+let data = require('./runeword.json');
+runewords = data.runewords;
 
 const express = require('express');
 const app = express();
@@ -78,12 +81,12 @@ app.get('/api/runewords', (req,res)=> {
 	});
 
 app.get('/api/runewords/:name', (req, res) => {
-	const runeword = runewords.find(c => c.name === req.params.name);
+	const runeword = runewords.find(c => c.name.toUpperCase() === req.params.name.toUpperCase());
 	res.send(runeword);
 });
 app.get('/api/runewords/items/:items', (req, res) => {
-	const runeword = (runewords.find(c => c.items.toUpperCase() === req.params.items.toUpperCase()));
-	res.send(runeword);
+	const items = (runewords.find(c => c.items.toUpperCase() === req.params.items.toUpperCase()));
+	res.send(items);
 });
 
 /* app.post('/api/runewords', (req, res)=> {
