@@ -19,8 +19,12 @@ app.get('/api/runewords/:name', (req, res) => {
 	res.send(runeword);
 });
 app.get('/api/runewords/items/:items', (req, res) => {
-	const items = (runewords.find(c => c.items.toUpperCase() === req.params.items.toUpperCase()));
+	const items = (runewords.filter(c => c.items.toUpperCase() === req.params.items.toUpperCase()));
 	res.send(items);
+});
+app.get('/api/runewords/runes/:runes', (req, res) => {
+	const runes = (runewords.filter(c => c.runes.toUpperCase() === req.params.runes.toUpperCase()));
+	res.send(runes);
 });
 
 /* app.post('/api/runewords', (req, res)=> {
