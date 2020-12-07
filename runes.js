@@ -19,11 +19,11 @@ app.get('/api/runewords/:name', (req, res) => {
 	res.send(runeword);
 });
 app.get('/api/runewords/items/:items', (req, res) => {
-	const items = (runewords.filter(c => c.items.toUpperCase() === req.params.items.toUpperCase()));
+	const items = (runewords.filter(c => c.items.toUpperCase().indexOf(req.params.items.toUpperCase()) !== -1 ));
 	res.send(items);
 });
 app.get('/api/runewords/runes/:runes', (req, res) => {
-	const runes = (runewords.filter(c => c.runes.toUpperCase() === req.params.runes.toUpperCase()));
+	const runes = (runewords.filter(c => c.runes.toUpperCase().indexOf(req.params.runes.toUpperCase()) !== -1));
 	res.send(runes);
 });
 
