@@ -10,6 +10,15 @@
         {
             "src": "/(.*)",
             "dest": "/"
-        }
+		},
+		{
+			"src": "/styles/",
+			"dest": "./styles/"
+		},
+		{
+			"src": "/assets/",
+			"dest": "./assets/"
+		}
+
     ]
 }
