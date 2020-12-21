@@ -11,7 +11,7 @@ const express = require('express');
 const cors = require('./cors');
 const app = express();
 
-app.use(cors.allowCors());
+app.use(cors.allowCors);
 app.use(express.json());
 app.use(express.static("data"));
 app.use(express.static("styles"));
