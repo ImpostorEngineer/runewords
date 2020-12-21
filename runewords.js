@@ -1,10 +1,10 @@
-let pd2data = require('./runewordsPD2.json');
+let pd2data = require('./data/runewordsPD2.json');
 pd2runewords = pd2data.runewords;
 
-let poddata = require('./runewordsPOD.json');
+let poddata = require('./data/runewordsPOD.json');
 podrunewords = poddata.runewords;
 
-let d2data = require('./runewordsD2.json');
+let d2data = require('./data/runewordsD2.json');
 d2runewords = d2data.runewords;
 
 const http = require('http');

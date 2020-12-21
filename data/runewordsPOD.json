@@ -1,0 +1,491 @@
+{
+	"runewords": [
+	  {
+		"name": "ancients pledge",
+		"runes": "Ral, Ort, Tal",
+		"items": "Shields",
+		"link": "https://diablo2.diablowiki.net/Ancients_Pledge"
+	  },
+	  {
+		"name": "beast",
+		"runes": "Ber, Tir, Um, Mal, Lum",
+		"items": "Axes/Scepters/Hammers",
+		"link": "https://diablo2.diablowiki.net/Beast"
+	  },
+	  {
+		"name": "black",
+		"runes": "Thul, Io, Nef",
+		"items": "Clubs/Hammers/Maces",
+		"link": "https://diablo2.diablowiki.net/Black"
+	  },
+	  {
+		"name": "bone",
+		"runes": "Sol, Um, Um",
+		"items": "Body Armor (Necromancer)",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Bone"
+	  },
+	  {
+		"name": "bramble",
+		"runes": "Ral, Ohm, Sur, Eth",
+		"items": "Body Armor",
+		"link": "https://diablo2.diablowiki.net/Bramble"
+	  },
+	  {
+		"name": "brand",
+		"runes": "Jah, Lo, Mal, Gul",
+		"items": "Missile Weapons",
+		"link": "https://diablo2.diablowiki.net/Brand"
+	  },
+	  {
+		"name": "breath of the dying",
+		"runes": "Vex, Hel, El, Eld, Zod, Eth",
+		"items": "Weapons",
+		"link": "https://diablo2.diablowiki.net/Breath_of_the_Dying"
+	  },
+	  {
+		"name": "call to arms",
+		"runes": "Amn, Ral, Mal, Ist, Ohm",
+		"items": "Weapons",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Call_to_Arms"
+	  },
+	  {
+		"name": "chains of honor",
+		"runes": "Dol, Um, Ber, Ist",
+		"items": "Body Armor",
+		"link": "https://diablo2.diablowiki.net/Chains_of_Honor"
+	  },
+	  {
+		"name": "chaos",
+		"runes": "Fal, Ohm, Um",
+		"items": "Claws",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Chaos"
+	  },
+	  {
+		"name": "crescent moon",
+		"runes": "Shael, Um, Tir",
+		"items": "Axes/Swords/Polearms",
+		"link": "https://diablo2.diablowiki.net/Crescent_Moon"
+	  },
+	  {
+		"name": "death",
+		"runes": "Hel, El, Vex, Ort, Gul",
+		"items": "Swords/Axes",
+		"link": "https://diablo2.diablowiki.net/Death"
+	  },
+	  {
+		"name": "delirium",
+		"runes": "Lem, Ist, Io",
+		"items": "Helms",
+		"link": "https://diablo2.diablowiki.net/Delirium"
+	  },
+	  {
+		"name": "destruction",
+		"runes": "Vex, Lo, Ber, Jah, Ko",
+		"items": "Polearms/Swords",
+		"link": "https://diablo2.diablowiki.net/Destruction"
+	  },
+	  {
+		"name": "doom",
+		"runes": "Hel, Ohm, Um, Lo, Cham",
+		"items": "Axes/Polearms/Hammers",
+		"link": "https://diablo2.diablowiki.net/Doom"
+	  },
+	  {
+		"name": "dragon",
+		"runes": "Sur, Lo, Sol",
+		"items": "Body Armor/Shields",
+		"link": "https://diablo2.diablowiki.net/Dragon"
+	  },
+	  {
+		"name": "dream",
+		"runes": "Io, Jah, Pul",
+		"items": "Helms/Shields",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Dream"
+	  },
+	  {
+		"name": "duress",
+		"runes": "Shael, Um, Thul",
+		"items": "Body Armor",
+		"link": "https://diablo2.diablowiki.net/Duress"
+	  },
+	  {
+		"name": "edge",
+		"runes": "Tir, Tal, Amn",
+		"items": "Missile Weapons",
+		"link": "https://diablo2.diablowiki.net/Edge"
+	  },
+	  {
+		"name": "enigma",
+		"runes": "Jah, Ith, Ber",
+		"items": "Body Armor",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Enigma"
+	  },
+	  {
+		"name": "enlightenment",
+		"runes": "Pul, Ral, Sol",
+		"items": "Body Armor (Sorceress)",
+		"link": "https://diablo2.diablowiki.net/Enlightenment"
+	  },
+	  {
+		"name": "eternity",
+		"runes": "Amn, Ber, Ist, Sol, Sur",
+		"items": "Melee Weapons",
+		"link": "https://diablo2.diablowiki.net/Eternity"
+	  },
+	  {
+		"name": "exile",
+		"runes": "Vex, Ohm, Ist, Dol",
+		"items": "Paladin Shields (only)",
+		"link": "https://diablo2.diablowiki.net/Exile"
+	  },
+	  {
+		"name": "faith",
+		"runes": "Ohm, Jah, Lem, Eld",
+		"items": "Missile Weapons",
+		"link": "https://diablo2.diablowiki.net/Faith"
+	  },
+	  {
+		"name": "famine",
+		"runes": "Fal, Ohm, Ort, Jah",
+		"items": "Axes/Hammers",
+		"link": "https://diablo2.diablowiki.net/Famine"
+	  },
+	  {
+		"name": "fortitude",
+		"runes": "El, Sol, Dol, Lo",
+		"items": "Weapons/Body Armor",
+		"link": "https://diablo2.diablowiki.net/Fortitude"
+	  },
+	  {
+		"name": "fury",
+		"runes": "Jah, Gul, Eth",
+		"items": "Melee Weapons",
+		"link": "https://diablo2.diablowiki.net/Fury"
+	  },
+	  {
+		"name": "gloom",
+		"runes": "Fal, Um, Pul",
+		"items": "Body Armor",
+		"link": "https://diablo2.diablowiki.net/Gloom"
+	  },
+	  {
+		"name": "grief",
+		"runes": "Eth, Tir, Lo, Mal, Ral",
+		"items": "Swords/Axes",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Grief"
+	  },
+	  {
+		"name": "hand of justice",
+		"runes": "Sur, Cham, Amn, Lo",
+		"items": "Weapons",
+		"link": "https://diablo2.diablowiki.net/Hand_of_Justice"
+	  },
+	  {
+		"name": "harmony",
+		"runes": "Tir, Ith, Sol, Ko",
+		"items": "Missile Weapons",
+		"link": "https://diablo2.diablowiki.net/Harmony"
+	  },
+	  {
+		"name": "heart of the oak",
+		"runes": "Ko, Vex, Pul, Thul",
+		"items": "Staves*/Maces",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Heart_of_the_Oak"
+	  },
+	  {
+		"name": "hoto",
+		"runes": "Ko, Vex, Pul, Thul",
+		"items": "Staves*/Maces",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Heart_of_the_Oak"
+	  },
+	  {
+		"name": "holy thunder",
+		"runes": "Eth, Ral, Ort, Tal",
+		"items": "Scepters",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Holy_Thunder"
+	  },
+	  {
+		"name": "honor",
+		"runes": "Amn, El, Ith, Tir, Sol",
+		"items": "Melee Weapons",
+		"link": "https://diablo2.diablowiki.net/Honor"
+	  },
+	  {
+		"name": "ice",
+		"runes": "Amn, Shael, Jah, Lo",
+		"items": "Missile Weapons",
+		"link": "https://diablo2.diablowiki.net/Ice"
+	  },
+	  {
+		"name": "infinity",
+		"runes": "Ber, Mal, Ber, Ist",
+		"items": "Polearms",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Infinity"
+	  },
+	  {
+		"name": "insight",
+		"runes": "Ral, Tir, Tal, Sol",
+		"items": "Polearms/Staves",
+		"link": "https://diablo2.diablowiki.net/Insight"
+	  },
+	  {
+		"name": "kings grace",
+		"runes": "Amn, Ral, Thul",
+		"items": "Swords/Scepters",
+		"link": "https://diablo2.diablowiki.net/Kings_Grace"
+	  },
+	  {
+		"name": "kingslayer",
+		"runes": "Mal, Um, Gul, Fal",
+		"items": "Swords/Axes",
+		"link": "https://diablo2.diablowiki.net/Kingslayer"
+	  },
+	  {
+		"name": "last wish",
+		"runes": "Jah, Mal, Jah, Sur, Jah, Ber",
+		"items": "Swords/Hammers/Axes",
+		"link": "https://diablo2.diablowiki.net/Last_Wish"
+	  },
+	  {
+		"name": "lawbringer",
+		"runes": "Amn, Lem, Ko",
+		"items": "Swords/Hammers/Scepter",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Lawbringer"
+	  },
+	  {
+		"name": "leaf",
+		"runes": "Tir, Ral",
+		"items": "Staves (Not Orbs/Wands)",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Leaf"
+	  },
+	  {
+		"name": "lionheart",
+		"runes": "Hel, Lum, Fal",
+		"items": "Body Armor",
+		"link": "https://diablo2.diablowiki.net/Lionheart"
+	  },
+	  {
+		"name": "lore",
+		"runes": "Ort, Sol",
+		"items": "Helms",
+		"link": "https://diablo2.diablowiki.net/Lore"
+	  },
+	  {
+		"name": "malice",
+		"runes": "Ith, El, Eth",
+		"items": "Melee Weapons",
+		"link": "https://diablo2.diablowiki.net/Malice"
+	  },
+	  {
+		"name": "melody",
+		"runes": "Shael, Ko, Nef",
+		"items": "Missile Weapons",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Melody"
+	  },
+	  {
+		"name": "memory",
+		"runes": "Lum, Io, Sol, Eth",
+		"items": "Staves (Not Orbs)",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Memory"
+	  },
+	  {
+		"name": "myth",
+		"runes": "Hel, Amn, Nef",
+		"items": "Body Armor (Barbarian)",
+		"link": "https://diablo2.diablowiki.net/Myth"
+	  },
+	  {
+		"name": "nadir",
+		"runes": "Nef, Tir",
+		"items": "Helms",
+		"link": "https://diablo2.diablowiki.net/Nadir"
+	  },
+	  {
+		"name": "oath",
+		"runes": "Shael, Pul, Mal, Lum",
+		"items": "Swords/Axes/Maces",
+		"link": "https://diablo2.diablowiki.net/Oath"
+	  },
+	  {
+		"name": "obedience",
+		"runes": "Hel, Ko, Thul, Eth, Fal",
+		"items": "Polearms",
+		"link": "https://diablo2.diablowiki.net/Obedience"
+	  },
+	  {
+		"name": "passion",
+		"runes": "Dol, Ort, Eld, Lem",
+		"items": "Weapons",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Passion"
+	  },
+	  {
+		"name": "pattern",
+		"runes": "Tal, Ort, Tir",
+		"items": "Claws",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Pattern"
+	  },
+	  {
+		"name": "peace",
+		"runes": "Shael, Thul, Amn",
+		"items": "Body Armor (Amazon)",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Peace"
+	  },
+	  {
+		"name": "phoenix",
+		"runes": "Vex, Vex, Lo, Jah",
+		"items": "Weapons/Shields",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Phoenix"
+	  },
+	  {
+		"name": "plague",
+		"runes": "Cham, Fal, Um",
+		"items": "Weapons",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Plague"
+	  },
+	  {
+		"name": "pride",
+		"runes": "Cham, Sur, Io, Lo",
+		"items": "Polearms",
+		"link": "https://diablo2.diablowiki.net/Pride"
+	  },
+	  {
+		"name": "principle",
+		"runes": "Ral, Gul, Eld",
+		"items": "Body Armor (Paladin)",
+		"link": "https://diablo2.diablowiki.net/Principle"
+	  },
+	  {
+		"name": "prudence",
+		"runes": "Mal, Tir",
+		"items": "Body Armor",
+		"link": "https://diablo2.diablowiki.net/Prudence"
+	  },
+	  {
+		"name": "radiance",
+		"runes": "Nef, Sol, Ith",
+		"items": "Helms",
+		"link": "https://diablo2.diablowiki.net/Radiance"
+	  },
+	  {
+		"name": "rain",
+		"runes": "Ort, Mal, Ith",
+		"items": "Body Armor (Druid)",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Rain"
+	  },
+	  {
+		"name": "rhyme",
+		"runes": "Shael, Eth",
+		"items": "Shields",
+		"link": "https://diablo2.diablowiki.net/Rhyme"
+	  },
+	  {
+		"name": "rift",
+		"runes": "Hel, Ko, Lem, Gul",
+		"items": "Polearms/Scepters",
+		"link": "https://diablo2.diablowiki.net/Rift"
+	  },
+	  {
+		"name": "sanctuary",
+		"runes": "Ko, Ko, Mal",
+		"items": "Shields",
+		"link": "https://diablo2.diablowiki.net/Sanctuary"
+	  },
+	  {
+		"name": "silence",
+		"runes": "Dol, Eld, Hel, Ist, Tir, Vex",
+		"items": "Weapons",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Silence"
+	  },
+	  {
+		"name": "smoke",
+		"runes": "Nef, Lum",
+		"items": "Body Armor",
+		"link": "https://diablo2.diablowiki.net/Smoke"
+	  },
+	  {
+		"name": "spirit",
+		"runes": "Tal, Thul, Ort, Amn",
+		"items": "Swords/Shields",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Spirit_.28Sword_version.29"
+	  },
+	  {
+		"name": "splendor",
+		"runes": "Eth, Lum",
+		"items": "Shields",
+		"link": "https://diablo2.diablowiki.net/Splendor"
+	  },
+	  {
+		"name": "stealth",
+		"runes": "Tal, Eth",
+		"items": "Body Armor",
+		"link": "https://diablo2.diablowiki.net/Stealth"
+	  },
+	  {
+		"name": "steel",
+		"runes": "Tir, El",
+		"items": "Swords/Axes/Maces",
+		"link": "https://diablo2.diablowiki.net/Steel"
+	  },
+	  {
+		"name": "stone",
+		"runes": "Shael, Um, Pul, Lum",
+		"items": "Body Armor",
+		"link": "https://diablo2.diablowiki.net/Stone"
+	  },
+	  {
+		"name": "strength",
+		"runes": "Amn, Tir",
+		"items": "Melee Weapons",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Strength"
+	  },
+	  {
+		"name": "treachery",
+		"runes": "Shael, Thul, Lem",
+		"items": "Body Armor (Assassin)",
+		"link": "https://diablo2.diablowiki.net/Treachery"
+	  },
+	  {
+		"name": "venom",
+		"runes": "Tal, Dol, Mal",
+		"items": "Weapons",
+		"link": "https://diablo2.diablowiki.net/Venom"
+	  },
+	  {
+		"name": "voice of reason",
+		"runes": "Lem, Ko, El, Eld",
+		"items": "Swords/Maces",
+		"link": "https://diablo2.diablowiki.net/Voice_of_Reason"
+	  },
+	  {
+		"name": "wealth",
+		"runes": "Lem, Ko, Tir",
+		"items": "Body Armor",
+		"link": "https://diablo2.diablowiki.net/Wealth"
+	  },
+	  {
+		"name": "white",
+		"runes": "Dol, Io",
+		"items": "Wand",
+		"link": "https://diablo2.diablowiki.net/White"
+	  },
+	  {
+		"name": "wind",
+		"runes": "Sur, El",
+		"items": "Melee Weapons",
+		"link": "https://diablo2.diablowiki.net/Wind"
+	  },
+	  {
+		"name": "wrath",
+		"runes": "Pul, Lum, Ber, Mal",
+		"items": "Missile Weapons",
+		"link": "https://diablo2.diablowiki.net/Wrath"
+	  },
+	  {
+		"name": "zephyr",
+		"runes": "Ort, Eth",
+		"items": "Missile Weapons",
+		"link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Zephyr"
+	  }
+	]
+  }
+  
