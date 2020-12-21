@@ -11,12 +11,13 @@ const http = require('http');
 const express = require('express');
 const app = express();
 app.use(express.json());
-// app.use(express.static("api"));
+app.use(express.static("data"));
+app.use(express.static("styles"));
 
-//READ Request Handlers
-// app.get("/", (req, res) => {
-// 	res.sendFile(__dirname + "/api/index.html");
-//   });
+// READ Request Handlers
+app.get("/", (req, res) => {
+	res.send(__dirname + 'index.html');
+  });
 
 app.get('/api/items/:items', (req, res) => {
 	const items = (pd2runewords.filter(c => c.items.toUpperCase().indexOf(req.params.items.toUpperCase()) !== -1 ));
@@ -72,4 +73,4 @@ app.get('/api/d2runewords/:name', (req, res) => {
 	}); */
 
 const port = process.env.PORT || 8080;
-app.listen(port, () => console.log(`Listening on port ${port}..`));
+app.listen(port, () => console.log(`Server running on ${port}, http://localhost:${port}`));
