@@ -7,12 +7,11 @@ podrunewords = poddata.runewords;
 let d2data = require('./data/runewordsD2.json');
 d2runewords = d2data.runewords;
 
-const http = require('http');
 const express = require('express');
 const cors = require('./cors');
 const app = express();
 
-app.use(cors.allowCors(handler));
+app.use(cors.allowCors());
 app.use(express.json());
 app.use(express.static("data"));
 app.use(express.static("styles"));
