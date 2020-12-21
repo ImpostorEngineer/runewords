@@ -1,22 +1,22 @@
-let pd2data = require('./data/runewordsPD2.json');
+let pd2data = require('../data/runewordsPD2.json');
 pd2runewords = pd2data.runewords;
 
-let poddata = require('./data/runewordsPOD.json');
+let poddata = require('../data/runewordsPOD.json');
 podrunewords = poddata.runewords;
 
-let d2data = require('./data/runewordsD2.json');
+let d2data = require('../data/runewordsD2.json');
 d2runewords = d2data.runewords;
 
 const http = require('http');
 const express = require('express');
 const app = express();
 app.use(express.json());
-app.use(express.static("api"));
+// app.use(express.static("api"));
 
 //READ Request Handlers
-app.get("/", (req, res) => {
-	res.sendFile(__dirname + "/api/index.html");
-  });
+// app.get("/", (req, res) => {
+// 	res.sendFile(__dirname + "/api/index.html");
+//   });
 
 app.get('/api/items/:items', (req, res) => {
 	const items = (pd2runewords.filter(c => c.items.toUpperCase().indexOf(req.params.items.toUpperCase()) !== -1 ));
