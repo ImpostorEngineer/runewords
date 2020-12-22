@@ -1,22 +1,68 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Test</title>
-    <link id="favicon" rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+    <title>Diablo 2 Runewords</title>
+    <link
+      id="favicon"
+      rel="icon"
+      href="/assets/favicon.ico"
+      type="image/x-icon"
+    />
     <link rel="stylesheet" href="./css/style.css" />
     <script src="./js/script.js"></script>
   </head>
   <body>
     <div id="container">
       <header>
-        <h1>This is Title</h1>
+        <h1>Diablo 2 Runewords</h1>
       </header>
       <div class="content">
-		  This is content.
-		</div>
-		<div id="message">
-			
-		</div>
+        <p>
+          This website is an API for nightbot commands. We play two mods:
+          <a href="https://pathofdiablo.com/" target="_blank">Path of Diablo</a>
+          and
+          <a href="https://www.projectdiablo2.com/" target="_blank"
+            >Project Diablo 2</a
+          >.
+        </p>
+        <h3>API Docs:</h3>
+        <ul>
+          <li>
+            Path of Diablo Runewords: <code>/api/podrw/:name</code><br />
+            For example:
+            <code>/api/podrw/Infinity</code>
+          </li>
+          <li>
+            Project Diablo 2 Runewords: <code>/api/pd2rw/:name</code><br />
+            For example:
+            <code>/api/pd2rw/Infinity</code>
+          </li>
+          <li>
+            Original D2 runewords can be fetch at:
+            <code>/api/d2runewords/:name</code><br />
+            For example:
+            <code>/api/d2rw/Infinity</code>
+          </li>
+          <li>
+            You can also search for Runes: <br />
+            <code>/api/runes/:rune</code><br />
+            
+            For example: <br />
+            <code>/api/runes/Ral</code>
+          </li>
+          <li>
+            Or Items:<br />
+            <code> /api/items/:item </code><br />
+            
+            For example: <br />
+            <code>/api/items/Sword</code>
+          </li>
+          <li>
+            See the full list of Runewords: <br />
+            <code> /api/ </code>
+          </li>
+        </ul>
+      </div>
     </div>
   </body>
 </html>

@@ -6,7 +6,7 @@
 	"main": "app/index.js",
 	"scripts": {
 	  "start": "node app/index.js",
-	  "dev": "vercel dev"
+	  "dev": "nodemon app/index.js"
 	},
 	"dependencies": {
 	  "express": "^4.17.1",
