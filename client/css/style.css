@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap');
+* {
+	margin:0;
+}
+body {
+	font-family: Roboto, sans-serif;
+	font-size: 1em;
+	background-color: gray;
+}
+h1 {
+	font-family: Oswald;
+}
+#container {
+	max-width: 800px;
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.content {
+	margin: auto;
+}
+#message {
+	margin:10px;
+	list-style: none;
+}
+li {
+	padding:3px;
+}
