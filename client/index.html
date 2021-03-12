@@ -8,6 +8,10 @@
       href="/assets/favicon.ico"
       type="image/x-icon"
     />
+    <link
+      href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="./css/style.css" />
     <script src="./js/script.js"></script>
   </head>
@@ -46,14 +50,14 @@
           <li>
             You can also search for Runes: <br />
             <code>/api/runes/:rune</code><br />
-            
+
             For example: <br />
             <code>/api/runes/Ral</code>
           </li>
           <li>
             Or Items:<br />
             <code> /api/items/:item </code><br />
-            
+
             For example: <br />
             <code>/api/items/Sword</code>
           </li>
@@ -62,6 +66,19 @@
             <code> /api/ </code>
           </li>
         </ul>
+      </div>
+      <div>
+        <div class="m-2">
+          <input
+            type="text"
+            name="rune"
+            id="rune"
+            class="p-1 mx-1"
+            placeholder="Enter Rune"
+          />
+          <button type="submit" class="bg-red-500 p-1">Search</button>
+        </div>
+        <table id="runewordsList" border="0"></table>
       </div>
     </div>
   </body>

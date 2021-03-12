@@ -1,7 +1,16 @@
-// fetch('/api/')
-// .then(response => response.json())
-// .then(text => {
-// 	for (i=0; i<text.length; i++) {
-// 		document.getElementById('message').innerHTML += "<li>" + text[i].name.toUpperCase() + ": <i>" + text[i].runes + "</i></li>";
-// 	}
-// })
+async function getData() {
+  const data = await fetch(
+    'https://runewords.vercel.app/api/podrw/'
+  ).then((response) => response.json());
+
+  for (i = 0; i < data.length; i++) {
+    document.getElementById('runewordsList').innerHTML +=
+      '<tr><td width="200px">' +
+      data[i].name.toUpperCase() +
+      ':</td> <td width="300px"><i>' +
+      data[i].runes +
+      '</i></td></tr>';
+  }
+}
+
+getData();

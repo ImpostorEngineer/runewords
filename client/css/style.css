@@ -1,11 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap');
 * {
   margin: 0;
+  padding: 0;
 }
 body {
   font-family: Roboto, sans-serif;
   font-size: 1em;
-  background-color: gray;
+  background-color: #ddd;
 }
 h1 {
   font-family: Oswald;
@@ -31,4 +32,20 @@ ul {
 }
 ul li {
   padding: 5px 0;
+}
+
+#runewordsList {
+  width: 500px;
+  /* display: grid;
+  grid-template-columns: auto auto; */
+  /* vertical-align: middle; */
+}
+
+#runewordsList td {
+  padding: 7px;
+  vertical-align: bottom;
+}
+
+#runewordsList tr:hover {
+  background-color: burlywood;
 }
