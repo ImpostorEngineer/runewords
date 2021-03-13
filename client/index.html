@@ -13,7 +13,6 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./css/style.css" />
-    <script src="./js/script.js"></script>
   </head>
   <body>
     <div id="container">
@@ -68,18 +67,23 @@
         </ul>
       </div>
       <div>
-        <div class="m-2">
+        <form action="" method="get" class="m-2">
+          <label for="searchTerm"></label>
           <input
+            size="50"
             type="text"
-            name="rune"
-            id="rune"
+            name="searchTerm"
+            id="searchTerm"
             class="p-1 mx-1"
-            placeholder="Enter Rune"
+            placeholder="Enter Runeword"
           />
-          <button type="submit" class="bg-red-500 p-1">Search</button>
-        </div>
+          <button type="submit" class="bg-red-500 p-1" onclick="">
+            Search
+          </button>
+        </form>
         <table id="runewordsList" border="0"></table>
       </div>
     </div>
+    <script src="./js/script.js"></script>
   </body>
 </html>

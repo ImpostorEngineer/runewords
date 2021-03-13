@@ -1,16 +1,28 @@
-async function getData() {
-  const data = await fetch(
-    'https://runewords.vercel.app/api/podrw/'
-  ).then((response) => response.json());
+const form = document.querySelector('form');
+const input = document.querySelector('input');
+form.addEventListener('submit', formSubmitted);
+
+function formSubmitted(event) {
+  event.preventDefault();
+  document.getElementById('runewordsList').innerHTML = '';
+  const searchTerm = input.value;
+  searchRunewords(searchTerm);
+}
+
+async function searchRunewords(searchTerm) {
+  const url = 'https://runewords.vercel.app/api/podrw/' + searchTerm;
+  const data = await fetch(url).then((response) => response.json());
 
   for (i = 0; i < data.length; i++) {
     document.getElementById('runewordsList').innerHTML +=
-      '<tr><td width="200px">' +
+      '<tr><td width=""><b>' +
       data[i].name.toUpperCase() +
-      ':</td> <td width="300px"><i>' +
+      '</b></td> <td width=""><i>' +
       data[i].runes +
-      '</i></td></tr>';
+      '</i></td><td width=""><a href="' +
+      data[i].link +
+      '" target="_blank">' +
+      data[i].items +
+      '</a></td></tr>';
   }
 }
-
-getData();

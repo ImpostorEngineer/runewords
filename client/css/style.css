@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto:wght@400;700&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -16,6 +16,16 @@ h1 {
 h3 {
   margin: 10px 0;
 }
+a:hover {
+  font-weight: 700;
+  color: #900;
+}
+
+#runewordsList a:hover {
+  font-weight: 700;
+  color: rgb(255, 230, 0);
+}
+
 #container {
   max-width: 800px;
   margin: 10px auto;
@@ -36,7 +46,7 @@ ul li {
 }
 
 #runewordsList {
-  width: 500px;
+  width: 700px;
   /* display: grid;
   grid-template-columns: auto auto; */
   /* vertical-align: middle; */
@@ -48,5 +58,6 @@ ul li {
 }
 
 #runewordsList tr:hover {
-  background-color: burlywood;
+  background-color: #600;
+  color: #fff;
 }
