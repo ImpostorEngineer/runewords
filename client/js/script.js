@@ -26,3 +26,9 @@ async function searchRunewords(searchTerm) {
       '</a></td></tr>';
   }
 }
+
+function sortItems(data) {
+  data.sort((a, b) => {
+    return a.items === b.items ? 0 : a.items > b.items ? 1 : -1;
+  });
+}
