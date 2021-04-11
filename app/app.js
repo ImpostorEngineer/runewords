@@ -16,7 +16,9 @@ const goldURL = 'https://www.goldapi.io/api/XAU/USD/';
 const silverURL = 'https://www.goldapi.io/api/XAG/USD/';
 
 const exURL =
-  'https://api.exchangeratesapi.io/latest?base=TRY&symbols=USD,EUR,GBP,NOK';
+  'http://api.exchangeratesapi.io/v1/latest?access_key=' +
+  process.env.EXCHANGE_API_KEY +
+  '&symbols=TRY,USD,EUR,GBP,NOK';
 const kinaURL =
   'https://fcsapi.com/api-v3/forex/latest?symbol=USD/PGK,USD/TRY&access_key=' +
   process.env.KINA_API_KEY;
@@ -44,10 +46,16 @@ async function getMetals() {
 
 async function getExchange() {
   const exResponse = await axios.get(exURL);
-  const dolar = Math.floor((1 / exResponse.data.rates.USD) * 100) / 100;
-  const euro = Math.floor((1 / exResponse.data.rates.EUR) * 100) / 100;
-  const gbp = Math.floor((1 / exResponse.data.rates.GBP) * 100) / 100;
-  const kron = Math.floor((1 / exResponse.data.rates.NOK) * 100) / 100;
+  const dolar =
+    Math.floor((exResponse.data.rates.TRY / exResponse.data.rates.USD) * 100) /
+    100;
+  const euro = Math.floor(exResponse.data.rates.TRY * 100) / 100;
+  const gbp =
+    Math.floor((exResponse.data.rates.TRY / exResponse.data.rates.GBP) * 100) /
+    100;
+  const kron =
+    Math.floor((exResponse.data.rates.TRY / exResponse.data.rates.NOK) * 100) /
+    100;
   piyasa.dolar = dolar;
   piyasa.euro = euro;
   piyasa.gbp = gbp;
