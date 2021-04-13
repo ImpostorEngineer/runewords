@@ -12,8 +12,8 @@ const podrw = poddata.runewords;
 const d2data = require('../data/runewordsD2.json');
 const d2rw = d2data.runewords;
 
-const goldURL = 'https://www.goldapi.io/api/XAU/USD/';
-const silverURL = 'https://www.goldapi.io/api/XAG/USD/';
+const goldURL = 'https://query1.finance.yahoo.com/v8/finance/chart/GC=F';
+const silverURL = 'https://query1.finance.yahoo.com/v8/finance/chart/SI=F';
 
 const exURL =
   'http://api.exchangeratesapi.io/v1/latest?access_key=' +
@@ -25,21 +25,11 @@ const coinURL = 'https://api.blockchain.com/v3/exchange/tickers';
 let piyasa = {};
 
 async function getMetals() {
-  const goldResponse = await axios.get(goldURL, {
-    headers: {
-      'x-access-token': process.env.METALS_API_KEY,
-      'Content-Type': 'application/json',
-    },
-  });
-  const silverResponse = await axios.get(silverURL, {
-    headers: {
-      'x-access-token': process.env.METALS_API_KEY,
-      'Content-Type': 'application/json',
-    },
-  });
+  const goldResponse = await axios.get(goldURL);
+  const silverResponse = await axios.get(silverURL);
 
-  piyasa.Gold = goldResponse.data.price;
-  piyasa.Silver = silverResponse.data.price;
+  piyasa.Gold = goldResponse.data.chart.result[0].meta.regularMarketPrice;
+  piyasa.Silver = silverResponse.data.chart.result[0].meta.regularMarketPrice;
 }
 
 async function getExchange() {
