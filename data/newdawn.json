@@ -1,0 +1,3415 @@
+{
+  "runewords": [
+    {
+      "name": "DESIRE",
+      "runes": "El + Tir + El",
+      "level": "13",
+      "mods": [
+        "30% - 50% Enhanced Damage",
+        "30% - 50% Enhanced Defense",
+        "30 Defense (armors) or 100 Attack rating (weapons)",
+        "+2 Mana per Kill",
+        "5 to All Attributes",
+        "20% - 25% Magic Find",
+        "+2 Light radius"
+      ],
+      "item": "any item"
+    },
+    {
+      "name": "PASSION",
+      "runes": "Nef + Eld + Ral",
+      "level": "19",
+      "mods": [
+        "20% Faster Hit Recovery",
+        "1% - 3% Experience Gained",
+        "20 - 25 Life",
+        "3 - 5 life After each Killed",
+        "+2 Mana per Kill",
+        "15% Increased Run/Walk",
+        "+ Mods from the 3 Runes (varies based on item type)"
+      ],
+      "item": "any item"
+    },
+    {
+      "name": "Prayer",
+      "runes": "Hel + Eth + Thul",
+      "level": "30",
+      "mods": [
+        "Level 10 - 14 Prayer Aura when Equipped",
+        "20% Increased Attack Speed",
+        "20% - 30% Increased Chance of Blocking Block",
+        "Adds 10 - 30 Damage",
+        "Adds 50 - 100 Defense",
+        "15% - 25% All Resistance",
+        "+ Mods from the 3 Runes (Varies based on item type)"
+      ],
+      "item": "any item"
+    },
+    {
+      "name": "FORTUNE'S FAVOR ",
+      "runes": "Fal + Dol",
+      "level": "46",
+      "mods": [
+        "Magic Find Based on Character Level % per level)",
+        "200% Extra Gold from Monsters",
+        "30 - 50 Life",
+        "10 Strength",
+        "10 Vitality",
+        "+1 All Skills",
+        "10% All Resistance"
+      ],
+      "item": "any item"
+    },
+    {
+      "name": "FORTITUDE",
+      "runes": "El + Sol + Dol + Lo",
+      "level": "59",
+      "mods": [
+        "20% Chance to Cast Level 15 Chilling Armor When Struck",
+        "25% Faster Cast Rate",
+        "300% Enhanced Damage",
+        "200% Enhanced Defense",
+        "Life Based on Character Level (+1 per level)",
+        "25% - 30% All Resistances",
+        "+ Mods from the 4 Runes (varies based on item type)"
+      ],
+      "item": "any item"
+    },
+    {
+      "name": "BLOOD",
+      "runes": "Mal + Shael",
+      "level": "67",
+      "mods": [
+        "+2 All Skills",
+        "200% - 250% Enhanced Damage",
+        "125 - 175 Defense",
+        "Increase Maximum Life by 10% - 15%",
+        "Damage reduced by 10% - 15%",
+        "+ Mods from the 3 Runes (varies based on item type)"
+      ],
+      "item": "any item"
+    },
+    {
+      "name": "STARLIGHT",
+      "runes": "Zod + Hel + Ist + El",
+      "level": "89",
+      "mods": [
+        "Indestructable",
+        "+3 All Skills",
+        "20% Faster Hit Recovery",
+        "Adds 35 - 140 Damage",
+        "Adds 100% - 200% Enhanced Defense",
+        "150% - 330% Magic Find",
+        "-100% Requirements."
+      ],
+      "item": "any item"
+    },
+    {
+      "name": "PENITENCE",
+      "runes": "Ith + Tir",
+      "level": "15",
+      "mods": [
+        "15% Faster Hit Recovery",
+        "15% Faster Block rate",
+        "Half-Freeze Duration",
+        "Poison Duration Reduced by 50%",
+        "+2 Mana per Kill",
+        "15% Damage Goes to Mana",
+        "Replenish Durability"
+      ],
+      "item": "any armor"
+    },
+    {
+      "name": "DWEOMER",
+      "runes": "Thul + Eld",
+      "level": "26",
+      "mods": [
+        "+1 Sorceress Skill levels",
+        "15% Faster Cast Rate",
+        "50 - 75 mana",
+        "Regenerate Mana 60% - 70%",
+        "15% Slower Stamina Drain",
+        "5% - 10% Magic Resistance",
+        "30% Cold Resistance",
+        "1% - 3% to Experience Gained."
+      ],
+      "item": "any armor"
+    },
+    {
+      "name": "MADNESS",
+      "runes": "Io + Eth + Dol",
+      "level": "36",
+      "mods": [
+        "9% Chance to Cast Level 5 Confusion When Struck",
+        "12% Chance to Cast Level 16 Terror on Striking",
+        "+1 All Skills",
+        "15% Increased Attack Speed",
+        "15% faster Block rate",
+        "10 Vitality",
+        "35 - 50 Life",
+        "Replenish Life +7",
+        "Regenerate Mana 15%."
+      ],
+      "item": "any armor"
+    },
+    {
+      "name": "VOICE",
+      "runes": "Um + Ith + Amn + Hel",
+      "level": "48",
+      "mods": [
+        "10% - 15% Cold Skill Damage",
+        "10% - 15% Fire Skill Damage",
+        "10% - 15% Lightning Skill Damage",
+        "Hit Causes Monster to Flee 60%",
+        "Mana based on Character Level (+1 per Level)",
+        "22% - 32% All Resistances",
+        "Attacker Takes Damage of 14",
+        "15% Damage goes to Mana",
+        "-15% Requirements."
+      ],
+      "item": "any armor"
+    },
+    {
+      "name": "DRAGON",
+      "runes": "Sur + Lo + Sol",
+      "level": "61",
+      "mods": [
+        "20% Chance to Cast Level 18 Venom when Struck",
+        "12% Chance to Cast Level 15 Hydra when Struck",
+        "Level 14 Holy Fire Aura when Equipped",
+        "360 Defense",
+        "3-5 to All Stats",
+        "Strength based on Character Level (.375 per Character Level)",
+        "50 Mana",
+        "+5% to maximum Lightning Resistance",
+        "Damage reduced by 7."
+      ],
+      "item": "any armor"
+    },
+    {
+      "name": "KNIGHT'S VIGIL ",
+      "runes": "Ber + Lem + Um + Ist",
+      "level": "75",
+      "mods": [
+        "Level 8 - 12 Meditation Aura when Equipped",
+        "+2 Paladin Skills",
+        "40% Faster Cast Rate",
+        "20% Faster Block Rate",
+        "20% - 25% Increased Chance to Block",
+        "Replenish Life 10 - 15",
+        "15% / 22% All Resistance",
+        "8% Damage Reduced",
+        "50% Extra Gold from Monsters",
+        "25% Magic Find."
+      ],
+      "item": "any armor"
+    },
+    {
+      "name": "TIME",
+      "runes": "Jah + Amn",
+      "level": "85",
+      "mods": [
+        "100% Chance to Cast Level 25 Nova when Struck",
+        "Level 1 Teleport",
+        "Prevent Monster Heal",
+        "160% - 220% Enhanced Defense",
+        "35 - 100 Life",
+        "10% - 25% Increased Maximum Life",
+        "Attacker Takes Damage of 14."
+      ],
+      "item": "any armor"
+    },
+    {
+      "name": "STEALTH",
+      "runes": "Tal + Eth",
+      "level": "17",
+      "mods": [
+        "25% Faster Run/Walk",
+        "25% Faster Cast Rate",
+        "25% faster Hit Recovery",
+        "+6 Dexterity",
+        "15% Faster Mana Regeneration",
+        "+15 to Maximum Stamin",
+        "30% Poison Resistance",
+        "Magic Damage Reduced by 3."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "YOUTH",
+      "runes": "Ort + Eth",
+      "level": "21",
+      "mods": [
+        "9% Chance to Cast Level 4 Weaken on Striking",
+        "90% - 120% Enhanced Defense",
+        "Replenish Life +8",
+        "Regenerate Mana 100%",
+        "30% - 35% All Resistances."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "DREAD",
+      "runes": "Dol + El + Ith",
+      "level": "32",
+      "mods": [
+        "13% Chance to Cast Level 13 Charged Bolt on Striking",
+        "20% Faster Run/Walk",
+        "100% - 125% Enhanced Defense",
+        "+15 Defense",
+        "Strength & Dexterity Based on Character Level (.50 per Level)",
+        "Replenish Life +7",
+        "6 - 8 Life after Every Kill",
+        "15% Damage Taken goes to Mana",
+        "+1 Light Radius."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "SMOKE",
+      "runes": "Nef + Lum",
+      "level": "37",
+      "mods": [
+        "25% Faster Hit Recovery",
+        "75% Enhanced Defense",
+        "+280 Defense vs. Missiles",
+        "10 Energy",
+        "50% All Resistances",
+        "-1 Light Radius",
+        "18 Charges of Level 6 Weaken."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "LIONHEART",
+      "runes": "Hel + Lum + Fal",
+      "level": "41",
+      "mods": [
+        "20% Enhanced Damage",
+        "25 Strength",
+        "20 Vitality",
+        "15 Dexterity",
+        "10 Energy",
+        "50 Life",
+        "30% All Resistances",
+        "-15% Requirements."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "WEALTH",
+      "runes": "Lem + Ko + Tir",
+      "level": "43",
+      "mods": ["10 Dexterity", "+2 Mana Per Kill", "+300% More Gold from Monsters", "+100% Magic Find."],
+      "item": "body armor"
+    },
+    {
+      "name": "STONE",
+      "runes": "Shael + Um + Pul + Lum",
+      "level": "47",
+      "mods": [
+        "60% Faster Hit Recovery",
+        "220% - 260% Increased Defense",
+        "300 Defense vs. Missiles",
+        "16 Strength",
+        "16 Vitality",
+        "10 Energy",
+        "15% All Resistances",
+        "80 Charges of Level 16 Molton Bolder",
+        "16 Charges of Level 16 Clay Golem."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "GLOOM",
+      "runes": "Fal + Um + Pul",
+      "level": "47",
+      "mods": [
+        "15% Chance to Cast Level 3 Dim Vision when Struck",
+        "10% Fater Hit Recovery",
+        "170% - 230% Enhanced Defense",
+        "10 Strength",
+        "45% All Resistances",
+        "Half-Freeze Duration",
+        "5% Damage taken Goes to Mana",
+        "-3 Light Radius."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "DURESS",
+      "runes": "Shael + Um + Thul",
+      "level": "47",
+      "mods": [
+        "40% Faster Hit Recovery",
+        "10% - 20% Enhanced Damage",
+        "37 - 133 Cold Damage  Second Duration)",
+        "15% Chance of Crushing Blow",
+        "33% Chance of Open Wounds",
+        "150% - 200% Enhanced Defense",
+        "-20% Slower Stamina Drain",
+        "15% All Resistances 5% Cold Resistances)."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "PRUDENCE",
+      "runes": "Mal + Tir",
+      "level": "49",
+      "mods": [
+        "25% Faster Hit Recovery",
+        "140% - 170% Enhanced Defense",
+        "25% - 35% All Resistances",
+        "Damage Reduced by 3",
+        "Magic Damage Reduced by 17",
+        "+2 Mana Per Kill",
+        "+1 Light Radius",
+        "Replenish Durability."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "Glory",
+      "runes": "Ist + Ist + Ist + Ist",
+      "level": "51",
+      "mods": [
+        "+2 All Skills",
+        "25% Faster Hit Recovery",
+        "35% faster Cast Rate",
+        "75% - 125% Enhanced Defense",
+        "Increased maximum Life 25%",
+        "Increased maximum Mana 25%",
+        "100% Magic Find",
+        "-30% Requirements."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "FLICKERING FLAMES ",
+      "runes": "Vex + Ral + Ko",
+      "level": "55",
+      "mods": [
+        "20% Chance to Cast Level 19 Fireball When Struck",
+        "8% Chance to Cast Level 13 Fissure on Striking",
+        "Level 17 Holy Fire Aura when Equipped",
+        "15% - 20% Extra Fire Skill Damage",
+        "-15% - -20% Enemy Fire Resistance",
+        "10 Dexterity",
+        "5% to Maximum Fire Resistance",
+        "30% Fire Resistance",
+        "15% - 20% Fire Absorb",
+        "+5 Light Radius."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "MIDNIGHT BLOOM ",
+      "runes": "Hel + Lo + Ohm",
+      "level": "59",
+      "mods": [
+        "+ Defense (Increased During Nighttime from 1 - 500)",
+        "+ Vitality (Increased During Nighttime 1 - 50)",
+        "+ Energy (Increased During Nighttime from 1 - 25)",
+        "+ Maximum Damage (Increased During Nighttime 1 - 75)",
+        "+ Extra Gold from Monsters (Increased During Nighttime from 1% - 300%)",
+        "+ Magic Find (Increased During Nighttime from 1% - 300%) ",
+        "150% - 300% Enhanced Defense",
+        "+5% maximum Cold & Lightning Resistance",
+        "-15% Requirements."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "BRAMBLE",
+      "runes": "Ral + Ohm + Sur + Eth",
+      "level": "61",
+      "mods": [
+        "Level 15 Thorns Aura when Equipped",
+        "50% Faster Hit Recovery",
+        "+44% to Poison Skill Damage",
+        "+300 Defense",
+        "Increased maximum Mana by 5%",
+        "Regenerate Mana 15%",
+        "5% to Maximum Cold Resistance",
+        "30% Fire Resistance",
+        "100% Poison Resistance",
+        "+13 Life after Every Kill",
+        "33 Charges of Level 13 Spirit of Barbs."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "TRUST",
+      "runes": "Amn + Ohm + Fal",
+      "level": "62",
+      "mods": [
+        "100% Chance to Cast Level 57 Nova When You Die",
+        "+1 All Skills",
+        "20% Increased Attack Speed",
+        "Adds 15 - 30 Damage",
+        "125% - 200% Improved Defense",
+        "10 Strength",
+        "75 - 100 Life",
+        "+5% to Maximum Cold Resistance",
+        "Attacker Takes 14 Damage"
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "CHAINS OF HONOR",
+      "runes": "Dol + Um + Ber + Ist",
+      "level": "63",
+      "mods": [
+        "+2 All Skills",
+        "200% Damage to Demons",
+        "100% Damage to Undead",
+        "8% Life Leech",
+        "70% Enhanced Defense",
+        "20 Strength",
+        "Replenish Life +7",
+        "65% All Resistances",
+        "8% Damage reduced",
+        "25% Magic Find."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "ENIGMA",
+      "runes": "Jah + Ith + Ber",
+      "level": "65",
+      "mods": [
+        "+2 All Skills",
+        "45% Faster Run/Walk",
+        "Level 1 Teleport",
+        "+750 - 775 Defense",
+        "Strength (based on Character Level .75 per level)",
+        "Increased Maximum Life by 5%",
+        "8% Damage Reduced",
+        "14 Life after Every Kill",
+        "15% Damage Taken Goes to Mana",
+        "Magic Find (Based on Character Level ",
+        "1% per level)."
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "WOE",
+      "runes": "Cham + Tir + Shael",
+      "level": "75",
+      "mods": [
+        "25% Chance to Cast Level 25 Blizzard When Struck",
+        "25% Chance to Cast Level 25 Chain Lightning When Struck",
+        "25% Chance to Cast Level 25 Fireball When Struck",
+        "+2 All Skills",
+        "20% Faster Hit Recovery",
+        "25 to All Attributes",
+        "Cannot be Frozen",
+        "Poison Length reduced by 80%",
+        "+2 Mana per Kill"
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "HUMILITY",
+      "runes": "Zod + Um + Ith + Cham",
+      "level": "86",
+      "mods": [
+        "Indestructable",
+        "Level 5 - 7 Salvation Aura when Equipped",
+        "Level 10 - 15 Shout",
+        "Level 10 - 15 Battle Orders",
+        "Level 10 - 15 Battle Commands",
+        "Level 10 - 15 Shiver Armor",
+        "Level 10 - 15 Valkyrie",
+        "15% All Resistances",
+        "Cannot Be Frozen",
+        "15% Damage Taken goes to Mana"
+      ],
+      "item": "body armor"
+    },
+    {
+      "name": "NADIR",
+      "runes": "Nef + Tir",
+      "level": "13",
+      "mods": [
+        "50% Enhanced Defense",
+        "+10 Defense",
+        "+30 Defense vs. Missiles",
+        "5 Strength",
+        "+2 Mana per Kill",
+        "-33% Less Gold From Monsters",
+        "-3 Light Radius",
+        "9 Charges of Level 13 Cloak of Shadows."
+      ],
+      "item": "helm"
+    },
+    {
+      "name": "LORE",
+      "runes": "Ort + Sol",
+      "level": "27",
+      "mods": [
+        "+1 All Skills",
+        "10 Energy",
+        "30% Lightning Resistance",
+        "Damage Reduced by 7",
+        "+2 Mana per KIll",
+        "+2 Light Radius."
+      ],
+      "item": "helm"
+    },
+    {
+      "name": "RADIANCE",
+      "runes": "Nef + Sol + Ith",
+      "level": "27",
+      "mods": [
+        "75% Enhanced Defense",
+        "30 Defense vs. Missiles",
+        "10 Vitality",
+        "10 Energy",
+        "33 Mana",
+        "Damage Reduced by 7",
+        "Magic damage Reduced by 3",
+        "15% Damage Taken Goes to mana",
+        "+5 Light Radius."
+      ],
+      "item": "helm"
+    },
+    {
+      "name": "WAR",
+      "runes": "Io + Hel",
+      "level": "35",
+      "mods": [
+        "30% Increased Attack Speed",
+        "25% Faster Hit Recovery",
+        "35% - 50% Enhanced Damage",
+        "Ignore targets Defense",
+        "Prevents Monster Heal",
+        "100% - 140% Increased Defense",
+        "10 Vitality",
+        "20% - 25% Damage Reduced",
+        "-15% Requirements."
+      ],
+      "item": "helm"
+    },
+    {
+      "name": "PIETY",
+      "runes": "Lem + Nef + Shael",
+      "level": "43",
+      "mods": [
+        "+1 All Skills",
+        "20% Faster Cast Rate",
+        "20% Faster Hit Recovery",
+        "90% - 125% Enhanced Defense",
+        "+30 Defense vs. Missiles",
+        "20 Energy",
+        "Mana Based on Character Level (1 per level)",
+        "15% - 25% All Resistance",
+        "15% - 25% Magic Resistance",
+        "50% Extra Gold from Monsters."
+      ],
+      "item": "helm"
+    },
+    {
+      "name": "DELIRIUM",
+      "runes": "Lem + Ist + Io",
+      "level": "51",
+      "mods": [
+        "1% Chance to Cast Level 50 Delirium when Struck",
+        "6% chance to Cast Level 14 Mind Blast When Struck",
+        "14% Chance to Cast Level 13 Terror When Struck",
+        "11% Chance to cast Level 18 Confusion when Struck",
+        "+2 All Skills",
+        "261 Defense",
+        "10 Vitality",
+        "50% Extra Gold from Monsters",
+        "25% magic Find",
+        "60 Charges of Level 17 Attract."
+      ],
+      "item": "helm"
+    },
+    {
+      "name": "DREAM",
+      "runes": "Io + Jah + Pul",
+      "level": "65",
+      "mods": [
+        "10% Chance to Cast Level 15 Confuse when Struck",
+        "Level 15 Holy Shock Aura when Equipped",
+        "20% - 30% Faster Hit Recovery",
+        "30% Enhanced Defense",
+        "150 - 220 Defense",
+        "10 Vitality",
+        "Increase Maximum Life +5%",
+        "Mana based On Character Level /8th per level)",
+        "5% - 20% All Resistance",
+        "15 - 25 Magic Find."
+      ],
+      "item": "helm"
+    },
+    {
+      "name": "Authority",
+      "runes": "Cham + Zod + Ber",
+      "level": "81",
+      "mods": [
+        "16% Chance to Cast Level 9 Weaken on Striking",
+        "Indestructable",
+        "+2 All Skills",
+        "25% Deadly Strike",
+        "20% Slows Target",
+        "160% - 200% Enhanced Defense",
+        "8% Damage reduced",
+        "Cannot be Frozen",
+        "Magic Find Based on Character Level (1.5 per level)."
+      ],
+      "item": "helm"
+    },
+    {
+      "name": "VOID",
+      "runes": "Sol + Amn",
+      "level": "27",
+      "mods": [
+        "+1 Barbarian Skills",
+        "25% Faster Run/Walk",
+        "25% Faster Hit Recovery",
+        "Adds 10 - 15 Maximum Damage",
+        "3% - 6% Mana Leech",
+        "3% - 6% Life Leech",
+        "50 Life",
+        "Damage Reduced by 7",
+        "Attacker Takes 14 Damagei"
+      ],
+      "item": "barbarian helm"
+    },
+    {
+      "name": "OBLIVION",
+      "runes": "Um + Fal + Ko",
+      "level": "47",
+      "mods": [
+        "Crushing Blow from 1% - 100% (Increases Near Dawn)",
+        "12% Chance to Cast Level 9 Amplify Damage on Striking",
+        "+2 Barbarian Skills",
+        "20% Increased Attack Speed",
+        "+3 to Random Barbarian Skill (Barbarian Only)",
+        "115% - 160% Enhanced Defense ",
+        "10 Strength",
+        "10 Dexterity",
+        "Life Based on Character Level (1.5 per Level)",
+        "15% All Resistance.  "
+      ],
+      "item": "barbarian helm"
+    },
+    {
+      "name": "PROWESS IN BATTLE",
+      "runes": "Jah + Ist + Fal",
+      "level": "75",
+      "mods": [
+        "Level 6 Fanatacism Aura when Equipped",
+        "+3 Barbarian Skill",
+        "40% faster Hit Recovery",
+        "100% Enhanced Damage",
+        "50% Bonus to Attack rating",
+        "Defense Based on Character Level (+3 per Level)",
+        "10 Strength",
+        "Increases maximum Life +5%",
+        "25% Magic Find."
+      ],
+      "item": "barbarian helm"
+    },
+    {
+      "name": "NATURE'S KINGDOM ",
+      "runes": "Amn + Ith",
+      "level": "25",
+      "mods": [
+        "+1 Druid Skills",
+        "20% Faster Cast Rate",
+        "75% - 100% Enhanced Defense",
+        "10 to All Attributes",
+        "40 - 60 Mana",
+        "20% All Resistance",
+        "Attacker Takes Damage of 14",
+        "15% Damage Goes to Mana."
+      ],
+      "item": "druid helm"
+    },
+    {
+      "name": "ENLIGHTENMENT",
+      "runes": "Tir + Um + Lum",
+      "level": "47",
+      "mods": [
+        "30% Chance to Cast Level 20 Cyclone Armor When Struck",
+        "+3 to Elemental Skill Tree",
+        "+2 Druid Skills",
+        "20% Faster Block Rate",
+        "+3 to Random Druid Skill (Druid Only)",
+        "10 Energy",
+        "75% faster Mana Regeneration",
+        "15% All Resistance",
+        "20% - 25% Damage Reduced",
+        "+2 Mana per Kill."
+      ],
+      "item": "druid helm"
+    },
+    {
+      "name": "MYSTERY",
+      "runes": "Shael + Zod + Gul",
+      "level": "69",
+      "mods": [
+        "Indestructable",
+        "Level 6 Concentration Aura when Equipped",
+        "+3 Druid Skills",
+        "20% Increased Attack Speed",
+        "20% Faster Hit Recovery",
+        "Increased maximum Life by 15%",
+        "Increase Maximum Mana by 15%",
+        "Increase Maximum Poison Resistance by 5%",
+        "30% - 50% All Resistance",
+        "+3% to Experience Gained."
+      ],
+      "item": "druid helm"
+    },
+    {
+      "name": "SIREN'S CALL ",
+      "runes": "Lem + Shael",
+      "level": "43",
+      "mods": [
+        "44% Chance to Cast Level 3 Confuse when Struck",
+        "+2 All Skills",
+        "25% Faster Cast Rate",
+        "20% Faster Hit Recovery",
+        "Defense Based on Character Level (1 per Level)",
+        "10 - 20 All Attributes",
+        "Increased Maximum Mana 40%",
+        "50% extra Gold from Monsters",
+        "30% - 50% magic Find"
+      ],
+      "item": "circlet"
+    },
+    {
+      "name": "RAIN",
+      "runes": "Ber + Cham + Ber",
+      "level": "89",
+      "mods": [
+        "+4 All Skills",
+        "25 to All Attributes",
+        "100 - 150 Life",
+        "Replenish Life +20",
+        "60 - 100 Mana",
+        "Regenerate Mana 100%",
+        "Damage Reduced by 16%",
+        "Cannot Be Frozen."
+      ],
+      "item": "circlet"
+    },
+    {
+      "name": "CHANCE",
+      "runes": "Eth + Ith + Tir",
+      "level": "15",
+      "mods": [
+        "15% faster Cast Rate",
+        "20% Faster Block Rate",
+        "15% Increased Chance of Blocking",
+        "25 Mana",
+        "15% Faster Mana Regeneration",
+        "+2 Mana per Kill",
+        "15% Damage Goes to Mana",
+        "75% extra Gold from Monsters",
+        "20% - 30% Magic Find."
+      ],
+      "item": "shield"
+    },
+    {
+      "name": "ANCIENTS' PLEDGE ",
+      "runes": "Ral + Ort + Tal",
+      "level": "21",
+      "mods": ["50% Enhanced Defense", "48% All Resistances", "10% Damage taken Goes to Mana."],
+      "item": "shield"
+    },
+    {
+      "name": "SPIRIT",
+      "runes": "Tal + Thul + Ort + Amn",
+      "level": "25",
+      "mods": [
+        "+2 All Skills",
+        "25% - 35% Faster Cast Rate",
+        "55% Faster Hit Recovery",
+        "22 Vitality",
+        "82-112 Mana",
+        "35% Resistance to Lightning ",
+        "Cold ",
+        "Poison",
+        "+3 magic Absorb",
+        "Attacker takes 14 Damage."
+      ],
+      "item": "shield"
+    },
+    {
+      "name": "RHYME",
+      "runes": "Shael + Eth",
+      "level": "29",
+      "mods": [
+        "40% Faster Block Rate",
+        "20% Increased Chance of Blocking",
+        "Regenerate Mana 15%",
+        "25% All Resistances",
+        "Cannot Be Frozen",
+        "50% Extra Gold From Monsters",
+        "25% Magic Find."
+      ],
+      "item": "shield"
+    },
+    {
+      "name": "HUNGER",
+      "runes": "Amn + Hel",
+      "level": "33",
+      "mods": [
+        "15% - 30% Increased Chance to Block",
+        "5% Life Leech",
+        "Drains Life -1",
+        "20% Magic Resistance",
+        "20% All Resistance",
+        "10% - 15% Damage Reduced",
+        "Attacker Takes Damage of 14",
+        "-15% Requirements."
+      ],
+      "item": "shield"
+    },
+    {
+      "name": "SPLENDOR",
+      "runes": "Eth + Lum",
+      "level": "37",
+      "mods": [
+        "+1 All Skills",
+        "10% Faster Cast Rate",
+        "20% Faster Block Rate",
+        "60% - 100% Enhanced defense",
+        "10 Energy",
+        "15% Mana Regeneration",
+        "50% Extra Gold from Monsters",
+        "20% Magic Find",
+        "+3 Light Radius."
+      ],
+      "item": "shield"
+    },
+    {
+      "name": "SANCTUARY",
+      "runes": "Ko + Ko + Mal",
+      "level": "49",
+      "mods": [
+        "20% Faster Block Rate",
+        "20% Increased Chance of Blocking",
+        "20% Faster Hit Recovery",
+        "135% Enhanced Defense",
+        "+250 Defense vs. Missiles",
+        "20 Dexterity",
+        "50% - 70% All Resistances",
+        "Magic Damage Reduced by 7",
+        "60 Charges of Level 12 Slow Missiles."
+      ],
+      "item": "shield"
+    },
+    {
+      "name": "LOYALTY",
+      "runes": "Vex + Dol",
+      "level": "55",
+      "mods": [
+        "Level 5 - 9 Thorns Aura when Equipped",
+        "35% - 50% Increased Chance to Block",
+        "Replenish Life +7",
+        "+5% to Maximum All Resistances",
+        "100% All Resistances",
+        "+6% to Experience Gained."
+      ],
+      "item": "shield"
+    },
+    {
+      "name": "DREAM",
+      "runes": "Io + Jah + Pul",
+      "level": "65",
+      "mods": [
+        "10% Chance to Cast Level 15 Confuse when Struck",
+        "Level 15 Holy Shock Aura when Equipped",
+        "20% - 30% Faster Hit Recovery",
+        "30% Enhanced Defense",
+        "150 - 220 Defense",
+        "10 Vitality",
+        "50 Life",
+        "Mana based On Character Level /8th per level)",
+        "5 - 20 All Resistance",
+        "15 - 25 Magic Find."
+      ],
+      "item": "shield"
+    },
+    {
+      "name": "PHOENIX",
+      "runes": "Vex + Vex + Lo + Jah",
+      "level": "65",
+      "mods": [
+        "100% Chance to Cast Level 40 Blaze on Leveling Up",
+        "40% Chance to Cast Level 22 Firestorm on Striking",
+        "Level 13 Redemption Aura when Equipped",
+        "350% - 400% Enhanced Damage",
+        "-28% to Enemies Fire Resistance",
+        "350 - 400 Defense vs. Missiles",
+        "50 Life",
+        "+5% Maximum Lightning Resistance",
+        "+10% Maximum Fire Resistance",
+        "Absorbs 15 - 21 Fire Damage."
+      ],
+      "item": "shield"
+    },
+    {
+      "name": "PURITY",
+      "runes": "Jah + Ist + Shael + Zod",
+      "level": "69",
+      "mods": [
+        "10% Chance to Cast Level 9 Bone Armor when Struck",
+        "35% Chance to cast Level 8 Dim Vision on Striking",
+        "Indestructable",
+        "50% Faster Hit Recovery",
+        "20% Faster Block Rate",
+        "55% Increased Chance of Blocking",
+        "Defense Based on Character Level (+4 per Level)",
+        "50 Life",
+        "30% - 50% All Resistance",
+        "15 Life After each KIll",
+        "25% Magic Find."
+      ],
+      "item": "shield"
+    },
+    {
+      "name": "HEAVEN'S WILL ",
+      "runes": "Dol + Eld",
+      "level": "31",
+      "mods": [
+        "+1 Paladin Skills",
+        "30% Faster Block Rate",
+        "57% Increased Chance to Block",
+        "30% - 50% enhanced Damage",
+        "Slain Monsters Rest In Peace",
+        "+6 to Fist Of The Heavens (Paladin Only)",
+        "Replenish Life +7."
+      ],
+      "item": "paladin shield"
+    },
+    {
+      "name": "JUDGEMENT",
+      "runes": "Um + Hel + Um",
+      "level": "47",
+      "mods": [
+        "2% chance to Cast level 35 Holy Shield when Struck",
+        "50% Chance to Cast Level 5 Decrepify when Struck",
+        "+2 Paladin Skills",
+        "25% - 35% Increased Chance to Block",
+        "Adds 20 - 30 maximum Damage",
+        "Ignore Targets Defense",
+        "50% All Resistance",
+        "Reduces Magic Damage by 35 - 50",
+        "-15% requirements."
+      ],
+      "item": "paladin shield"
+    },
+    {
+      "name": "Exile",
+      "runes": "Vex + Ohm + Ist + Dol",
+      "level": "65",
+      "mods": [
+        "15% Chance to Cast Level 5 Life Tap on Striking",
+        "Level 13 Defiance Aura when Equipped",
+        "+2 Offensive Auras",
+        "Freezes Target",
+        "220% - 260% Enhanced Defense",
+        "Replenish Life +7",
+        "+5% Maximum Fire & Cold Resistances",
+        "25% Magic Find",
+        "Replenish Durability."
+      ],
+      "item": "paladin shield"
+    },
+    {
+      "name": "TREACHERY",
+      "runes": "Tir + Hel",
+      "level": "25",
+      "mods": [
+        "40% Increased Chance of Blocking",
+        "100% Enhanced Defense",
+        "50 Life",
+        "50 Mana",
+        "+2 Mana per Kill",
+        "-2% to Experience Gained",
+        "-15% Requirements."
+      ],
+      "item": "necromancer shield"
+    },
+    {
+      "name": "TERROR",
+      "runes": "Lum + Mal",
+      "level": "49",
+      "mods": [
+        "100% chance to Cast Level 10 Terror when Struck",
+        "+2 Necromancer Skills",
+        "Level 3 Fanaticism",
+        "Adds +3 Levels to a Random Necromancer Skill (Necromancer Only)",
+        "Defense Based on Character Level (1.5 per Level)",
+        "10 Energy",
+        "Magic damage Reduced by 7",
+        "Magic Find Based on Character Level (1% per level)."
+      ],
+      "item": "necromancer shield"
+    },
+    {
+      "name": "BONE",
+      "runes": "Ber + Um",
+      "level": "63",
+      "mods": [
+        "+4 to Poison & Bone Skills (Necromancer Only)",
+        "+2 Necromancer Skills",
+        "+3 to Bone Spirit (Necromancer Only)",
+        "+3 to Bone Prison (Necromancer Only)",
+        "+3 to Bone Spear (Necromancer Only)",
+        "+3 to Bone Wall (Necromancer Only)",
+        "+3 to Bone Armor (Necromancer Only)",
+        "22% All Resistances",
+        "8% Damage Reduced."
+      ],
+      "item": "necromancer shield"
+    },
+    {
+      "name": "LIGHTNING",
+      "runes": "Ort + Ort + Amn",
+      "level": "25",
+      "mods": [
+        "15% Chance to Cast Level 9 Lightning on Striking",
+        "Level 2 Holy Shock Aura when Equipped",
+        "20% Increased Attack Speed",
+        "100% - 175% Enhanced Damage",
+        "2 - 100 Lightning Damage",
+        "7% Life Leech  ",
+        "35% - 50% Lightning Resistance",
+        "Absorbs 8 - 10 Lightning Damage."
+      ],
+      "item": "any weapon"
+    },
+    {
+      "name": "WHISPER",
+      "runes": "Shael + Shael + Shael",
+      "level": "29",
+      "mods": [
+        "60% Increased Attack Speed",
+        "100% Enhanced Damage",
+        "Adds 25 - 75 Normal Damage",
+        "-15% targets Defense",
+        "Replenish Life +6",
+        "-25% requirements."
+      ],
+      "item": "any weapon"
+    },
+    {
+      "name": "HATRED",
+      "runes": "Io + Thul",
+      "level": "35",
+      "mods": [
+        "Adds Enhanced Damage vs. Demons Based on Time ( 1% - 500%)",
+        "+1 All Skills",
+        "140% - 190% Enhanced Damage",
+        "Adds 3 - 14 Cold Damage",
+        "Freezes Target +3",
+        "Knockback",
+        "10 Vitality",
+        "50% Magic Find."
+      ],
+      "item": "any weapon"
+    },
+    {
+      "name": "ENVY",
+      "runes": "Fal + Ko + Lum + Io",
+      "level": "41",
+      "mods": [
+        "30% increased Attack Speed",
+        "222% Enhanced Damage",
+        "6% Life & Mana Leech",
+        "10 All Attributes",
+        "25% All resistance",
+        "+2% to Experience Gained",
+        "35% magic Find."
+      ],
+      "item": "any weapon"
+    },
+    {
+      "name": "PASSION",
+      "runes": "Dol + Ort + Eld + Lem",
+      "level": "43",
+      "mods": [
+        "25% Increased Attack Speed",
+        "160% - 210% Enhanced Damage",
+        "50% - 80% Bonus to Attack Rating",
+        "75% damage vs. Undead",
+        "+50 Attack Rating vs. Undead",
+        "1 - 50 Lightning Damage",
+        "Level 1 Berserk",
+        "Level 1 Zeal",
+        "Hit Blinds target +10",
+        "Hit Causes Monster to Flee 25%",
+        "75% Extra Gold from Monsters",
+        "12 Charges of Level 3 Heart of the Wolverine."
+      ],
+      "item": "any weapon"
+    },
+    {
+      "name": "VENOM",
+      "runes": "Tal + Dol + Mal",
+      "level": "49",
+      "mods": [
+        "Ignore Targets Defense ",
+        "273 Poison Damage over 6 Seconds",
+        "7% Mana Steal",
+        "Prevents Monster Heal",
+        "Hit Causes Monster to Flee 25%",
+        "11 Charges of Level 13 Poison Nova",
+        "27 Charges of Level 15 Poison Explosion."
+      ],
+      "item": "any weapon"
+    },
+    {
+      "name": "SILENCE",
+      "runes": "Dol + Eld + Hel + Ist + Tir + Vex",
+      "level": "55",
+      "mods": [
+        "+2 All Skills",
+        "20% Increased Attack Speed",
+        "20% Faster Hit Recovery",
+        "200% Enhanced Damage",
+        "75% Enhanced Damage vs. Undead",
+        "+50 Attack Rating vs. Undead",
+        "11% mana Leech",
+        "Hit Blinds Target 33%",
+        "Hit Causes Monster to Flee 25%",
+        "75% All Resistances",
+        "+2 Mana per Kill",
+        "30% Magic Find",
+        "-20% Requirements."
+      ],
+      "item": "any weapon"
+    },
+    {
+      "name": "CALL TO ARMS",
+      "runes": "Amn + Ral + Mal + Ist + Ohm",
+      "level": "57",
+      "mods": [
+        "+1 All Skills",
+        "40% Increased Attack Speed",
+        "250% - 290% Enhanced Damage",
+        "5 - 30 Fire Damage",
+        "7% Life Leech",
+        "Level 2-6 Battle Commands",
+        "Level 1-6 Battle Orders",
+        "Level 1-4 Battle Cry",
+        "Prevents Monster Heal",
+        "Replenish Life +12",
+        "30% Magic Find."
+      ],
+      "item": "any weapon"
+    },
+    {
+      "name": "PHOENIX",
+      "runes": "Vex + Vex + Lo + Jah",
+      "level": "65",
+      "mods": [
+        "100% Chance to Cast Level 40 Blaze on Leveling Up",
+        "40% Chance to Cast Level 22 Firestorm on Striking",
+        "Level 13 Redemption Aura when Equipped",
+        "350% - 400% Enhanced Damage",
+        "-28% to Enemies Fire Resistance",
+        "350 - 400 Defense vs. Missiles",
+        "Ignore Monsters Defense",
+        "20% Deadly Strike",
+        "14% Mana Leech",
+        "Absorbs 15 - 21 Fire Damage."
+      ],
+      "item": "any weapon"
+    },
+    {
+      "name": "HAND OF JUSTICE",
+      "runes": "Sur + Cham + Amn + Lo",
+      "level": "67",
+      "mods": [
+        "100% chance to Cast Level 36 Blaze on Level up",
+        "100% Chance to Cast Level 48 Meteor on Dying",
+        "Level 16 Holy Fire Uara when Equipped",
+        "33% Increased Attack Speed",
+        "280% - 330% Enhanced Damage",
+        "Ignore Targets Defense",
+        "7% Life Leech",
+        "-20% to Enemies Fire Resistance",
+        "20% Deadly Strike",
+        "Hit Blinds target",
+        "Freezes Target +3."
+      ],
+      "item": "any weapon"
+    },
+    {
+      "name": "BREATH OF THE DYING ",
+      "runes": "Vex + Hel + El + Eld + Zod + Eth",
+      "level": "69",
+      "mods": [
+        "50% Chance to cast lvl 20 Poison Nova when you Kill an Enemy",
+        "Indestructable",
+        "60% Increased Attack Speed",
+        "350% - 400% Enhanced Damage",
+        "-25% to Target Defense",
+        "+50 to Attack Rating",
+        "200% Enhanced Damage vs. Undead",
+        "+50 to Attack Rating vs. Undead",
+        "7% Mana Leech",
+        "15% Life Leech",
+        "Prevents Monster Heal",
+        "+30 to All Attributes",
+        "+1 Light radius",
+        "-20% Requirements."
+      ],
+      "item": "any weapon"
+    },
+    {
+      "name": "BROKEN PROMISE ",
+      "runes": "Cham + Vex + Amn + Shael + Lo",
+      "level": "82",
+      "mods": [
+        "Crushing Blow Based on Time (1% - 100%)",
+        "18% Chance to cast Level 18 Bone Spear on Striking",
+        "+2 All Skills",
+        "20% Increased Attack Speed",
+        "350% - 400% enhanced Damage",
+        "Maximum Damage based on Character Level (+3 per Level)",
+        "7% Life & Mana Leech",
+        "20% Deadly Strike",
+        "Freezes Target +3",
+        "-5% to Experience Gained."
+      ],
+      "item": "any weapon"
+    },
+    {
+      "name": "Malice",
+      "runes": "Ith + El + Eth",
+      "level": "15",
+      "mods": [
+        "33% Enhanced Damage",
+        "+9 Maximum Damage",
+        "-25% Target Defense",
+        "+50 Attack rating",
+        "100% Chance of Open Wounds",
+        "Prevent Monster Heal",
+        "-100 Defense to Monster Defense per Hit",
+        "Drain Life -5."
+      ],
+      "item": "melee"
+    },
+    {
+      "name": "PEACE",
+      "runes": "Tir + Eth + El",
+      "level": "21",
+      "mods": [
+        "20% Increased Attack Speed",
+        "20% Faster Hit recovery",
+        "20% Faster Block rate",
+        "Adds 20 - 40 Normal Damage",
+        "-25% Target Defense",
+        "+50 to Attack rating",
+        "15% All Resistance",
+        "+2 Mana per Kill",
+        "+1 Light radius."
+      ],
+      "item": "melee"
+    },
+    {
+      "name": "Strength",
+      "runes": "Amn + Tir",
+      "level": "25",
+      "mods": [
+        "35% Enhanced Damage",
+        "7% Life Leech",
+        "25% Chance of Crushing Blow",
+        "20 Strength",
+        "10 Vitality",
+        "+2 Mana per Kill."
+      ],
+      "item": "melee"
+    },
+    {
+      "name": "HONOR",
+      "runes": "Amn + El + Ith + Tir + Sol",
+      "level": "27",
+      "mods": [
+        "+1 All Skills",
+        "160% Enhanced Damage",
+        "+9 Minimum Damage & +9 Maximum Damage",
+        "+250 Attack Rating",
+        "7% Life Leech",
+        "25% Deadly Strike",
+        "10 Strength",
+        "Replenish Life +10",
+        "+2 Mana Per Kill",
+        "+1 Light Radius."
+      ],
+      "item": "melee"
+    },
+    {
+      "name": "RED DRAGON ",
+      "runes": "Io + Ral + Ral + Hel",
+      "level": "35",
+      "mods": [
+        "8% Chance to Cast Level 4 Meteor on Striking",
+        "155% Enhanced Damage",
+        "Adds 10 - 60 Fire Damage",
+        "Adds 15% - 25% to Fire Skill Damage",
+        "10 Vitality",
+        "-20% to Cold Resistance",
+        "35% - 50% Fire Resistance",
+        "10% Fire Absorb",
+        "Replenish Durability",
+        "-20% requirements."
+      ],
+      "item": "melee"
+    },
+    {
+      "name": "THUNDER",
+      "runes": "Pul + Lem + Ko + Fal",
+      "level": "45",
+      "mods": [
+        "10% Chance to Cast Level 22 Thunder Stoem when Struck",
+        "235% Enhanced Damage",
+        "+75% Enhanced Damage vs. Demons",
+        "+100 Attack Rating vs. Demons",
+        "Adds 1 - 444 Lightning Damage",
+        "Level 1 Static Field",
+        "10 Strength",
+        "10 Dexterity",
+        "75% Lightning Resistance",
+        "+2% to Experience Gained",
+        "75% extra Gold from Monsters."
+      ],
+      "item": "melee"
+    },
+    {
+      "name": "WONDER",
+      "runes": "Vex + Amn + Shael + Amn + Vex",
+      "level": "55",
+      "mods": [
+        "Magic Find Based on Time (1% - 100%)",
+        "Extra Gold Based on Time (1% - 200%)",
+        "20% Increased Attack Speed",
+        "30% faster Hit Recovery",
+        "275% Enhanced Damage",
+        "14% Life & Mana Leech",
+        "20 Strength",
+        "20 Dexterity",
+        "Life Based on Character Level (1.5 per level)"
+      ],
+      "item": "melee"
+    },
+    {
+      "name": "Wind",
+      "runes": "Sur + El",
+      "level": "61",
+      "mods": [
+        "10% Chance to Cast Level 9 Tornado on Striking",
+        "20% Faster Run/Walk",
+        "40% Increased Attack Speed",
+        "15% Faster Hit Recovery",
+        "120% - 160% Enhanced Damage",
+        "-50% Target Defense",
+        "+50 to Attack Rating",
+        "Hit Blinds Target",
+        "+1 Light Radius",
+        "127 Charges of Level 13 Twister."
+      ],
+      "item": "melee"
+    },
+    {
+      "name": "ETERNITY",
+      "runes": "Amn + Ber + Ist + Sol + Sur  ",
+      "level": "63",
+      "mods": [
+        "Indestructable ",
+        "260% - 310% Enhanced Damage",
+        "+9 Minimum Damage",
+        "7% Life Leech",
+        "20% chance of Crushing Blow",
+        "Hit Blinds Target",
+        "Slows Target by 33%",
+        "Replenish Life +16",
+        "Regenerate Mana 16%",
+        "Cannot Be Frozen",
+        "30% Magic Find",
+        "88 Charges of Level 8 Revive."
+      ],
+      "item": "melee"
+    },
+    {
+      "name": "FURY",
+      "runes": "Jah + Gul + Eth",
+      "level": "65",
+      "mods": [
+        "40% Increased Attack Speed",
+        "209% Enhanced Damage",
+        "Ignore Targets defense",
+        "-25% to targets Defense",
+        "20% Bonus to Attack rating",
+        "6% Life Leech",
+        "33% Deadly Strike",
+        "66% Chance of Open Wounds",
+        "+5 Frenzy (Barbarian Only)",
+        "Prevent Monster Heal."
+      ],
+      "item": "melee"
+    },
+    {
+      "name": "VALOR",
+      "runes": "Shael + Tir + Dol + Cham + Sur + Um",
+      "level": "77",
+      "mods": [
+        "20% increased Attack Speed",
+        "100 Minimum Damage",
+        "Maximum Damage Based on Character Level .5 per level)",
+        "25% Chance of Open Wounds",
+        "Hit Blinds Target",
+        "Hit Causes Monster to Flee 25%",
+        "Freezes Target +3",
+        "+2 Mana Per Kill",
+        "+5% to Experience Gained",
+        "15 Charges of Level 40 Battle Orders"
+      ],
+      "item": "melee"
+    },
+    {
+      "name": "ZEPHYR",
+      "runes": "Ort + Eth",
+      "level": "21",
+      "mods": [
+        "7% Chance to Cast Level 1 Twister when Struck",
+        "25% Faster Run/Walk",
+        "25% Increased Attack Speed",
+        "33% Enhanced Damage",
+        "-25% Target Defense",
+        "66 to Attack Rating",
+        "1-50 Lightning damage",
+        "25 Defense."
+      ],
+      "item": "missile"
+    },
+    {
+      "name": "STING",
+      "runes": "Nef + Tal + Eth",
+      "level": "24",
+      "mods": [
+        "15% Increased Attack Speed",
+        "25 - 40 Maximum Damage",
+        "-25% Target Defense",
+        "75 Poison Damage over 5 Seconds",
+        "5% - 8% Mana Leech",
+        "Level 5 Ice Arrow",
+        "Level 3 Multiple Shot",
+        "Knockback"
+      ],
+      "item": "missile"
+    },
+    {
+      "name": "EDGE",
+      "runes": "Tir + Tal + Amn",
+      "level": "25",
+      "mods": [
+        "Level 15 Thorns Aura when Equipped",
+        "35% Increased Attack Speed",
+        "+320% - 380% Enhanced Damage vs. Demons",
+        "+280% Enhanced Damage vs. Undead",
+        "75 Poison Damage over 5 seconds",
+        "7% Life Leech",
+        "Prevents Monster Heal",
+        "8 - 9 All Attributes",
+        "Reduces Vendor Prices by 15%."
+      ],
+      "item": "missile"
+    },
+    {
+      "name": "HARMONY",
+      "runes": "Tir + Ith + Sol + Ko",
+      "level": "39",
+      "mods": [
+        "Level 10 Vigor Aura when Equipped",
+        "200% - 275% Enhanced Damage",
+        "+9 Minimum Damage & +9 Maximum Damage",
+        "Adds 55 - 160 Fire Damage",
+        "Adds 55 - 160 Cold Damage  Sec. Length)",
+        "Level 6 Valkyrie",
+        "10 Dexterity",
+        "20% Mana Regeneration",
+        "+2 Mana per Kill",
+        "25 Charges of Level 20 Revive."
+      ],
+      "item": "missile"
+    },
+    {
+      "name": "MELODY Socket ",
+      "runes": "Shael + Ko + Nef",
+      "level": "39",
+      "mods": [
+        "+3 Bow 7 Crossbow Tree (Amazon Only)",
+        "20% Increased Attack Speed",
+        "50% Enhanced Damage",
+        "300% Damage vs. Undead",
+        "+3 Slow Missiles (Amazon Only)",
+        "+3 Dodge (Amazon Only)",
+        "+3 Critical Strike (Amazon Only)",
+        "Knockback",
+        "10 Dexterity."
+      ],
+      "item": "missile"
+    },
+    {
+      "name": "SHADOW",
+      "runes": "Pul + Sol + Shael + Sol",
+      "level": "45",
+      "mods": [
+        "+Cold Damage Based on Time  Second Cold Lenth - 12 Second Cold Length)",
+        "25% Chance to Cast Level 12 Cloak of Shadows when Struck",
+        "50% Faster Run/Walk",
+        "20% Increased Attack Speed",
+        "166% Enhanced Damage",
+        "+18 Minimum Damage",
+        "75% Enhanced Damage vs. Demons",
+        "+100 Attack Rating vs. Demons",
+        "50 Charges of Level 10 Bone Wall"
+      ],
+      "item": "missile"
+    },
+    {
+      "name": "PATTER",
+      "runes": "Ohm + Ohm",
+      "level": "57",
+      "mods": [
+        "100% Chance to Cast Level 12 Attract when Struck",
+        "+2 All Skills",
+        "40% Increased Attack Speed",
+        "100% Enhanced Damage",
+        "Maximum Damage Based on Character Level (+2 per level)",
+        "75% All Resistance",
+        "25% Damage Reduced."
+      ],
+      "item": "missile"
+    },
+    {
+      "name": "WRATH",
+      "runes": "Pul + Lum + Ber + Mal",
+      "level": "63",
+      "mods": [
+        "30% Chance to Cast Level 1 Decrepify on Striking",
+        "5% Chance to Cast Level 10 Life Tap on Striking",
+        "375% Enhanced Damage vs. demons",
+        "+100 Attack Rating vs. Demons",
+        "250% - 300% Enhanced Damage vs. Undead",
+        "Adds 85 - 120 Magic Damage",
+        "Adds 41 - 240 Lightning Damage",
+        "20% Chance of Crushing Blow",
+        "Prevents Monster Heal",
+        "10 Energy",
+        "Cannot be Frozen."
+      ],
+      "item": "missile"
+    },
+    {
+      "name": "FAITH",
+      "runes": "Ohm + Jah + Lem + Eld",
+      "level": "65",
+      "mods": [
+        "Level 12 Fanatacism Aura when Equipped",
+        "+1 All Skills",
+        "380% Enhanced Damage",
+        "Ingore Targets Defense",
+        "300% Bonus to Attack Rating",
+        "75% Enhanced Damage vs. Undead",
+        "50 to Attack Rating vs. Undead",
+        "+120 Fire Damage",
+        "15% All Resistances",
+        "10% Chance to Reanimate as Skeleton",
+        "75% Extra Gold from Monsters."
+      ],
+      "item": "missile"
+    },
+    {
+      "name": "BRAND",
+      "runes": "Jah + Lo + Mal + Gul",
+      "level": "65",
+      "mods": [
+        "35% Chance to Cast Level 14 Amplify Damage when Struck",
+        "100% Chance to Cast Level 18 Bone Spear on Striking",
+        "Fires Explosive Arrows/Bolts",
+        "260% - 340% Enhanced Damage",
+        "Ignore targets Defense",
+        "20% Bonus to Attack Rating",
+        "280% -330% Bonus Damage vs. Demons",
+        "20% Deadly Strike",
+        "Prevents Monster Heal",
+        "Knockback."
+      ],
+      "item": "missile"
+    },
+    {
+      "name": "ICE",
+      "runes": "Amn + Shael + Jah + Lo",
+      "level": "65",
+      "mods": [
+        "100% Chance to Cast level 40 Blizzard on Leveling Up",
+        "25% Chance to Cast Level 22 Frost Nova on Striking",
+        "Level 18 Holy Freeze Aura when Equipped",
+        "20% Increased Attack Speed",
+        "140% - 210% Enhanced Damage",
+        "Ignore Targets Defense",
+        "25% - 30% Increased Cold Skill Damage",
+        "-20% to Enemies Cold Resistance",
+        "7% Life Leech",
+        "20% Deadly Strike",
+        "Gold based on Character Level  1/8% Per Level)."
+      ],
+      "item": "missile"
+    },
+    {
+      "name": "PERIL",
+      "runes": "Cham + Lo + Ber + Ber + Lo + Cham",
+      "level": "78",
+      "mods": [
+        "+1 All Skills",
+        "75% Increased Attack Speed",
+        "100 - 200 Minimum Damage",
+        "300 - 400 Minimum Damage",
+        "40% Crushing Blow",
+        "40% Deadly Strike",
+        "Freezes Target +6",
+        "20 - 30 All Attributes",
+        "Magic Find Based on Character Level (1% per Level)"
+      ],
+      "item": "missile"
+    },
+    {
+      "name": "OBSESSION",
+      "runes": "Thul + El",
+      "level": "23",
+      "mods": [
+        "Adds 20 - 40 Normal Damage",
+        "50 Attack Rating",
+        "Adds 3 - 14 Cold Damage",
+        "4% - 6% Life Leech",
+        "Freezes Target +2",
+        "100% Extra Gold from Monsters",
+        "40% Magic Find",
+        "+1 Light Radius."
+      ],
+      "item": "club"
+    },
+    {
+      "name": "BLACK",
+      "runes": "Thul + Io + Nef",
+      "level": "35",
+      "mods": [
+        "15% Increased Attack Speed",
+        "120% Enhanced Damage",
+        "200 Attack Rating",
+        "3 - 14 Cold Damage",
+        "40% Chance of Crushing Blow",
+        "Knockback",
+        "10 Vitality",
+        "Magic Damage reduce by 2",
+        "12 Charges of Level 4 Corpse Explosion."
+      ],
+      "item": "club"
+    },
+    {
+      "name": "MIST",
+      "runes": "Ohm + Hel + Um",
+      "level": "57",
+      "mods": [
+        "33% Chance to Cast Level 15 Fissure on Struck",
+        "Level 7 Defiance Aura when Equipped",
+        "300% - 350% Enhanced Damage",
+        "Maximum Damage Based on Character Level (+1 per Level)",
+        "33% Chance of Crushing Blow",
+        "25% Chance of Open Wounds",
+        "15 Strength",
+        "-20% requirements."
+      ],
+      "item": "club"
+    },
+    {
+      "name": "STEEL",
+      "runes": "Tir + El",
+      "level": "13",
+      "mods": [
+        "25% Increased Attack Speed",
+        "20% Enhanced Damage",
+        "+3 Minimum Damage & +3 Maximum Damage",
+        "50 to Attack Rating",
+        "50% Chance of Open Wounds",
+        "+2 Mana per Kill",
+        "+1 Light Radius."
+      ],
+      "item": "mace"
+    },
+    {
+      "name": "TEMPTATION",
+      "runes": "Ort + Nef + El",
+      "level": "21",
+      "mods": [
+        "+1 All Skills",
+        "176% Enhanced Damage",
+        "50 Attack Rating",
+        "1 - 50 Lightning Damage",
+        "Knockback",
+        "-10 All Attributes",
+        "Adds 10% - 15% to Experience Gained",
+        "+1 Light Radius."
+      ],
+      "item": "mace"
+    },
+    {
+      "name": "SORROW",
+      "runes": "Hel + Amn",
+      "level": "30",
+      "mods": [
+        "133% Enhanced Damage",
+        "Adds 25 - 50 Normal Damage",
+        "7% Life Leech",
+        "66% Chance of Crushing Blow",
+        "34% Chance of Deadly Strike",
+        "Slain Monsters Rest in Peace",
+        "-3% to Experience Gained",
+        "-20% Requirements."
+      ],
+      "item": "mace"
+    },
+    {
+      "name": "BLACK",
+      "runes": "Thul + Io + Nef",
+      "level": "35",
+      "mods": [
+        "15% Increased Attack Speed",
+        "120% Enhanced Damage",
+        "200 Attack Rating",
+        "3 - 14 Cold Damage",
+        "40% Chance of Crushing Blow",
+        "Knockback",
+        "10 Vitality",
+        "Magic Damage reduce by 2",
+        "12 Charges of Level 4 Corpse Explosion."
+      ],
+      "item": "mace"
+    },
+    {
+      "name": "VOICE OF REASON",
+      "runes": "Lem + Ko + El + Eld",
+      "level": "43",
+      "mods": [
+        "15% Chance to Cast level 13 Frozen Orb on Striking",
+        "18% Chance to Cast Level 20 Ice Blast on Striking",
+        "+50 Attack Rating",
+        "220% - 350% Enhanced Damage vs. Demons",
+        "280% - 300% Enhanced Damage vs. Undead",
+        "50 Attack Rating vs. Undead",
+        "Adds 100 - 220 Cold Damage  Second Duration)",
+        "-24% to Enemy Cold Resistance",
+        "10 Dexterity",
+        "Cannot Be Frozen",
+        "75% Extra Gold from Monsters",
+        "+1 Light Radius."
+      ],
+      "item": "mace"
+    },
+    {
+      "name": "OATH",
+      "runes": "Shael + Pul + Mal + Lum",
+      "level": "49",
+      "mods": [
+        "30% Chance to Cast Level 20 Bone Spear on Striking",
+        "50% Increased Attack Speed",
+        "Indestructable",
+        "210% - 340% Enhanced Damage",
+        "+75% Damage vs. Demons",
+        "+100 Attack rating vs. Demons",
+        "Prevents Monster Heal",
+        "10 Energy",
+        "Absorbs 10 points of Magic damage",
+        "20 Charges of Level 16 Heart of the Wolverine",
+        "14 Charges of Level 17 Iron Golem."
+      ],
+      "item": "mace"
+    },
+    {
+      "name": "HEART OF THE OAK ",
+      "runes": "Ko + Vex + Pul + Thul",
+      "level": "55",
+      "mods": [
+        "+3 All Skill",
+        "40% Faster Cast Rate",
+        "75% Damage to Demons",
+        "+100 Attack Rating vs. Demons",
+        "3 - 14 Cold Damage",
+        "7% Mana Leech",
+        "10 Dexterity",
+        "Replenish Life +20",
+        "Increased Maximum Mana 15%",
+        "30% - 40% All Resistances",
+        "25 Charges of Level 4 Oak Sage",
+        "60 Charges of Level 14  Raven."
+      ],
+      "item": "mace"
+    },
+    {
+      "name": "PLAGUE",
+      "runes": "Sur + Um + Mal + Shael + Shael",
+      "level": "71",
+      "mods": [
+        "15% Chance to Cast Level 27 Poison Nova on Striking",
+        "40% Increased Attack Speed",
+        "200% - 250% Enhanced Damage",
+        "599 Poison Damage over 6 Seconds",
+        "100% Deadly Strike",
+        "25% Chance of Open Wounds",
+        "Prevents Monster Heal",
+        "Hit Blinds Target",
+        "+10% to All Maximum Resistance",
+        "80% Poison Resistance"
+      ],
+      "item": "mace"
+    },
+    {
+      "name": "DEPRESSION",
+      "runes": "Shael + Hel",
+      "level": "29",
+      "mods": [
+        "40% Increased Attack Speed",
+        "160% - 200% Enhanced Damage",
+        "6% Mana Leech",
+        "Drains Life -2",
+        "Regenerates Mana 50%",
+        "6 - 9 Life After Each KIll",
+        "5 Charges of Level 20 Clay Golem",
+        "-20% Requirements."
+      ],
+      "item": "hammer"
+    },
+    {
+      "name": "BLACK",
+      "runes": "Thul + Io + Nef",
+      "level": "35",
+      "mods": [
+        "15% Increased Attack Speed",
+        "120% Enhanced Damage",
+        "200 Attack Rating",
+        "3 - 14 Cold Damage",
+        "40% Chance of Crushing Blow",
+        "Knockback",
+        "10 Vitality",
+        "Magic Damage reduce by 2",
+        "12 Charges of Level 4 Corpse Explosion."
+      ],
+      "item": "hammer"
+    },
+    {
+      "name": "LAWBRINGER",
+      "runes": "Amn + Lem + Ko",
+      "level": "43",
+      "mods": [
+        "20% Chance to Cast Level 15 decrepify on Striking",
+        "Level 18 Sancuary Aura when Equipped",
+        "-50 to Target Defense",
+        "Adds 150 - 220 Fire Damage",
+        "Adds 130 - 180 Cold Damage",
+        "7% Life Leech",
+        "Slain Monsters Rest in Peace",
+        "200 - 250 Defense vs. Missiles",
+        "10 Dexterity",
+        "75% extra Gold from Monsters."
+      ],
+      "item": "hammer"
+    },
+    {
+      "name": "INNOCENCE",
+      "runes": "Vex + Lem + Ist",
+      "level": "55",
+      "mods": [
+        "+2 All Skills",
+        "190% - 240% Enhanced Damage",
+        "Maximum Damage Based on Character Level (+2 per Level)",
+        "7% Mana Leech",
+        "15 - 25 to All Attributes",
+        "Increased Maximum Life 25%",
+        "-3% to Experience Gained",
+        "75% Extra Gold From Monsters",
+        "30% Magic Find",
+        "Repairs Durability."
+      ],
+      "item": "hammer"
+    },
+    {
+      "name": "BEAST",
+      "runes": "Ber + Tir + Um + Mal + Lum",
+      "level": "63",
+      "mods": [
+        "Level 9 Fanatacism Aura when Equipped",
+        "40% Increased Attack Speed",
+        "240% - 270% Enhanced Damage",
+        "20% Chance of Crushing Blow",
+        "25% Chance of Open Wounds",
+        "Level 3 Werebear",
+        "Level 3 Lycanthropy",
+        "25 - 40 Strength",
+        "10 Energy",
+        "+2 Mana per Kill",
+        "5 Charges of Level 13 Summon Grizzly."
+      ],
+      "item": "hammer"
+    },
+    {
+      "name": "FAMINE",
+      "runes": "Fal + Ohm + Ort + Jah",
+      "level": "65",
+      "mods": [
+        "30% Increased Attack Speed",
+        "270% - 320% Enhanced Damage",
+        "Ignore Targets Defense",
+        "Adds 180 - 200 Magic Damage",
+        "Adds 50 - 200 Fire Damage",
+        "Adds 51 - 200 Lightning Damage",
+        "Adds 50 - 200 Cold Damage",
+        "12% Life Leech",
+        "Prevents Monster Heal",
+        "10 Strength."
+      ],
+      "item": "hammer"
+    },
+    {
+      "name": "Last Wish ",
+      "runes": "Cham + Mal + Jah + Sur + Jah + Ber",
+      "level": "67",
+      "mods": [
+        "6% Chance to Cast Level 11 Fade when Struck",
+        "10% Chance to Cast Level 18 Life Tap on Striking",
+        "20% Chance to Cast Level 20 Charged Bolt on Attack",
+        "330% - 375% Enhanced Damage",
+        "Ignore Targets Defense",
+        "20% - 30% Chance of Crushing Blow",
+        "Prevents Monster Heal",
+        "Hit Blinds target",
+        "Freezes target +3",
+        "Magic Find Based on Character Level (.50 per Level)."
+      ],
+      "item": "hammer"
+    },
+    {
+      "name": "DOOM",
+      "runes": "Hel + Ohm + Um + Lo + Cham",
+      "level": "67",
+      "mods": [
+        "5% Chance to Cast Level 18 Volcano on Striking",
+        "Level 12 Holy Freeze Aura when Equipped",
+        "+2 All Skills",
+        "45% Increased Attack Speed",
+        "330% - 370% Enhanced Damage",
+        "-40% - -60% Lowers Enemy Cold Resistance",
+        "20% Deadly Strike",
+        "25% Chance of Open Wounds",
+        "Prevents Monster Heal",
+        "Freezes Target +3",
+        "-20% Requirements."
+      ],
+      "item": "hammer"
+    },
+    {
+      "name": "PRAISE",
+      "runes": "Fal + Gul + Ohm + Shael",
+      "level": "72",
+      "mods": [
+        "Magic Find Based on Time (1 - 200%)",
+        "100% Chance to Cast Level 10 Glacial Spike When Struck",
+        "100% Chance to Cast Level 47 Frozen Orb when You Die",
+        "20% Increased Attack Speed",
+        "330% - 400% Enhanced Damage",
+        "Ignore Targets Defense",
+        "20% to Attack Rating",
+        "10% Life Leech",
+        "10 Strength."
+      ],
+      "item": "hammer"
+    },
+    {
+      "name": "STEEL",
+      "runes": "Tir + El",
+      "level": "13",
+      "mods": [
+        "25% Increased Attack Speed",
+        "20% Enhanced Damage",
+        "+3 Minimum Damage & +3 Maximum Damage",
+        "50 to Attack Rating",
+        "50% Chance of Open Wounds",
+        "+2 Mana per Kill",
+        "+1 Light Radius."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "THIRST FOR KNOWLEDGE",
+      "runes": "El + El + El",
+      "level": "22",
+      "mods": [
+        "+1 All Skills",
+        "15% Increased Attack Speed",
+        "100% Enhanced Damage",
+        "Maximum Damage Based on Character Level (1.5 per Level)",
+        "+150 Attack Rating",
+        "+20% to Experience Gained",
+        "+3 Light Radius."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "SPIRIT",
+      "runes": "Tal + Thul + Ort + Amn",
+      "level": "25",
+      "mods": [
+        "+2 All Skills",
+        "25% - 35% Faster Cast Rate",
+        "55% Faster Hit Recovery",
+        "22 Vitality",
+        "82-112 Mana",
+        "+3 magic Absorb",
+        "7% Life Leech",
+        "154 Poison damage in 5 Seconds",
+        "1 - 50 Lightning Damage",
+        "3 - 14 Cold Damage"
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "KING'S GRACE ",
+      "runes": "Amn + Ral + Thul",
+      "level": "25",
+      "mods": [
+        "100% Enhanced Damage",
+        "+150 Attack Rating",
+        "+100% Damage vs. Demons",
+        "+100 Attack Rating vs. Demons",
+        "+50% Damage vs. Undead",
+        "+100 Attack Rating vs. Undead",
+        "Adds 5 - 30 Fire Damage",
+        "Adds 3 - 14 Cold Damage",
+        "7% Life Leech."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "PUNISHMENT",
+      "runes": "Ort + Dol + Amn",
+      "level": "31",
+      "mods": [
+        "100% Chance to Cast Level 35 Thunder Stoem When You Level Up",
+        "135% Enhanced Damage",
+        "Adds 20 - 40 Normal Damage",
+        "1 - 50 Lightning Damage",
+        "7% Life Leech",
+        "Hit Causes Monster to Flee 25%",
+        "20 to All Attributes",
+        "Drain Life -3",
+        "Reduces Damage by 15 - 20",
+        "-2% Experience Gained"
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "QUESTION",
+      "runes": "Ko + Nef",
+      "level": "39",
+      "mods": [
+        "Knockback",
+        "All Attributes Based on Character Level (.75 per level)",
+        "Extra Gold Based on Character Level % per level)",
+        "Magic Find Based on Character Level (1.5% per level)."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "VOICE OF REASON",
+      "runes": "Lem + Ko + El + Eld",
+      "level": "43",
+      "mods": [
+        "15% Chance to Cast level 13 Frozen Orb on Striking",
+        "18% Chance to Cast Level 20 Ice Blast on Striking",
+        "+50 Attack Rating",
+        "220% - 350% Enhanced Damage vs. Demons",
+        "280% - 300% Enhanced Damage vs. Undead",
+        "50 Attack Rating vs. Undead",
+        "Adds 100 - 220 Cold Damage  Second Duration)",
+        "-24% to Enemy Cold Resistance",
+        "10 Dexterity",
+        "Cannot Be Frozen",
+        "75% Extra Gold from Monsters",
+        "+1 Light Radius."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "LAWBRINGER",
+      "runes": "Amn + Lem + Ko",
+      "level": "43",
+      "mods": [
+        "20% Chance to Cast Level 15 decrepify on Striking",
+        "Level 18 Sancuary Aura when Equipped",
+        "-50 to Target Defense",
+        "Adds 150 - 220 Fire Damage",
+        "Adds 130 - 180 Cold Damage",
+        "7% Life Leech",
+        "Slain Monsters Rest in Peace",
+        "200 - 250 Defense vs. Missiles",
+        "10 Dexterity",
+        "75% extra Gold from Monsters."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "CRESCENT MOON ",
+      "runes": "Shael + Um + Tir",
+      "level": "47",
+      "mods": [
+        "10% Chance to Cast Level 17 Chain Lightning on Striking",
+        "7% Chance to Cast Level 13 Static Field on Striking",
+        "20% Increased Attack Speed",
+        "180% - 220% Enhanced Damage",
+        "Ignore targets Defense",
+        "-35% to Enemy Lightning Resistance",
+        "25% Chance of Open Wounds",
+        "9 - 11 Absorbs magic Damage",
+        "+2 Mana per Kill",
+        "30 Charges of Level 18 Summon Spirit Wolf."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "OATH",
+      "runes": "Shael + Pul + Mal + Lum",
+      "level": "49",
+      "mods": [
+        "30% Chance to Cast Level 20 Bone Spear on Striking",
+        "50% Increased Attack Speed",
+        "Indestructable",
+        "210% - 340% Enhanced Damage",
+        "+75% Damage vs. Demons",
+        "+100 Attack rating vs. Demons",
+        "Prevents Monster Heal",
+        "10 Energy",
+        "Absorbs 10 points of Magic damage",
+        "20 Charges of Level 16 Heart of the Wolverine",
+        "14 Charges of Level 17 Iron Golem."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "KINGSLAYER",
+      "runes": "Mal + Um + Gul + Fal",
+      "level": "53",
+      "mods": [
+        "30% Increased Attack Speed",
+        "230% - 270% Enhanced Damage",
+        "-25% target Defense",
+        "20% Bonus to Attack Rating",
+        "33% Chance of Crushing Blow",
+        "50% Chance of Open Wounds",
+        "Level 1 Vengeance",
+        "Prevent Monster Heal",
+        "10 Strength",
+        "40% Extra Gold from Monsters."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "DEATH",
+      "runes": "Hel + El + Vex + Ort + Gul",
+      "level": "55",
+      "mods": [
+        "100% chance to cast Level 44 Chain Lightning upon Death",
+        "25% chance to cast Level 18 Glacial Spike on Attack",
+        "Indestructable",
+        "300% - 385% Enhanced Damage",
+        "20% Bonus to Attack Rating",
+        "+50 to Attack Rating",
+        "1-50 Lightning Damage",
+        "7% Mana Leech",
+        "50% of Crushing Blow",
+        "Deadly Strike (Based on Character Level of .5)",
+        "+1 Light Radius",
+        "15 Charges of Level 22 Blood Golem",
+        "-20% Requirements."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "GRIEF",
+      "runes": "Eth + Tir + Lo + Mal + Ral",
+      "level": "59",
+      "mods": [
+        "20% Chance to Cast Level 15 Venom on Striking",
+        "30% - 40% Increased Attack Speed",
+        "+340 - 400 Damage",
+        "Ignore Targets Defense",
+        "-25% targets Defense",
+        "Damage to Demons based on Character Level % per level)",
+        "Adds 5 - 30 Fire Damage",
+        "Lowers Monsters Poison Resistance by 20% - 25%",
+        "20% Deadly Strike",
+        "Prevent Monster Heal",
+        "+2 Mana Per Kill",
+        "+11 Life per Kill."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "DESTRUCTION",
+      "runes": "Vex + Lo + Ber + Jah + Ko",
+      "level": "65",
+      "mods": [
+        "23% Chance to cast Level 12 Vocano on Striking",
+        "5% Chance to Cast Level 23 Molton Bolder on Strike",
+        "100% Chance to cast Level 45 Meteor upon Dying",
+        "15% Chance to Cast Level 22 Nova on Attacking",
+        "350% Enhanced Damage",
+        "Ignore Targets Defense",
+        "Adds 100 - 180 Magic Damage",
+        "7% Mana Leech",
+        "20% Chance of Crushing Blow",
+        "20% Chance of Deadly Strike",
+        "10 Dexterity."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "Last Wish ",
+      "runes": "Cham + Mal + Jah + Sur + Jah + Ber",
+      "level": "67",
+      "mods": [
+        "6% Chance to Cast Level 11 Fade when Struck",
+        "10% Chance to Cast Level 18 Life Tap on Striking",
+        "20% Chance to Cast Level 20 Charged Bolt on Attack",
+        "330% - 375% Enhanced Damage",
+        "Ignore Targets Defense",
+        "20% - 30% Chance of Crushing Blow",
+        "Prevents Monster Heal",
+        "Hit Blinds target",
+        "Freezes target +3",
+        "Magic Find Based on Character Level (.50 per Level)."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "UNBENDING WILL ",
+      "runes": "Ber + Lum + Ist + Ist + Tir + Amn",
+      "level": "75",
+      "mods": [
+        "50% Chance to Cast Level 10 Nova on Striking",
+        "Indestructable",
+        "60% Faster Hit Recovery",
+        "280% Enhanced Damage",
+        "7% Life Leech",
+        "20% Chance of Crushing Blow",
+        "Prevents MOnster Heal",
+        "10 Energy",
+        "+2 Mana per Kill",
+        "60% Magic Find."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "ARMAGEDDON",
+      "runes": "Ral + Ort + Thul + Cham + Ber + Hel",
+      "level": "80",
+      "mods": [
+        "40% Chance to cast Level 20 Chain Lightning when Struck",
+        "40% Chance to Cast Level 20 Blizzard on Striking",
+        "30% Increased Attack Speed",
+        "275% - 350% Enhanced Damage",
+        "Adds 55 - 330 Fire Damage",
+        "Adds 51 - 350 Lightning Damage",
+        "Adds 53 - 314 Cold Damage",
+        "20% Chance of Crushing Blow",
+        "Freezes Target +3",
+        "35% All Resistance",
+        "-20% Requirements."
+      ],
+      "item": "sword"
+    },
+    {
+      "name": "STEEL",
+      "runes": "Tir + El",
+      "level": "13",
+      "mods": [
+        "25% Increased Attack Speed",
+        "20% Enhanced Damage",
+        "+3 Minimum Damage & +3 Maximum Damage",
+        "50 to Attack Rating",
+        "50% Chance of Open Wounds",
+        "+2 Mana per Kill",
+        "+1 Light Radius."
+      ],
+      "item": "axe"
+    },
+    {
+      "name": "LAW",
+      "runes": "Hel + Hel",
+      "level": "26",
+      "mods": [
+        "15% Increased Attack Speed",
+        "120% - 170% Enhanced Damage",
+        "Slain Monsters Rest in Peace",
+        "Slows Target by 30%",
+        "48 Life",
+        "24 Mana",
+        "-40% Requirements."
+      ],
+      "item": "axe"
+    },
+    {
+      "name": "PESTILENCE",
+      "runes": "Sol + Ko + Io",
+      "level": "39",
+      "mods": [
+        "188% Enhanced Damage",
+        "+9 Minimum Damage",
+        "313 Poison Damage over 4 Seconds",
+        "+20% to Poison Skill Damage",
+        "Level 3 Poison Explosion",
+        "Prevents Monster Heal",
+        "10 Dexterity",
+        "10 Vitality",
+        "Poison Length Reduced by 50%",
+        "20% - 35% Magic Find."
+      ],
+      "item": "axe"
+    },
+    {
+      "name": "CRESCENT MOON ",
+      "runes": "Shael + Um + Tir",
+      "level": "47",
+      "mods": [
+        "10% Chance to Cast Level 17 Chain Lightning on Striking",
+        "7% Chance to Cast Level 13 Static Field on Striking",
+        "20% Increased Attack Speed",
+        "180% - 220% Enhanced Damage",
+        "Ignore targets Defense",
+        "-35% to Enemy Lightning Resistance",
+        "25% Chance of Open Wounds",
+        "9 - 11 Absorbs magic Damage",
+        "+2 Mana per Kill",
+        "30 Charges of Level 18 Summon Spirit Wolf."
+      ],
+      "item": "axe"
+    },
+    {
+      "name": "OATH",
+      "runes": "Shael + Pul + Mal + Lum",
+      "level": "49",
+      "mods": [
+        "30% Chance to Cast Level 20 Bone Spear on Striking",
+        "50% Increased Attack Speed",
+        "Indestructable",
+        "210% - 340% Enhanced Damage",
+        "+75% Damage vs. Demons",
+        "+100 Attack rating vs. Demons",
+        "Prevents Monster Heal",
+        "10 Energy",
+        "Absorbs 10 points of Magic damage",
+        "20 Charges of Level 16 Heart of the Wolverine",
+        "14 Charges of Level 17 Iron Golem."
+      ],
+      "item": "axe"
+    },
+    {
+      "name": "KINGSLAYER",
+      "runes": "Mal + Um + Gul + Fal",
+      "level": "53",
+      "mods": [
+        "30% Increased Attack Speed",
+        "230% - 270% Enhanced Damage",
+        "-25% target Defense",
+        "20% Bonus to Attack Rating",
+        "33% Chance of Crushing Blow",
+        "50% Chance of Open Wounds",
+        "Level 1 Vengeance",
+        "Prevent Monster Heal",
+        "10 Strength",
+        "40% Extra Gold from Monsters."
+      ],
+      "item": "axe"
+    },
+    {
+      "name": "DEATH",
+      "runes": "Hel + El + Vex + Ort + Gul",
+      "level": "55",
+      "mods": [
+        "100% chance to cast Level 44 Chain Lightning upon Death",
+        "25% chance to cast Level 18 Glacial Spike on Attack",
+        "Indestructable",
+        "300% - 385% Enhanced Damage",
+        "20% Bonus to Attack Rating",
+        "+50 to Attack Rating",
+        "1-50 Lightning Damage",
+        "7% Mana Leech",
+        "50% of Crushing Blow",
+        "Deadly Strike (Based on Character Level of .5)",
+        "+1 Light Radius",
+        "15 Charges of Level 22 Blood Golem",
+        "-20% Requirements."
+      ],
+      "item": "axe"
+    },
+    {
+      "name": "GRIEF",
+      "runes": "Eth + Tir + Lo + Mal + Ral",
+      "level": "59",
+      "mods": [
+        "20% Chance to Cast Level 15 Venom on Striking",
+        "30% - 40% Increased Attack Speed",
+        "+340 - 400 Damage",
+        "Ignore Targets Defense",
+        "-25% targets Defense",
+        "Damage to Demons based on Character Level % per level)",
+        "Adds 5 - 30 Fire Damage",
+        "Lowers Monsters Poison Resistance by 20% - 25%",
+        "20% Deadly Strike",
+        "Prevent Monster Heal",
+        "+2 Mana Per Kill",
+        "+11 Life per Kill."
+      ],
+      "item": "axe"
+    },
+    {
+      "name": "BEAST",
+      "runes": "Ber + Tir + Um + Mal + Lum",
+      "level": "63",
+      "mods": [
+        "Level 9 Fanatacism Aura when Equipped",
+        "40% Increased Attack Speed",
+        "240% - 270% Enhanced Damage",
+        "20% Chance of Crushing Blow",
+        "25% Chance of Open Wounds",
+        "Level 3 Werebear",
+        "Level 3 Lycanthropy",
+        "25 - 40 Strength",
+        "10 Energy",
+        "+2 Mana per Kill",
+        "5 Charges of Level 13 Summon Grizzly."
+      ],
+      "item": "axe"
+    },
+    {
+      "name": "FAMINE",
+      "runes": "Fal + Ohm + Ort + Jah",
+      "level": "65",
+      "mods": [
+        "30% Increased Attack Speed",
+        "270% - 320% Enhanced Damage",
+        "Ignore Targets Defense",
+        "Adds 180 - 200 Magic Damage",
+        "Adds 50 - 200 Fire Damage",
+        "Adds 51 - 200 Lightning Damage",
+        "Adds 50 - 200 Cold Damage",
+        "12% Life Leech",
+        "Prevents Monster Heal",
+        "10 Strength."
+      ],
+      "item": "axe"
+    },
+    {
+      "name": "Last Wish ",
+      "runes": "Cham + Mal + Jah + Sur + Jah + Ber",
+      "level": "67",
+      "mods": [
+        "6% Chance to Cast Level 11 Fade when Struck",
+        "10% Chance to Cast Level 18 Life Tap on Striking",
+        "20% Chance to Cast Level 20 Charged Bolt on Attack",
+        "330% - 375% Enhanced Damage",
+        "Ignore Targets Defense",
+        "20% - 30% Chance of Crushing Blow",
+        "Prevents Monster Heal",
+        "Hit Blinds target",
+        "Freezes target +3",
+        "Magic Find Based on Character Level (.50 per Level)."
+      ],
+      "item": "axe"
+    },
+    {
+      "name": "DOOM",
+      "runes": "Hel + Ohm + Um + Lo + Cham",
+      "level": "67",
+      "mods": [
+        "5% Chance to Cast Level 18 Volcano on Striking",
+        "Level 12 Holy Freeze Aura when Equipped",
+        "+2 All Skills",
+        "45% Increased Attack Speed",
+        "330% - 370% Enhanced Damage",
+        "-40% - -60% Lowers Enemy Cold Resistance",
+        "20% Deadly Strike",
+        "25% Chance of Open Wounds",
+        "Prevents Monster Heal",
+        "Freezes Target +3",
+        "-20% Requirements."
+      ],
+      "item": "axe"
+    },
+    {
+      "name": "VICTORY",
+      "runes": "Ohm + Ohm + Ist + Lem + Ohm + Ohm",
+      "level": "81",
+      "mods": [
+        "60% Increased Attack Speed",
+        "200% Enhanced Damage",
+        "Maximum Damage Based on Character Level .5 per level)",
+        "Adds 1 - 300 Fire Damage",
+        "Adds 1 - 300 Lightning Damage",
+        "Adds 1 - 300 Cold Damage",
+        "Prevents Monster Heal",
+        "75% Extra Gold from Monsters",
+        "30% Magic Find",
+        "Replenish Durability",
+        "-50% requirements."
+      ],
+      "item": "axe"
+    },
+    {
+      "name": "JEALOUSY",
+      "runes": "Tal + Eld",
+      "level": "17",
+      "mods": [
+        "20% Increased Attack Speed",
+        "122% Enhanced Damage",
+        "75% Enhanced Damage vs. Undead",
+        "+50 Attack Rating vs. Undead",
+        "75 Poison Damage over 5 Seconds",
+        "7% Life & Mana Leech",
+        "Level 3 Spear Mastery",
+        "Level 3 Jab."
+      ],
+      "item": "spear"
+    },
+    {
+      "name": "THIRST",
+      "runes": "Sol + Thul + Ral",
+      "level": "27",
+      "mods": [
+        "+1 All Skills",
+        "125% - 160% Enhanced Damage",
+        "+9 Minimum Damage",
+        "Damage Based on Character Level (1.5 per level)",
+        "Adds 5 - 30 Fire Damage",
+        "Adds 3 - 14 Cold Damage",
+        "+1% - 3% to Experience Gained",
+        "8 - 12 Life After Every Kill",
+        "2 - 5 Mana per Kill."
+      ],
+      "item": "spear"
+    },
+    {
+      "name": "WATER",
+      "runes": "Ko + Shael + Hel",
+      "level": "39",
+      "mods": [
+        "100% Chance to Cast Level 25 Battle Order On Level Up",
+        "20% Increased Attack Speed",
+        "25% Faster Hit Recovery",
+        "175% Enhanced Damage",
+        "Adds 33 - 122 Cold Damage",
+        "10 Dexterity",
+        "Replenish Life by 3 - 5",
+        "Regenerate Mana 35%",
+        "50% Fire Resistance",
+        "-20% Requirements."
+      ],
+      "item": "spear"
+    },
+    {
+      "name": "PILLAR OF FAITH",
+      "runes": "Fal + Fal + Um + Amn",
+      "level": "47",
+      "mods": [
+        "Level 12 Cleansing Aura when Equipped",
+        "20% Increased Attack Speed",
+        "230% Enhanced Damage",
+        "7% Life Leech",
+        "25% Chance of Open Wounds",
+        "Adds 400 - 500 Defense",
+        "20 Strength",
+        "75 Life",
+        "Fire Absorb 15%",
+        "Replenish Durability."
+      ],
+      "item": "spear"
+    },
+    {
+      "name": "DESPAIR",
+      "runes": "Gul + Mal + Shael + Shael + El",
+      "level": "53",
+      "mods": [
+        "32% Chance to Cast Level 6 Weaken on Striking",
+        "40% Increased Attack Speed",
+        "260% - 300% Enhanced Damage",
+        "20% Bonus to Attack Rating",
+        "+50 Attack Rating",
+        "9% Mana Leech",
+        "Level 9 Fend",
+        "Prevents Monster Heal",
+        "Slows Target by 20%",
+        "35% Magic Find",
+        "+1 Light Radius."
+      ],
+      "item": "spear"
+    },
+    {
+      "name": "STORM",
+      "runes": "Jah + Um + Ohm + Ort + Nef",
+      "level": "65",
+      "mods": [
+        "16% Chance to Cast Level 21 Lightning on Strike",
+        "20% Increased Attack Speed",
+        "383% Enhanced Damage",
+        "Ignore Targets Defense",
+        "Adds 1 - 50 Lightning Damage",
+        "Level 10 Thunder Storm",
+        "Knockback",
+        "100% Lightning Resistance",
+        "25% Absorb Lightning Damage",
+        "+3% to Experience Gained."
+      ],
+      "item": "spear"
+    },
+    {
+      "name": "MYTH",
+      "runes": "Fal + Cham + Ber + Hel + Tir + Ral",
+      "level": "75",
+      "mods": [
+        "100% Chance to Cast Level 60 Nova when You Die",
+        "+3 All Skills",
+        "80% - 120% Enhanced Damage",
+        "Adds 200 - 400 Normal Damage",
+        "Adds 5 - 30 Fire Damage",
+        "20% Crushing Blow",
+        "Freeze Target +3",
+        "10 Strength",
+        "50% All Resistance",
+        "+2 Mana Per Kill",
+        "Replenish Durability",
+        "-20% Requirements."
+      ],
+      "item": "spear"
+    },
+    {
+      "name": "SERENDIPITY",
+      "runes": "Amn + Amn",
+      "level": "25",
+      "mods": [
+        "50% Chance to Cast Level 2 Inner Sight on Striking",
+        "20% Faster Cast Rate",
+        "120% Enhanced Damage",
+        "14% Life Leech",
+        "20 Energy",
+        "Regenerate Mana 50%."
+      ],
+      "item": "polearm"
+    },
+    {
+      "name": "INSIGHT",
+      "runes": "Ral + Tir + Tal + Sol",
+      "level": "27",
+      "mods": [
+        "Level 14 Meditation Aura when Equipped",
+        "35% Faster Cast Rate",
+        "200% - 260% Enhanced Damage",
+        "+9 Minimum Damage",
+        "180% - 250% Attack Rating",
+        "Adds 5 - 30 Fire Damage",
+        "75 Poison Damage over 5 Seconds",
+        "Level 1 - 6 Critical Strike",
+        "5 to All Stats",
+        "2 mana Per Kill",
+        "23% Magic Find."
+      ],
+      "item": "polearm"
+    },
+    {
+      "name": "DECEPTION",
+      "runes": "Io + Dol + Lum",
+      "level": "37",
+      "mods": [
+        "40% Faster Hit Recovery",
+        "165% - 205% Enhanced Damage",
+        "Maximum Damage Based on Character Level (+1 per Level)",
+        "8% Life Leech",
+        "15% Extra Fire Skill Damage",
+        "Level 1 Teleport",
+        "Hit Causes Monster to Flee 25%",
+        "10 Vitality",
+        "10 Energy",
+        "150 Charges of Level 18 Meteor."
+      ],
+      "item": "polearm"
+    },
+    {
+      "name": "OBEDIENCE",
+      "runes": "Hel + Ko + Thul + Eth + Fal",
+      "level": "41",
+      "mods": [
+        "30% Chance to Cast Level 21 Enchant when You Kill an Enemy",
+        "40% Fatser Hit Recovery",
+        "370% Enhanced Damage",
+        "-25% to targets Defense",
+        "adds 3-14 Cold Damage",
+        "-25% to Enemies Fire Resistance",
+        "40% Chance of Crushing Blow",
+        "+ 200 - 300 Defense",
+        "10 Strength",
+        "10 Dexterity",
+        "20% - 30% All Resistances",
+        "-20% Requirements."
+      ],
+      "item": "polearm"
+    },
+    {
+      "name": "CRESCENT MOON ",
+      "runes": "Shael + Um + Tir",
+      "level": "47",
+      "mods": [
+        "10% Chance to Cast Level 17 Chain Lightning on Striking",
+        "7% Chance to Cast Level 13 Static Field on Striking",
+        "20% Increased Attack Speed",
+        "180% - 220% Enhanced Damage",
+        "Ignore targets Defense",
+        "-35% to Enemy Lightning Resistance",
+        "25% Chance of Open Wounds",
+        "9 - 11 Absorbs magic Damage",
+        "+2 Mana per Kill",
+        "30 Charges of Level 18 Summon Spirit Wolf."
+      ],
+      "item": "polearm"
+    },
+    {
+      "name": "RIFT",
+      "runes": "Hel + Ko + Lem + Gul",
+      "level": "53",
+      "mods": [
+        "20% Chance to Cast Level 16 Tornado on Striking",
+        "16% Chance to Cast level 21 Frozen Orb on Striking",
+        "20% Bonus to Attack Rating",
+        "Adds 160 - 250 Magic Damage",
+        "Adds 60 - 180 Fire Damage",
+        "5 - 10 All Stats ( w/ +10 Dexterity)",
+        "38% Damage Goes to Mana",
+        "75% Extra Gold from Monsters",
+        "40 Charges of Level 15 Iron Golem",
+        "-20% Requirements."
+      ],
+      "item": "polearm"
+    },
+    {
+      "name": "INFINITY",
+      "runes": "Ber + Mal + Ber + Ist",
+      "level": "63",
+      "mods": [
+        "50% Chance to Cast Level 20 Chain Lightning when You kill an Enemy",
+        "Level 12 Conviction Aura when Equipped",
+        "35% Fatser Run/Walk",
+        "255% - 325% Enhanced Damage",
+        "-55% to Enemies Lightning Resistance",
+        "40% Chance Crushing Blow",
+        "Prevent Monster Heal",
+        "Vitality Based on Character Level (.5 Per Level)",
+        "30% Magic Find",
+        "30 Charges of Level 21 Cyclone Armor."
+      ],
+      "item": "polearm"
+    },
+    {
+      "name": "DESTRUCTION",
+      "runes": "Vex + Lo + Ber + Jah + Ko",
+      "level": "65",
+      "mods": [
+        "23% Chance to cast Level 12 Vocano on Striking",
+        "5% Chance to Cast Level 23 Molton Bolder on Strike",
+        "100% Chance to cast Level 45 Meteor upon Dying",
+        "15% Chance to Cast Level 22 Nova on Attacking",
+        "350% Enhanced Damage",
+        "Ignore Targets Defense",
+        "Adds 100 - 180 Magic Damage",
+        "7% Mana Leech",
+        "20% Chance of Crushing Blow",
+        "20% Chance of Deadly Strike",
+        "10 Dexterity."
+      ],
+      "item": "polearm"
+    },
+    {
+      "name": "PRIDE",
+      "runes": "Cham + Sur + Lo + Io",
+      "level": "67",
+      "mods": [
+        "25% chance to Cast Level 17 Fire wall when Struck",
+        "Level 18 Concentration Aura when Equipped",
+        "260% - 300% Attack Rating",
+        "Damage to demons based On Character Level (1% per Level)",
+        "50 - 280 Lightning Damage",
+        "20% Deadly Strike",
+        "Hit Blinds target",
+        "Freezes Target +3",
+        "10 Vitality",
+        "Replenish Life +8."
+      ],
+      "item": "polearm"
+    },
+    {
+      "name": "DOOM",
+      "runes": "Hel + Ohm + Um + Lo + Cham",
+      "level": "67",
+      "mods": [
+        "5% Chance to Cast Level 18 Volcano on Striking",
+        "Level 12 Holy Freeze Aura when Equipped",
+        "+2 All Skills",
+        "45% Increased Attack Speed",
+        "330% - 370% Enhanced Damage",
+        "-40% - -60% Lowers Enemy Cold Resistance",
+        "20% Deadly Strike",
+        "25% Chance of Open Wounds",
+        "Prevents Monster Heal",
+        "Freezes Target +3",
+        "-20% Requirements."
+      ],
+      "item": "polearm"
+    },
+    {
+      "name": "MORNING DEW ",
+      "runes": "Mal + Ith + Ber + Cham + Zod + Ist",
+      "level": "79",
+      "mods": [
+        "100% Chance to Cast Level 10 Static Field When You Kill an Enemy",
+        "Indestructable",
+        "+3 Druid Skills",
+        "50% Increased Attack Speed",
+        "300% - 360% Enhanced Damage",
+        "+9 Maximum Damage",
+        "20% Chance of Crushing Blow",
+        "Level 20 Polearm Mastery",
+        "Prevents Monster Heal",
+        "Freezes Target +3",
+        "25% All Resistances",
+        "30% Magic Find."
+      ],
+      "item": "polearm"
+    },
+    {
+      "name": "LEAF",
+      "runes": "Tir + Ral",
+      "level": "19",
+      "mods": [
+        "+3 Fire Skills",
+        "5 - 30 Fire Damage",
+        "+3 Inferno (Sorceress Only)",
+        "+3 Warmth (Sorceress Only)",
+        "+3 Firebolt (Sorceress Only)",
+        "+ Defense Based on Character Level (+2 per Level)",
+        "33% Cold Resistance",
+        "+2 mana per Kill."
+      ],
+      "item": "staff"
+    },
+    {
+      "name": "INSIGHT",
+      "runes": "Ral + Tir + Tal + Sol",
+      "level": "27",
+      "mods": [
+        "Level 14 Meditation Aura when Equipped",
+        "35% Faster Cast Rate",
+        "200% - 260% Enhanced Damage",
+        "+9 Minimum Damage",
+        "180% - 250% Attack Rating",
+        "Adds 5 - 30 Fire Damage",
+        "75 Poison Damage over 5 Seconds",
+        "Level 1 - 6 Critical Strike",
+        "5 to All Stats",
+        "2 mana Per Kill",
+        "23% Magic Find."
+      ],
+      "item": "staff"
+    },
+    {
+      "name": "MEMORY",
+      "runes": "Lum + Io + Sol + Eth",
+      "level": "37",
+      "mods": [
+        "+3 Sorceress Skills",
+        "33% Faster Cast Rate",
+        "+9 Minimum Damage",
+        "-25% Target Defense",
+        "+3 Energy Shield (Sorceress Only)",
+        "+2 Static Field (Sorceress Only)",
+        "50 Enhanced Defense",
+        "10 Vitality",
+        "10 Energy",
+        "Increased Maximum Mana 20%",
+        "Magic Damage Reduced by 7."
+      ],
+      "item": "staff"
+    },
+    {
+      "name": "HEART OF THE OAK ",
+      "runes": "Ko + Vex + Pul + Thul",
+      "level": "55",
+      "mods": [
+        "+3 All Skill",
+        "40% Faster Cast Rate",
+        "75% Damage to Demons",
+        "+100 Attack Rating vs. Demons",
+        "3 - 14 Cold Damage",
+        "7% Mana Leech",
+        "10 Dexterity",
+        "Replenish Life +20",
+        "Increased Maximum Mana 15%",
+        "30% - 40% All Resistances",
+        "25 Charges of Level 4 Oak Sage",
+        "60 Charges of Level 14  Raven."
+      ],
+      "item": "staff"
+    },
+    {
+      "name": "REASON",
+      "runes": "Lum + Lum + Zod + Tir",
+      "level": "69",
+      "mods": [
+        "Level 5 Meditation Aura when Equipped",
+        "+3 to Sorceress Skill Levels",
+        "50% Faster Cast Rate",
+        "+8 Levels to Random Sorceress Skill (Sorceress Only)",
+        "20 Energy",
+        "Damage Reduced by 20%",
+        "+2 Mana Per Kill",
+        "20% Damage Goes to Mana",
+        "+3% Experience Gained."
+      ],
+      "item": "staff"
+    },
+    {
+      "name": "HOLY THUNDER ",
+      "runes": "Eth + Ral + Ort + Tal",
+      "level": "24",
+      "mods": [
+        "60% Enhanced Damage",
+        "+10 maximum Damage",
+        "-25% Target Defense",
+        "6 - 30 Fire Damage",
+        "21 - 110 Lightning Damage",
+        "75 Poison Damage over 5 Seconds",
+        "+3 Holy Shock (Paladin Only)",
+        "+5% maximum Lightning Resistance",
+        "60% Lightning Resistance",
+        "60 Charges of Level 7 Chain Lightning."
+      ],
+      "item": "scepter"
+    },
+    {
+      "name": "KING'S GRACE ",
+      "runes": "Amn + Ral + Thul",
+      "level": "25",
+      "mods": [
+        "100% Enhanced Damage",
+        "+150 Attack Rating",
+        "+100% Damage vs. Demons",
+        "+100 Attack Rating vs. Demons",
+        "+50% Damage vs. Undead",
+        "+100 Attack Rating vs. Undead",
+        "Adds 5 - 30 Fire Damage",
+        "Adds 3 - 14 Cold Damage",
+        "7% Life Leech."
+      ],
+      "item": "scepter"
+    },
+    {
+      "name": "HOLY TEARS ",
+      "runes": "Io + Tir + Shael",
+      "level": "35",
+      "mods": [
+        "15% Chance to Cast Level 9 Fist of the Heavens on Striking",
+        "40% Increased Attack Speed",
+        "160% - 200% Enhanced Damage",
+        "35% Bonus to Attack Rating",
+        "300% Damage to Demons",
+        "Level 3 Zeal",
+        "Slows Target by 35%",
+        "10 Vitality",
+        "+2 Mana Per Kill."
+      ],
+      "item": "scepter"
+    },
+    {
+      "name": "LAWBRINGER",
+      "runes": "Amn + Lem + Ko",
+      "level": "43",
+      "mods": [
+        "20% Chance to Cast Level 15 decrepify on Striking",
+        "Level 18 Sancuary Aura when Equipped",
+        "-50 to Target Defense",
+        "Adds 150 - 220 Fire Damage",
+        "Adds 130 - 180 Cold Damage",
+        "7% Life Leech",
+        "Slain Monsters Rest in Peace",
+        "200 - 250 Defense vs. Missiles",
+        "10 Dexterity",
+        "75% extra Gold from Monsters."
+      ],
+      "item": "scepter"
+    },
+    {
+      "name": "RIFT",
+      "runes": "Hel + Ko + Lem + Gul",
+      "level": "53",
+      "mods": [
+        "20% Chance to Cast Level 16 Tornado on Striking",
+        "16% Chance to Cast level 21 Frozen Orb on Striking",
+        "20% Bonus to Attack Rating",
+        "Adds 160 - 250 Magic Damage",
+        "Adds 60 - 180 Fire Damage",
+        "5 - 10 All Stats ( w/ +10 Dexterity)",
+        "38% Damage Goes to Mana",
+        "75% Extra Gold from Monsters",
+        "40 Charges of Level 15 Iron Golem",
+        "-20% Requirements."
+      ],
+      "item": "scepter"
+    },
+    {
+      "name": "BEAST",
+      "runes": "Ber + Tir + Um + Mal + Lum",
+      "level": "63",
+      "mods": [
+        "Level 9 Fanatacism Aura when Equipped",
+        "40% Increased Attack Speed",
+        "240% - 270% Enhanced Damage",
+        "20% Chance of Crushing Blow",
+        "25% Chance of Open Wounds",
+        "Level 3 Werebear",
+        "Level 3 Lycanthropy",
+        "25 - 40 Strength",
+        "10 Energy",
+        "+2 Mana per Kill",
+        "5 Charges of Level 13 Summon Grizzly."
+      ],
+      "item": "scepter"
+    },
+    {
+      "name": "WINGS OF HOPE",
+      "runes": "Cham + Cham",
+      "level": "76",
+      "mods": [
+        "25% Chance to Cast Level 35 Bone Spear on Striking",
+        "Level 3 Salvation Aura when Equipped",
+        "60 - 100 Minimum Damage",
+        "150 - 200 Maximum Damage",
+        "Level 8 Teleport",
+        "Slain Monsters Rest in Peace",
+        "Freeze Target +6",
+        "+20 to All Attributes."
+      ],
+      "item": "scepter"
+    },
+    {
+      "name": "SHADOW OF DOUBT",
+      "runes": "El + Tir",
+      "level": "13",
+      "mods": [
+        "+1 - +3 to Poison and Bone Skills (Necromancer Only)",
+        "+1 - +3 to Summoning Skills (Necromancer Only)",
+        "+1 - +3 to Curses Skills (Necromancer Only)",
+        "15% Faster Cast Rate",
+        "50 Attack Rating",
+        "+10% to Poison Skill Damage",
+        "+2 Mana per Kill",
+        "+1 Light Radius."
+      ],
+      "item": "wand"
+    },
+    {
+      "name": "WHITE",
+      "runes": "Dol + Io",
+      "level": "39",
+      "mods": [
+        "+3 Poison & Bone Skills (Necromancer Only)",
+        "+2 Bone Spear (Necromancer Only)",
+        "+4 Skeleton Mastery (Necromancer Only)",
+        "+3 Bone Armor (Necromancer Only)",
+        "Hit Causes Monster to Flee 25%",
+        "10 Vitality",
+        "13 Mana",
+        "Magic Damage Reduced by 4."
+      ],
+      "item": "wand"
+    },
+    {
+      "name": "LUST",
+      "runes": "Shael + Mal",
+      "level": "49",
+      "mods": [
+        "Extra Gold from Monsters Based on Time (1% - 300%)",
+        "Level 8 Holy Shock Aura when Equipped",
+        "+2 Necromancer Skills",
+        "20% Increased Attack Speed",
+        "Prevent Monster Heal",
+        "Increase Maximum Mana 35%",
+        "35% - 50% All Resistance",
+        "+5% to Experience Gained",
+        "40% Magic Find."
+      ],
+      "item": "wand"
+    },
+    {
+      "name": "WISDOM",
+      "runes": "Jah + Lum",
+      "level": "65",
+      "mods": [
+        "+2 All Skills",
+        "Ignore Targets Defense",
+        "10 Energy",
+        "Replenish Life +5",
+        "Mana Based on Character Level (+2 per level)",
+        "Regenerate Mana 75%",
+        "20% Magic Resistance",
+        "+3% - 5% to Gained Experience",
+        "Reduces all Vendor Prices by 10%."
+      ],
+      "item": "wand"
+    },
+    {
+      "name": "BEAUTY",
+      "runes": "Tir + Dol",
+      "level": "31",
+      "mods": [
+        "+3 to Bow & Crossbow Skills (Amazon Only)",
+        "Adds 30 - 60 Normal Damage",
+        "Ignore Targets Defense",
+        "8% Life Leech",
+        "50% Chance of Open Wounds",
+        "Hit Causes Monster to Flee 25%",
+        "Slows target by 15%",
+        "Knockback",
+        "+2 Mana per Kill"
+      ],
+      "item": "amazon bows"
+    },
+    {
+      "name": "LOVE",
+      "runes": "Pul + Hel + El",
+      "level": "45",
+      "mods": [
+        "+1 Amazon Skills",
+        "40% Increased Attack Speed",
+        "Fires Explosive Arrows",
+        "200% Enhanced Damage",
+        "50 Attack Rating",
+        "75% Enhanced Damage vs. Demons",
+        "100 to Attack Rating vs. Demons",
+        "30% Deadly Strike",
+        "75 Life",
+        "50 Mana",
+        "+1 Light Radius",
+        "-20% Requirements."
+      ],
+      "item": "amazon bows"
+    },
+    {
+      "name": "STILL WATER ",
+      "runes": "Gul + Um + Mal + Nef",
+      "level": "53",
+      "mods": [
+        "+2 to Bow & Crossbow Skills (Amazon Only)",
+        "+1 Amazon Skills",
+        "20% Increased Attack Speed",
+        "80% - 120% Enhanced Damage",
+        "Adds 30 - 150 Normal Damage",
+        "20% Bonus to Attack Rating",
+        "Adds 100 - 150 Cold Damage",
+        "25% Chance of Open Wounds",
+        "Prevents Monster Heal",
+        "Knockback",
+        "Adds 15 - 20 Life per Kill."
+      ],
+      "item": "amazon bows"
+    },
+    {
+      "name": "DESTINY'S DAUGHTER ",
+      "runes": "Shael + Nef + Cham + Thul + Vex",
+      "level": "67",
+      "mods": [
+        "100% Chance to Cast Level 8 Nova on Striking",
+        "100% Chance to Cast Level 60 Nova When you Die",
+        "20% Increased Attack Speed",
+        "40 - 75 Minimum Damage",
+        "Maximum Damage Based on Character Level .25 per level)",
+        "Adds 3 - 14 Cold Damage",
+        "7% Mana Leech",
+        "20% - 25% Extra Cold Skill Damage",
+        "20% - 25% Extra Fire Skill Damage",
+        "Prevents Monster Heal",
+        "Freezes Target +3",
+        "Knockback."
+      ],
+      "item": "amazon bows"
+    },
+    {
+      "name": "PRINCIPLE",
+      "runes": "Shae + Fal + Ko + Shael",
+      "level": "41",
+      "mods": [
+        "+2 Amazon Skills",
+        "40% Increased Attack Speed",
+        "200% - 260% Enhanced Damage",
+        "Slain Monsters Rest in Peace",
+        "10 Dexterity",
+        "10 Strength",
+        "35% All Resistance",
+        "+2% to Experience Gained",
+        "22 Charges of Level 10 Cyclone Armor",
+        "10 Charges of Level 20 Thunder Storm."
+      ],
+      "item": "amazon spear"
+    },
+    {
+      "name": "TRADITION",
+      "runes": "Sur + Lo + Ohm + Gul + Ist",
+      "level": "61",
+      "mods": [
+        "+3 Amazon Skills",
+        "50% Increased Attack Speed",
+        "375% - 450% Enhanced Damage",
+        "20% Bonus to Attack Rating",
+        "10% Life & Mana Leech",
+        "-25% to Enemies Lightning Resistance",
+        "+25% Damage to Lightning Skills",
+        "20% Deadly Strike",
+        "Hit Blinds Target",
+        "30% Magic Find."
+      ],
+      "item": "amazon spear"
+    },
+    {
+      "name": "VENGEANCE",
+      "runes": "Dol + Nef",
+      "level": "31",
+      "mods": [
+        "100% Chance to Cast Level 55 Poison Nova on Death",
+        "+1 Assassin Skills",
+        "Adds 35 - 70 Normal Damage",
+        "6% Life Leech",
+        "Hit Causes Monster Flee 25%",
+        "Knockback",
+        "10 All Attributes",
+        "40 Life."
+      ],
+      "item": "assasin claw"
+    },
+    {
+      "name": "TEMPEST",
+      "runes": "Lem + Thul",
+      "level": "45",
+      "mods": [
+        "+3 to Trap Skills (Assassin Only)",
+        "+2 Assassin Skills",
+        "140% - 190% Enhanced Damage",
+        "Adds 100 - 200 Fire Damage",
+        "Adds 1 - 300 Lightning Damage",
+        "Adds 33 - 84 Cold Damage",
+        "20% - 30% Extra Damage to Lightning Skills",
+        "75% Extra Gold from Monsters."
+      ],
+      "item": "assasin claw"
+    },
+    {
+      "name": "CHAOS",
+      "runes": "Fal + Ohm + Um",
+      "level": "57",
+      "mods": [
+        "9% Chance to Cast Level 11 Frozen Orb on Striking",
+        "11% Chance to Cast Level 9 Charged Bolt on Striking",
+        "35% Increased Attack Speed",
+        "290% - 340% Enhanced Damage",
+        "216 - 471 Magic Damage",
+        "25% Chance of Open Wounds",
+        "Level 1 Whirlwind",
+        "10 Strength",
+        "+15 Life after each Demon Killed."
+      ],
+      "item": "assasin claw"
+    },
+    {
+      "name": "DARKNESS",
+      "runes": "Zod + Amn + Vex",
+      "level": "69",
+      "mods": [
+        "Strength Based on Time ( 1 - 100)",
+        "Vitality Based on Time ( 1 - 100)",
+        "Indestructable",
+        "+3 Assassin Skills",
+        "Adds 75 - 150 Normal Damage",
+        "7% Life and Mana Leech",
+        "20% - 40% All Resistance",
+        "15% Damage Reduced."
+      ],
+      "item": "assasin claw"
+    },
+    {
+      "name": "TRUTH",
+      "runes": "Sol + Ith",
+      "level": "27",
+      "mods": [
+        "+1 Sorceress Levels",
+        "25% Faster Cast Rate",
+        "100% Enhanced Damage",
+        "+9 Minimum Damage",
+        "+9 Maximum Damage",
+        "35 Mana",
+        "Regenerate Mana 75%."
+      ],
+      "item": "sorceress orb"
+    },
+    {
+      "name": "THOUGHT",
+      "runes": "Tir + Lum + Ist",
+      "level": "51",
+      "mods": [
+        "+2 Sorceress Skills",
+        "20% Faster Hit Recovery",
+        "15% Increased Chance of Blocking",
+        "+20% Extra Cold Skill Damage",
+        "-20% to Enemy Light Resistance",
+        "10 Energy",
+        "Replenish Life +6",
+        "Regenerate Mana 75%",
+        "+2 Mana per Kill",
+        "30% Magic Find."
+      ],
+      "item": "sorceress orb"
+    },
+    {
+      "name": "DAYLIGHT",
+      "runes": "Jah + Fal + Um",
+      "level": "65",
+      "mods": [
+        "Level 4 Conviction Aura when Equipped",
+        "+3 Sorceress Skills",
+        "30% Faster Cast Rate",
+        "Ignore Targets Defense",
+        "25% Chance of Open Wounds",
+        "10 Strength",
+        "Increase Maximum Life 25%",
+        "Increase Maximum Mana 50%",
+        "Regenerate Mana 50%",
+        "33 Charges of Level 18 Lower Resist."
+      ],
+      "item": "sorceress orb"
+    }
+  ]
+}

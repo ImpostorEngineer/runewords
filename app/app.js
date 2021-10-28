@@ -12,6 +12,9 @@ const podrw = poddata.runewords;
 const d2data = require('../data/runewordsD2.json');
 const d2rw = d2data.runewords;
 
+const newdawndata = require('../data/newdawn.json');
+const newdawn = newdawndata.runewords;
+
 const goldURL = 'https://query1.finance.yahoo.com/v8/finance/chart/GC=F';
 const silverURL = 'https://query1.finance.yahoo.com/v8/finance/chart/SI=F';
 
@@ -98,6 +101,15 @@ router.get('/d2rw', (req, res) => {
 
 router.get('/d2rw/:name', (req, res) => {
   const runeword = d2rw.filter((c) => c.name.toUpperCase().indexOf(req.params.name.toUpperCase()) !== -1);
+  res.json(runeword);
+});
+
+router.get('/newdawnrw', (req, res) => {
+  res.json(newdawn);
+});
+
+router.get('/newdawnrw/:name', (req, res) => {
+  const runeword = newdawn.filter((c) => c.name.toUpperCase().indexOf(req.params.name.toUpperCase()) !== -1);
   res.json(runeword);
 });
 
