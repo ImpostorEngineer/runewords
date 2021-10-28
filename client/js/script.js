@@ -9,6 +9,11 @@ function formSubmitted(event) {
   searchRunewords(searchTerm);
 }
 
+window.onload = function onpageLoad() {
+  const searchTerm = input.value;
+  searchRunewords(searchTerm);
+};
+
 async function searchRunewords(searchTerm) {
   const url = 'https://runewords.vercel.app/api/podrw/' + searchTerm;
   const data = await fetch(url).then((response) => response.json());

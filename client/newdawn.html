@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Newdawn Diablo 2 Runewords</title>
+    <link id="favicon" rel="icon" href="/assets/favicon.ico" type="image/x-icon" />
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <div id="container" style="max-width: 1200px !important">
+      <header>
+        <h1>Newdawn Diablo 2 Runewords</h1>
+      </header>
+      <div class="content">
+        <p> This website is an API for nightbot commands. </p>
+      </div>
+      <div>
+        <form action="" method="get" class="m-2">
+          <label for="searchTerm"></label>
+          <input
+            size="50"
+            type="text"
+            name="searchTerm"
+            id="searchTerm"
+            class="p-1 mx-1"
+            placeholder="Enter Runeword"
+          />
+          <button type="submit" class="bg-red-500 p-1" onclick=""> Search </button>
+        </form>
+        <div style="display: flex" class="text-lg font-bold">
+          <div style="width: 155px; padding: 7px"> Runeword </div>
+          <div style="width: 98px; padding: 7px"> Runes </div>
+          <div style="width: 80px; padding: 7px"> Level </div>
+          <div style="width: 116px; padding: 7px"> Items </div>
+          <div style="width: 751px; padding: 7px"> Mods </div>
+        </div>
+        <table id="" border="0">
+          <tbody id="runewordsList"></tbody>
+        </table>
+      </div>
+    </div>
+    <script>
+      const form = document.querySelector('form');
+      const input = document.querySelector('input');
+      form.addEventListener('submit', formSubmitted);
+
+      function formSubmitted(event) {
+        event.preventDefault();
+        document.getElementById('runewordsList').innerHTML = '';
+        const searchTerm = input.value;
+        searchRunewords(searchTerm);
+      }
+
+      window.onload = function onpageLoad() {
+        const searchTerm = input.value;
+        searchRunewords(searchTerm);
+      };
+
+      async function searchRunewords(searchTerm) {
+        const url = 'https://runewords.vercel.app/api/newdawnrw/' + searchTerm;
+        const data = await fetch(url).then((response) => response.json());
+
+        for (i = 0; i < data.length; i++) {
+          document
+            .getElementById('runewordsList')
+            .insertAdjacentHTML(
+              'beforeend',
+              '<tr><td width="155px" class="align-text-top"><b>' +
+                data[i].name.toUpperCase() +
+                '</b></td><td width="98px"><i>' +
+                data[i].runes +
+                '</i></td><td width="80px">' +
+                data[i].level +
+                '</td><td width="116px">' +
+                data[i].item +
+                '</td><td width="751px">' +
+                data[i].mods +
+                '</td></tr>'
+            );
+        }
+      }
+
+      function sortItems(data) {
+        data.sort((a, b) => {
+          return a.items === b.items ? 0 : a.items > b.items ? 1 : -1;
+        });
+      }
+    </script>
+  </body>
+</html>
