@@ -108,9 +108,34 @@ router.get('/newdawnrw', (req, res) => {
   res.json(newdawn);
 });
 
-router.get('/newdawnrw/:name', (req, res) => {
+router.get('/newdawnrw/name/:name', (req, res) => {
   const runeword = newdawn.filter((c) => c.name.toUpperCase().indexOf(req.params.name.toUpperCase()) !== -1);
   res.json(runeword);
+});
+
+router.get('/newdawnrw/item/:item', (req, res) => {
+  const items = newdawn.filter((c) => c.item.toUpperCase().indexOf(req.params.item.toUpperCase()) !== -1);
+  res.json(items);
+});
+
+router.get('/newdawnrw/runes/:runes', (req, res) => {
+  const runes = newdawn.filter((c) => c.runes.toUpperCase().indexOf(req.params.runes.toUpperCase()) !== -1);
+  res.json(runes);
+});
+
+router.get('/newdawnrw/mods/:searchMods', (req, res) => {
+  const list = newdawn.filter((c) => {
+    let modcount = 0;
+    for (let md = 0; md < c.mods.length; md++) {
+      if (c.mods[md].toUpperCase().indexOf(req.params.searchMods.toUpperCase()) !== -1) {
+        modcount += 1;
+      }
+      if (modcount > 0) {
+        return true;
+      }
+    }
+  });
+  res.json(list);
 });
 
 const allowCors = (fn) => async (req, res) => {

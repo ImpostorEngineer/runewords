@@ -25,9 +25,17 @@
             class="p-1 mx-1"
             placeholder="Enter Runeword"
           />
+          <label for="searchOptions"></label>
+          <select name="searchOptions" id="searchOptions" style="padding: 6px; width: 150px">
+            <option value="name">Name</option>
+            <option value="runes">Rune</option>
+            <option value="item">Items</option>
+            <option value="mods">Mods</option>
+          </select>
           <button type="submit" class="bg-red-500 p-1" onclick=""> Search </button>
         </form>
         <div style="display: flex" class="text-lg font-bold">
+          <div style="width: 41px; padding: 7px; text-align: right">#</div>
           <div style="width: 155px; padding: 7px"> Runeword </div>
           <div style="width: 98px; padding: 7px"> Runes </div>
           <div style="width: 80px; padding: 7px"> Level </div>
@@ -42,30 +50,45 @@
     <script>
       const form = document.querySelector('form');
       const input = document.querySelector('input');
+      const searchOptions = document.getElementById('searchOptions');
+      console.log(searchOptions.value);
       form.addEventListener('submit', formSubmitted);
 
       function formSubmitted(event) {
         event.preventDefault();
         document.getElementById('runewordsList').innerHTML = '';
         const searchTerm = input.value;
-        searchRunewords(searchTerm);
+        const searchCriteria = searchOptions.value;
+        searchRunewords(searchTerm, searchCriteria);
       }
 
-      window.onload = function onpageLoad() {
-        const searchTerm = input.value;
-        searchRunewords(searchTerm);
+      window.onload = async function onpageLoad() {
+        const url = 'http://localhost:5000/api/newdawnrw/';
+        const data = await fetch(url).then((response) => response.json());
+        innerHTML(data);
       };
 
-      async function searchRunewords(searchTerm) {
-        const url = 'https://runewords.vercel.app/api/newdawnrw/' + searchTerm;
+      async function searchRunewords(searchTerm, searchCriteria) {
+        const url = 'http://localhost:5000/api/newdawnrw/' + searchCriteria + '/' + searchTerm;
+        console.log(url);
         const data = await fetch(url).then((response) => response.json());
-
+        // let keys = Object.keys(data[0]);
+        // for (k in keys) {
+        //   document.getElementById('searchCriteria').innerHTML +=
+        //     "<option value='" + keys[k] + "'>" + keys[k] + '</option>';
+        // }
+        innerHTML(data);
+      }
+      function innerHTML(data) {
         for (i = 0; i < data.length; i++) {
+          let rank = 1 + i;
           document
             .getElementById('runewordsList')
             .insertAdjacentHTML(
               'beforeend',
-              '<tr><td width="155px" class="align-text-top"><b>' +
+              '<tr><td width="38px" style="text-align:right;">' +
+                rank +
+                '</td><td width="155px" class="align-text-top"><b>' +
                 data[i].name.toUpperCase() +
                 '</b></td><td width="98px"><i>' +
                 data[i].runes +
