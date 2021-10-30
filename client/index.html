@@ -2,16 +2,8 @@
 <html>
   <head>
     <title>Diablo 2 Runewords</title>
-    <link
-      id="favicon"
-      rel="icon"
-      href="/assets/favicon.ico"
-      type="image/x-icon"
-    />
-    <link
-      href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
-      rel="stylesheet"
-    />
+    <link id="favicon" rel="icon" href="/assets/favicon.ico" type="image/x-icon" />
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="./css/style.css" />
   </head>
   <body>
@@ -24,9 +16,7 @@
           This website is an API for nightbot commands. We play two mods:
           <a href="https://pathofdiablo.com/" target="_blank">Path of Diablo</a>
           and
-          <a href="https://www.projectdiablo2.com/" target="_blank"
-            >Project Diablo 2</a
-          >.
+          <a href="https://www.projectdiablo2.com/" target="_blank">Project Diablo 2</a>.
         </p>
         <h3>API Docs:</h3>
         <ul>
@@ -77,22 +67,23 @@
             class="p-1 mx-1"
             placeholder="Enter Runeword"
           />
-          <button type="submit" class="bg-red-500 p-1" onclick="">
-            Search
-          </button>
+          <label for="searchOptions"></label>
+          <select name="searchOptions" id="searchOptions" style="padding: 6px; width: 150px">
+            <option value="name">Name</option>
+            <option value="runes">Rune</option>
+            <option value="item">Items</option>
+          </select>
+          <button type="submit" class="bg-red-500 p-1" onclick=""> Search </button>
         </form>
-        <div class="grid grid-flow-col auto-cols-fr" style="width: 700px">
-          <div class="">
-            Runeword <a href="">&#9660;</a> <a href="">&#9650;</a>
-          </div>
-          <div class="">
-            Runes <a href="">&#9660;</a> <a href="">&#9650;</a>
-          </div>
-          <div class="">
-            Items <a href="">&#9660;</a> <a href="">&#9650;</a>
-          </div>
+        <div style="display: flex" class="text-lg font-bold">
+          <div style="width: 41px; padding: 7px; text-align: right">#</div>
+          <div style="width: 200px; padding: 7px"> Runeword </div>
+          <div style="width: 250px; padding: 7px"> Runes </div>
+          <div style="width: 116px; padding: 7px"> Items </div>
         </div>
-        <table id="runewordsList" border="0"></table>
+        <table id="" border="0">
+          <tbody id="runewordsList"></tbody>
+        </table>
       </div>
     </div>
     <script src="./js/script.js"></script>

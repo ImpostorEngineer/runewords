@@ -12,14 +12,19 @@ function formSubmitted(event) {
 }
 
 window.onload = async function onpageLoad() {
-  const url = './api/podrw/';
+  const url = './api/newdawnrw/';
   const data = await fetch(url).then((response) => response.json());
   innerHTML(data);
 };
 
 async function searchRunewords(searchTerm, searchCriteria) {
-  const url = './api/podrw/' + searchCriteria + '/' + searchTerm;
+  const url = './api/newdawnrw/' + searchCriteria + '/' + searchTerm;
   const data = await fetch(url).then((response) => response.json());
+  // let keys = Object.keys(data[0]);
+  // for (k in keys) {
+  //   document.getElementById('searchCriteria').innerHTML +=
+  //     "<option value='" + keys[k] + "'>" + keys[k] + '</option>';
+  // }
   innerHTML(data);
 }
 
@@ -32,15 +37,17 @@ function innerHTML(data) {
         'beforeend',
         '<tr><td width="38px" style="text-align:right;">' +
           rank +
-          '</td><td width="200px" class="align-text-top"><b>' +
+          '</td><td width="155px" class="align-text-top"><b>' +
           data[i].name.toUpperCase() +
-          '</b></td><td width="250px"><i>' +
+          '</b></td><td width="98px"><i>' +
           data[i].runes +
-          '</td><td width=""><a href="' +
-          data[i].link +
-          '" target="_blank">' +
-          data[i].items +
-          '</a></td></tr>'
+          '</i></td><td width="80px">' +
+          data[i].level +
+          '</td><td width="116px">' +
+          data[i].item +
+          '</td><td width="751px">' +
+          data[i].mods +
+          '</td></tr>'
       );
   }
 }

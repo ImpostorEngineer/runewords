@@ -95,6 +95,21 @@ router.get('/podrw/:name', (req, res) => {
   res.json(runeword);
 });
 
+router.get('/podrw/name/:name', (req, res) => {
+  const runeword = podrw.filter((c) => c.name.toUpperCase().indexOf(req.params.name.toUpperCase()) !== -1);
+  res.json(runeword);
+});
+
+router.get('/podrw/runes/:rune', (req, res) => {
+  const runeword = podrw.filter((c) => c.runes.toUpperCase().indexOf(req.params.rune.toUpperCase()) !== -1);
+  res.json(runeword);
+});
+
+router.get('/podrw/item/:item', (req, res) => {
+  const runeword = podrw.filter((c) => c.items.toUpperCase().indexOf(req.params.item.toUpperCase()) !== -1);
+  res.json(runeword);
+});
+
 router.get('/d2rw', (req, res) => {
   res.json(d2rw);
 });
