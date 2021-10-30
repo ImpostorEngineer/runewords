@@ -63,13 +63,13 @@
       }
 
       window.onload = async function onpageLoad() {
-        const url = 'http://localhost:5000/api/newdawnrw/';
+        const url = './api/newdawnrw/';
         const data = await fetch(url).then((response) => response.json());
         innerHTML(data);
       };
 
       async function searchRunewords(searchTerm, searchCriteria) {
-        const url = 'http://localhost:5000/api/newdawnrw/' + searchCriteria + '/' + searchTerm;
+        const url = './api/newdawnrw/' + searchCriteria + '/' + searchTerm;
         console.log(url);
         const data = await fetch(url).then((response) => response.json());
         // let keys = Object.keys(data[0]);

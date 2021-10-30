@@ -15,7 +15,7 @@ window.onload = function onpageLoad() {
 };
 
 async function searchRunewords(searchTerm) {
-  const url = 'https://runewords.vercel.app/api/podrw/' + searchTerm;
+  const url = './api/podrw/' + searchTerm;
   const data = await fetch(url).then((response) => response.json());
 
   for (i = 0; i < data.length; i++) {
