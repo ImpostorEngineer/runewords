@@ -31,22 +31,26 @@ async function searchRunewords(searchTerm, searchCriteria) {
 function innerHTML(data) {
   for (i = 0; i < data.length; i++) {
     let rank = 1 + i;
+    let modsText = '';
+    for (m = 0; m < data[i].mods.length; m++) {
+      modsText += data[i].mods[m] + '<br/>';
+    }
     document
       .getElementById('runewordsList')
       .insertAdjacentHTML(
         'beforeend',
-        '<tr><td width="38px" style="text-align:right;">' +
+        '<tr><td width="38px" style="text-align:right; vertical-align:top">' +
           rank +
-          '</td><td width="155px" class="align-text-top"><b>' +
+          '</td><td style="vertical-align:top; width:170px"><b>' +
           data[i].name.toUpperCase() +
-          '</b></td><td width="98px"><i>' +
+          '</b></td><td width="120px" style="vertical-align:top"><i>' +
           data[i].runes +
-          '</i></td><td width="80px">' +
+          '</i></td><td width="80px" style="vertical-align:top">' +
           data[i].level +
-          '</td><td width="116px">' +
+          '</td><td width="116px" style="vertical-align:top">' +
           data[i].item +
-          '</td><td width="751px">' +
-          data[i].mods +
+          '</td><td width="450px" style="vertical-align:top">' +
+          modsText +
           '</td></tr>'
       );
   }
