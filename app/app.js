@@ -98,6 +98,9 @@ router.get('/pd2rw/:name', (req, res) => {
   const runeword = pd2rw.filter((c) => c.name.toUpperCase().indexOf(req.params.name.toUpperCase()) !== -1);
   const matches = filterRunewords(req.params.name, runeword);
   const finalResult = runeword.filter((r) => r.match == true);
+  if (runeword.length == 1) {
+    finalResult = runeword;
+  }
   res.json(finalResult);
 });
 
@@ -109,6 +112,9 @@ router.get('/podrw/:name', (req, res) => {
   const runeword = podrw.filter((c) => c.name.toUpperCase().indexOf(req.params.name.toUpperCase()) !== -1);
   const matches = filterRunewords(req.params.name, runeword);
   const finalResult = runeword.filter((r) => r.match == true);
+  if (runeword.length == 1) {
+    finalResult = runeword;
+  }
   res.json(finalResult);
 });
 
@@ -116,6 +122,9 @@ router.get('/podrw/name/:name', (req, res) => {
   const runeword = podrw.filter((c) => c.name.toUpperCase().indexOf(req.params.name.toUpperCase()) !== -1);
   const matches = filterRunewords(req.params.name, runeword);
   const finalResult = runeword.filter((r) => r.match == true);
+  if (runeword.length == 1) {
+    finalResult = runeword;
+  }
   res.json(finalResult);
 });
 
@@ -136,7 +145,10 @@ router.get('/d2rw', (req, res) => {
 router.get('/d2rw/:name', (req, res) => {
   const runeword = d2rw.filter((c) => c.name.toUpperCase().indexOf(req.params.name.toUpperCase()) !== -1);
   const matches = filterRunewords(req.params.name, runeword);
-  const finalResult = runeword.filter((r) => r.match == true);
+  let finalResult = runeword.filter((r) => r.match == true);
+  if (runeword.length == 1) {
+    finalResult = runeword;
+  }
   res.json(finalResult);
 });
 
