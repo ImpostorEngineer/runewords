@@ -1,15 +1,15 @@
 const form = document.querySelector('form');
 const input = document.querySelector('input');
 const searchOptions = document.getElementById('searchOptions');
-form.addEventListener('submit', formSubmitted);
+// form.addEventListener('submit', formSubmitted);
 
-function formSubmitted(event) {
-  event.preventDefault();
-  document.getElementById('runewordsList').innerHTML = '';
-  const searchTerm = input.value;
-  const searchCriteria = searchOptions.value;
-  searchRunewords(searchTerm, searchCriteria);
-}
+// function formSubmitted(event) {
+//   event.preventDefault();
+//   document.getElementById('runewordsList').innerHTML = '';
+//   const searchTerm = input.value;
+//   const searchCriteria = searchOptions.value;
+//   searchRunewords(searchTerm, searchCriteria);
+// }
 
 function pressKeys() {
   document.getElementById('runewordsList').innerHTML = '';
