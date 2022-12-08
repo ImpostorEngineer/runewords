@@ -11,6 +11,13 @@ function formSubmitted(event) {
   searchRunewords(searchTerm, searchCriteria);
 }
 
+function pressKeys() {
+  document.getElementById('runewordsList').innerHTML = '';
+  const searchTerm = input.value;
+  const searchCriteria = searchOptions.value;
+  searchRunewords(searchTerm, searchCriteria);
+}
+
 window.onload = async function onpageLoad() {
   const url = './api/podrw/';
   const data = await fetch(url).then((response) => response.json());

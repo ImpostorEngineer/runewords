@@ -64,6 +64,7 @@
             type="text"
             name="searchTerm"
             id="searchTerm"
+            onkeyup="pressKeys()"
             class="p-1 mx-1"
             placeholder="Enter Runeword"
           />
@@ -73,13 +74,13 @@
             <option value="runes">Rune</option>
             <option value="item">Items</option>
           </select>
-          <button type="submit" class="bg-red-500 p-1" onclick=""> Search </button>
+          <button type="submit" class="bg-red-500 p-1" onclick="">Search</button>
         </form>
         <div style="display: flex" class="text-lg font-bold">
           <div style="width: 41px; padding: 7px; text-align: right">#</div>
-          <div style="width: 200px; padding: 7px"> Runeword </div>
-          <div style="width: 250px; padding: 7px"> Runes </div>
-          <div style="width: 116px; padding: 7px"> Items </div>
+          <div style="width: 200px; padding: 7px">Runeword</div>
+          <div style="width: 250px; padding: 7px">Runes</div>
+          <div style="width: 116px; padding: 7px">Items</div>
         </div>
         <table id="" border="0">
           <tbody id="runewordsList"></tbody>
