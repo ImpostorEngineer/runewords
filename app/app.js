@@ -58,14 +58,8 @@ async function getCoins() {
 }
 
 function filterRunewords(runeword, data) {
-  const runewordSplit = runeword.split(' ');
-  const found = [
-    ...data.filter((r) => {
-      r.name
-        .split(' ')
-        .forEach((word) => runewordSplit.forEach((searchWord) => (word == searchWord ? (r.match = true) : 0)));
-    }),
-  ];
+  const runewordSplit = runeword.toUpperCase().split(' ');
+  const found = data.filter((r) => runewordSplit.every((val) => r.name.toUpperCase().split(' ').includes(val)));
   return found;
 }
 
@@ -95,9 +89,9 @@ router.get('/pd2rw', (req, res) => {
 });
 
 router.get('/pd2rw/:name', (req, res) => {
-  const runeword = pd2rw.filter((c) => c.name.toUpperCase().indexOf(req.params.name.toUpperCase()) !== -1);
-  const matches = filterRunewords(req.params.name, runeword);
-  const finalResult = runeword.filter((r) => r.match == true);
+  const searchWord = req.params.name;
+  const runeword = pd2rw.filter((c) => c.name.toUpperCase().indexOf(searchWord.toUpperCase()) !== -1);
+  let finalResult = filterRunewords(searchWord, runeword);
   if (runeword.length == 1) {
     finalResult = runeword;
   }
@@ -109,9 +103,9 @@ router.get('/podrw', (req, res) => {
 });
 
 router.get('/podrw/:name', (req, res) => {
-  const runeword = podrw.filter((c) => c.name.toUpperCase().indexOf(req.params.name.toUpperCase()) !== -1);
-  const matches = filterRunewords(req.params.name, runeword);
-  const finalResult = runeword.filter((r) => r.match == true);
+  const searchWord = req.params.name;
+  const runeword = podrw.filter((c) => c.name.toUpperCase().indexOf(searchWord.toUpperCase()) !== -1);
+  let finalResult = filterRunewords(searchWord, runeword);
   if (runeword.length == 1) {
     finalResult = runeword;
   }
@@ -119,9 +113,9 @@ router.get('/podrw/:name', (req, res) => {
 });
 
 router.get('/podrw/name/:name', (req, res) => {
-  const runeword = podrw.filter((c) => c.name.toUpperCase().indexOf(req.params.name.toUpperCase()) !== -1);
-  const matches = filterRunewords(req.params.name, runeword);
-  const finalResult = runeword.filter((r) => r.match == true);
+  const searchWord = req.params.name;
+  const runeword = podrw.filter((c) => c.name.toUpperCase().indexOf(searchWord.toUpperCase()) !== -1);
+  let finalResult = filterRunewords(searchWord, runeword);
   if (runeword.length == 1) {
     finalResult = runeword;
   }
@@ -143,9 +137,9 @@ router.get('/d2rw', (req, res) => {
 });
 
 router.get('/d2rw/:name', (req, res) => {
-  const runeword = d2rw.filter((c) => c.name.toUpperCase().indexOf(req.params.name.toUpperCase()) !== -1);
-  const matches = filterRunewords(req.params.name, runeword);
-  let finalResult = runeword.filter((r) => r.match == true);
+  const searchWord = req.params.name;
+  const runeword = d2rw.filter((c) => c.name.toUpperCase().indexOf(searchWord.toUpperCase()) !== -1);
+  let finalResult = filterRunewords(searchWord, runeword);
   if (runeword.length == 1) {
     finalResult = runeword;
   }
@@ -157,9 +151,12 @@ router.get('/newdawnrw', (req, res) => {
 });
 
 router.get('/newdawnrw/name/:name', (req, res) => {
-  const runeword = newdawn.filter((c) => c.name.toUpperCase().indexOf(req.params.name.toUpperCase()) !== -1);
-  const matches = filterRunewords(req.params.name, runeword);
-  const finalResult = runeword.filter((r) => r.match == true);
+  const searchWord = req.params.name;
+  const runeword = newdawn.filter((c) => c.name.toUpperCase().indexOf(searchWord.toUpperCase()) !== -1);
+  let finalResult = filterRunewords(searchWord, runeword);
+  if (runeword.length == 1) {
+    finalResult = runeword;
+  }
   res.json(finalResult);
 });
 
@@ -206,3 +203,4 @@ const allowCors = (fn) => async (req, res) => {
 };
 
 module.exports = allowCors(router);
+// module.exports = router;

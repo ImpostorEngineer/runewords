@@ -2,7 +2,7 @@ const express = require('express');
 const api = require('./app');
 const app = express();
 
-app.use(express.static("client"));
+app.use(express.static('client'));
 app.use('/api/', api);
 app.use(express.json());
 
