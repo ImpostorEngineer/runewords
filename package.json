@@ -1,8 +1,8 @@
 {
-  "author": "Gereksiz Posta",
+  "author": "Impostor Engineer",
   "name": "d2runewords",
   "version": "0.0.1",
-  "description": "A simple Node app built on Express, serving runewords.",
+  "description": "A simple Node app built on Express, serving Diablo 2 runewords.",
   "main": "app/index.js",
   "scripts": {
     "start": "node app/index.js"
