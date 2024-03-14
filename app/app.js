@@ -75,12 +75,12 @@ router.get('/', (req, res, next) => {
 });
 
 router.get('/items/:items', (req, res) => {
-  const items = pd2rw.filter((c) => c.items.toUpperCase().indexOf(req.params.items.toUpperCase()) !== -1);
+  const items = podrw.filter((c) => c.items.toUpperCase().indexOf(req.params.items.toUpperCase()) !== -1);
   res.json(items);
 });
 
 router.get('/runes/:runes', (req, res) => {
-  const runes = pd2rw.filter((c) => c.runes.toUpperCase().indexOf(req.params.runes.toUpperCase()) !== -1);
+  const runes = podrw.filter((c) => c.runes.toUpperCase().indexOf(req.params.runes.toUpperCase()) !== -1);
   res.json(runes);
 });
 
