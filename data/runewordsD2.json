@@ -43,6 +43,12 @@
       "link": "https://diablo2.diablowiki.net/Breath_of_the_Dying"
     },
     {
+      "name": "bulwark",
+      "runes": "Shael, Io, Sol",
+      "items": "Helms, Barbarian Helms, Circlets, Druid Pelts",
+      "link": "https://d2trader.net/runeword/bulwark/"
+    },
+    {
       "name": "call to arms",
       "runes": "Amn, Ral, Mal, Ist, Ohm",
       "items": "Weapons",
@@ -54,17 +60,18 @@
       "items": "Body Armor",
       "link": "https://diablo2.diablowiki.net/Chains_of_Honor"
     },
-    {
-      "name": "chaos",
-      "runes": "Fal, Ohm, Um",
-      "items": "Claws",
-      "link": "https://diablo2.diablowiki.net/Chaos"
-    },
+    { "name": "chaos", "runes": "Fal, Ohm, Um", "items": "Claws", "link": "https://diablo2.diablowiki.net/Chaos" },
     {
       "name": "crescent moon",
       "runes": "Shael, Um, Tir",
       "items": "Axes/Swords/Polearms",
       "link": "https://diablo2.diablowiki.net/Crescent_Moon"
+    },
+    {
+      "name": "cure",
+      "runes": "Shael, Io, Tal",
+      "items": "Helms, Barbarian Helms, Circlets, Druid Pelts",
+      "link": "https://d2trader.net/runeword/cure/"
     },
     {
       "name": "death",
@@ -168,17 +175,18 @@
       "items": "Melee Weapons",
       "link": "https://diablo2.diablowiki.net/Fury"
     },
-    {
-      "name": "gloom",
-      "runes": "Fal, Um, Pul",
-      "items": "Body Armor",
-      "link": "https://diablo2.diablowiki.net/Gloom"
-    },
+    { "name": "gloom", "runes": "Fal, Um, Pul", "items": "Body Armor", "link": "https://diablo2.diablowiki.net/Gloom" },
     {
       "name": "grief",
       "runes": "Eth, Tir, Lo, Mal, Ral",
       "items": "Swords/Axes",
       "link": "https://diablo2.diablowiki.net/Grief"
+    },
+    {
+      "name": "ground",
+      "runes": "Shael, Io, Ort",
+      "items": "Helms, Barbarian Helms, Circlets, Druid Pelts",
+      "link": "https://d2trader.net/runeword/ground/"
     },
     {
       "name": "hand of justice",
@@ -199,6 +207,12 @@
       "link": "https://diablo2.diablowiki.net/Heart_of_the_Oak"
     },
     {
+      "name": "hearth",
+      "runes": "Shael, Io, Thul",
+      "items": "Helms, Barbarian Helms, Circlets, Druid Pelts",
+      "link": "https://d2trader.net/runeword/hearth/"
+    },
+    {
       "name": "holy thunder",
       "runes": "Eth, Ral, Ort, Tal",
       "items": "Scepters",
@@ -209,6 +223,12 @@
       "runes": "Amn, El, Ith, Tir, Sol",
       "items": "Melee Weapons",
       "link": "https://diablo2.diablowiki.net/Honor"
+    },
+    {
+      "name": "hustle",
+      "runes": "Shael, Ko, Eld",
+      "items": "Weapons, Armor",
+      "link": "https://d2trader.net/runeword/hustle-weapon/"
     },
     {
       "name": "ice",
@@ -264,12 +284,7 @@
       "items": "Body Armor",
       "link": "https://diablo2.diablowiki.net/Lionheart"
     },
-    {
-      "name": "lore",
-      "runes": "Ort, Sol",
-      "items": "Helms",
-      "link": "https://diablo2.diablowiki.net/Lore"
-    },
+    { "name": "lore", "runes": "Ort, Sol", "items": "Helms", "link": "https://diablo2.diablowiki.net/Lore" },
     {
       "name": "malice",
       "runes": "Ith, El, Eth",
@@ -289,10 +304,22 @@
       "link": "https://diablo2.diablowiki.net/Memory"
     },
     {
+      "name": "metamorphosis",
+      "runes": "Io, Cham, Fal",
+      "items": "Helms, Barbarian Helms, Circlets, Druid Pelts",
+      "link": "https://d2trader.net/runeword/metamorphosis/"
+    },
+    {
       "name": "mist",
       "runes": "Cham, Shael, Gul, Thul, Ith",
       "items": "Missile Weapons",
       "link": "https://d2runewizard.com/runewords/Mist"
+    },
+    {
+      "name": "mosaic",
+      "runes": "Mal, Gul, Amn",
+      "items": "Assassin Claws",
+      "link": "https://d2trader.net/runeword/mosaic/"
     },
     {
       "name": "myth",
@@ -300,12 +327,7 @@
       "items": "Body Armor (Barbarian)",
       "link": "https://diablo2.diablowiki.net/Myth"
     },
-    {
-      "name": "nadir",
-      "runes": "Nef, Tir",
-      "items": "Helms",
-      "link": "https://diablo2.diablowiki.net/Nadir"
-    },
+    { "name": "nadir", "runes": "Nef, Tir", "items": "Helms", "link": "https://diablo2.diablowiki.net/Nadir" },
     {
       "name": "oath",
       "runes": "Shael, Pul, Mal, Lum",
@@ -313,16 +335,16 @@
       "link": "https://diablo2.diablowiki.net/Oath"
     },
     {
-      "name": "obsession",
-      "runes": "Zod, Ist, Lem, lum, Io, Nef",
-      "items": "Staves",
-      "link": "https://d2runewizard.com/runewords/Obsession"
-    },
-    {
       "name": "obedience",
       "runes": "Hel, Ko, Thul, Eth, Fal",
       "items": "Polearms",
       "link": "https://diablo2.diablowiki.net/Obedience"
+    },
+    {
+      "name": "obsession",
+      "runes": "Zod, Ist, Lem, lum, Io, Nef",
+      "items": "Staves",
+      "link": "https://d2runewizard.com/runewords/Obsession"
     },
     {
       "name": "passion",
@@ -384,12 +406,7 @@
       "items": "Body Armor (Druid)",
       "link": "https://diablo2.diablowiki.net/Rain"
     },
-    {
-      "name": "rhyme",
-      "runes": "Shael, Eth",
-      "items": "Shields",
-      "link": "https://diablo2.diablowiki.net/Rhyme"
-    },
+    { "name": "rhyme", "runes": "Shael, Eth", "items": "Shields", "link": "https://diablo2.diablowiki.net/Rhyme" },
     {
       "name": "rift",
       "runes": "Hel, Ko, Lem, Gul",
@@ -408,30 +425,15 @@
       "items": "Weapons",
       "link": "https://diablo2.diablowiki.net/Silence"
     },
-    {
-      "name": "smoke",
-      "runes": "Nef, Lum",
-      "items": "Body Armor",
-      "link": "https://diablo2.diablowiki.net/Smoke"
-    },
+    { "name": "smoke", "runes": "Nef, Lum", "items": "Body Armor", "link": "https://diablo2.diablowiki.net/Smoke" },
     {
       "name": "spirit",
       "runes": "Tal, Thul, Ort, Amn",
       "items": "Swords/Shields",
       "link": "https://diablo2.diablowiki.net/Spirit"
     },
-    {
-      "name": "splendor",
-      "runes": "Eth, Lum",
-      "items": "Shields",
-      "link": "https://diablo2.diablowiki.net/Splendor"
-    },
-    {
-      "name": "stealth",
-      "runes": "Tal, Eth",
-      "items": "Body Armor",
-      "link": "https://diablo2.diablowiki.net/Stealth"
-    },
+    { "name": "splendor", "runes": "Eth, Lum", "items": "Shields", "link": "https://diablo2.diablowiki.net/Splendor" },
+    { "name": "stealth", "runes": "Tal, Eth", "items": "Body Armor", "link": "https://diablo2.diablowiki.net/Stealth" },
     {
       "name": "steel",
       "runes": "Tir, El",
@@ -451,6 +453,12 @@
       "link": "https://diablo2.diablowiki.net/Strength"
     },
     {
+      "name": "temper",
+      "runes": "Shael, Io, Ral",
+      "items": "Helms, Barbarian Helms, Circlets, Druid Pelts",
+      "link": "https://d2trader.net/runeword/temper/"
+    },
+    {
       "name": "treachery",
       "runes": "Shael, Thul, Lem",
       "items": "Body Armor (Assassin)",
@@ -462,12 +470,7 @@
       "items": "Swords",
       "link": "https://d2runewizard.com/runewords/Unbending%20Will"
     },
-    {
-      "name": "venom",
-      "runes": "Tal, Dol, Mal",
-      "items": "Weapons",
-      "link": "https://diablo2.diablowiki.net/Venom"
-    },
+    { "name": "venom", "runes": "Tal, Dol, Mal", "items": "Weapons", "link": "https://diablo2.diablowiki.net/Venom" },
     {
       "name": "voice of reason",
       "runes": "Lem, Ko, El, Eld",
@@ -480,18 +483,8 @@
       "items": "Body Armor",
       "link": "https://diablo2.diablowiki.net/Wealth"
     },
-    {
-      "name": "white",
-      "runes": "Dol, Io",
-      "items": "Wand",
-      "link": "https://diablo2.diablowiki.net/White"
-    },
-    {
-      "name": "wind",
-      "runes": "Sur, El",
-      "items": "Melee Weapons",
-      "link": "https://diablo2.diablowiki.net/Wind"
-    },
+    { "name": "white", "runes": "Dol, Io", "items": "Wand", "link": "https://diablo2.diablowiki.net/White" },
+    { "name": "wind", "runes": "Sur, El", "items": "Melee Weapons", "link": "https://diablo2.diablowiki.net/Wind" },
     {
       "name": "wisdom",
       "runes": "Pul, Ith, Eld",
