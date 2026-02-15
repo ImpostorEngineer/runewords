@@ -71,16 +71,16 @@ router.get('/piyasalar', (req, res, next) => {
 });
 
 router.get('/', (req, res, next) => {
-  res.json(pd2rw);
+  res.json(d2rw);
 });
 
 router.get('/items/:items', (req, res) => {
-  const items = podrw.filter((c) => c.items.toUpperCase().indexOf(req.params.items.toUpperCase()) !== -1);
+  const items = d2rw.filter((c) => c.items.toUpperCase().indexOf(req.params.items.toUpperCase()) !== -1);
   res.json(items);
 });
 
 router.get('/runes/:runes', (req, res) => {
-  const runes = podrw.filter((c) => c.runes.toUpperCase().indexOf(req.params.runes.toUpperCase()) !== -1);
+  const runes = d2rw.filter((c) => c.runes.toUpperCase().indexOf(req.params.runes.toUpperCase()) !== -1);
   res.json(runes);
 });
 
@@ -136,7 +136,7 @@ router.get('/d2rw', (req, res) => {
   res.json(d2rw);
 });
 
-router.get('/d2rw/:name', (req, res) => {
+router.get('/d2rw/name/:name', (req, res) => {
   const searchWord = req.params.name;
   const runeword = d2rw.filter((c) => c.name.toUpperCase().indexOf(searchWord.toUpperCase()) !== -1);
   let finalResult = filterRunewords(searchWord, runeword);
@@ -146,46 +146,56 @@ router.get('/d2rw/:name', (req, res) => {
   res.json(finalResult);
 });
 
-router.get('/newdawnrw', (req, res) => {
-  res.json(newdawn);
+router.get('/d2rw/runes/:rune', (req, res) => {
+  const runeword = d2rw.filter((c) => c.runes.toUpperCase().indexOf(req.params.rune.toUpperCase()) !== -1);
+  res.json(runeword);
 });
 
-router.get('/newdawnrw/name/:name', (req, res) => {
-  const searchWord = req.params.name;
-  const runeword = newdawn.filter((c) => c.name.toUpperCase().indexOf(searchWord.toUpperCase()) !== -1);
-  let finalResult = filterRunewords(searchWord, runeword);
-  if (runeword.length == 1) {
-    finalResult = runeword;
-  }
-  res.json(finalResult);
+router.get('/d2rw/item/:item', (req, res) => {
+  const runeword = d2rw.filter((c) => c.items.toUpperCase().indexOf(req.params.item.toUpperCase()) !== -1);
+  res.json(runeword);
 });
 
-router.get('/newdawnrw/item/:item', (req, res) => {
-  const items = newdawn.filter((c) => c.item.toUpperCase().indexOf(req.params.item.toUpperCase()) !== -1);
-  res.json(items);
-});
+// router.get('/newdawnrw', (req, res) => {
+//   res.json(newdawn);
+// });
 
-router.get('/newdawnrw/runes/:runes', (req, res) => {
-  const runes = newdawn.filter((c) => c.runes.toUpperCase().indexOf(req.params.runes.toUpperCase()) !== -1);
-  res.json(runes);
-});
+// router.get('/newdawnrw/name/:name', (req, res) => {
+//   const searchWord = req.params.name;
+//   const runeword = newdawn.filter((c) => c.name.toUpperCase().indexOf(searchWord.toUpperCase()) !== -1);
+//   let finalResult = filterRunewords(searchWord, runeword);
+//   if (runeword.length == 1) {
+//     finalResult = runeword;
+//   }
+//   res.json(finalResult);
+// });
 
-router.get('/newdawnrw/mods/:searchMods', (req, res) => {
-  const list = newdawn.filter((c) => {
-    let modcount = 0;
-    for (let md = 0; md < c.mods.length; md++) {
-      if (c.mods[md].toUpperCase().indexOf(req.params.searchMods.toUpperCase()) !== -1) {
-        modcount += 1;
-      }
-      if (modcount > 0) {
-        return true;
-      }
-    }
-  });
-  res.json(list);
-});
+// router.get('/newdawnrw/item/:item', (req, res) => {
+//   const items = newdawn.filter((c) => c.item.toUpperCase().indexOf(req.params.item.toUpperCase()) !== -1);
+//   res.json(items);
+// });
 
-const allowCors = (fn) => async (req, res) => {
+// router.get('/newdawnrw/runes/:runes', (req, res) => {
+//   const runes = newdawn.filter((c) => c.runes.toUpperCase().indexOf(req.params.runes.toUpperCase()) !== -1);
+//   res.json(runes);
+// });
+
+// router.get('/newdawnrw/mods/:searchMods', (req, res) => {
+//   const list = newdawn.filter((c) => {
+//     let modcount = 0;
+//     for (let md = 0; md < c.mods.length; md++) {
+//       if (c.mods[md].toUpperCase().indexOf(req.params.searchMods.toUpperCase()) !== -1) {
+//         modcount += 1;
+//       }
+//       if (modcount > 0) {
+//         return true;
+//       }
+//     }
+//   });
+//   res.json(list);
+// });
+
+const allowCors = (fn) => (req, res, next) => {
   res.setHeader('Access-Control-Allow-Credentials', true);
   res.setHeader('Access-Control-Allow-Origin', '*');
   // another common pattern
@@ -193,13 +203,13 @@ const allowCors = (fn) => async (req, res) => {
   res.setHeader('Access-Control-Allow-Methods', 'GET,OPTIONS,PATCH,DELETE,POST,PUT');
   res.setHeader(
     'Access-Control-Allow-Headers',
-    'X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version'
+    'X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version',
   );
   if (req.method === 'OPTIONS') {
     res.status(200).end();
     return;
   }
-  return await fn(req, res);
+  return fn(req, res, next);
 };
 
 module.exports = allowCors(router);

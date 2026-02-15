@@ -1,507 +1,704 @@
 {
   "runewords": [
     {
-      "name": "ancients pledge",
-      "runes": "Ral, Ort, Tal",
+      "name": "void",
+      "runes": "Thul, Zod, Ist",
+      "level": "69",
+      "items": "Daggers",
+      "link": "https://diablo2.io/runewords/void-t1673936.html"
+    },
+    {
+      "name": "rhyme",
+      "runes": "Shael, Eth",
+      "level": "29",
       "items": "Shields",
-      "link": "https://diablo2.diablowiki.net/Ancient's_Pledge"
-    },
-    {
-      "name": "beast",
-      "runes": "Ber, Tir, Um, Mal, Lum",
-      "items": "Axes/Scepters/Hammers",
-      "link": "https://diablo2.diablowiki.net/Beast"
-    },
-    {
-      "name": "black",
-      "runes": "Thul, Io, Nef",
-      "items": "Clubs/Hammers/Maces",
-      "link": "https://diablo2.diablowiki.net/Black"
-    },
-    {
-      "name": "bone",
-      "runes": "Sol, Um, Um",
-      "items": "Body Armor (Necromancer)",
-      "link": "https://diablo2.diablowiki.net/Bone"
-    },
-    {
-      "name": "bramble",
-      "runes": "Ral, Ohm, Sur, Eth",
-      "items": "Body Armor",
-      "link": "https://diablo2.diablowiki.net/Bramble"
-    },
-    {
-      "name": "brand",
-      "runes": "Jah, Lo, Mal, Gul",
-      "items": "Missile Weapons",
-      "link": "https://diablo2.diablowiki.net/Brand"
-    },
-    {
-      "name": "breath of the dying",
-      "runes": "Vex, Hel, El, Eld, Zod, Eth",
-      "items": "Weapons",
-      "link": "https://diablo2.diablowiki.net/Breath_of_the_Dying"
-    },
-    {
-      "name": "bulwark",
-      "runes": "Shael, Io, Sol",
-      "items": "Helms, Barbarian Helms, Circlets, Druid Pelts",
-      "link": "https://d2trader.net/runeword/bulwark/"
-    },
-    {
-      "name": "call to arms",
-      "runes": "Amn, Ral, Mal, Ist, Ohm",
-      "items": "Weapons",
-      "link": "https://diablo2.diablowiki.net/Call_To_Arms"
-    },
-    {
-      "name": "chains of honor",
-      "runes": "Dol, Um, Ber, Ist",
-      "items": "Body Armor",
-      "link": "https://diablo2.diablowiki.net/Chains_of_Honor"
-    },
-    { "name": "chaos", "runes": "Fal, Ohm, Um", "items": "Claws", "link": "https://diablo2.diablowiki.net/Chaos" },
-    {
-      "name": "crescent moon",
-      "runes": "Shael, Um, Tir",
-      "items": "Axes/Swords/Polearms",
-      "link": "https://diablo2.diablowiki.net/Crescent_Moon"
-    },
-    {
-      "name": "cure",
-      "runes": "Shael, Io, Tal",
-      "items": "Helms, Barbarian Helms, Circlets, Druid Pelts",
-      "link": "https://d2trader.net/runeword/cure/"
-    },
-    {
-      "name": "death",
-      "runes": "Hel, El, Vex, Ort, Gul",
-      "items": "Swords/Axes",
-      "link": "https://diablo2.diablowiki.net/Death"
-    },
-    {
-      "name": "delirium",
-      "runes": "Lem, Ist, Io",
-      "items": "Helms",
-      "link": "https://diablo2.diablowiki.net/Delirium"
-    },
-    {
-      "name": "destruction",
-      "runes": "Vex, Lo, Ber, Jah, Ko",
-      "items": "Polearms/Swords",
-      "link": "https://diablo2.diablowiki.net/Destruction"
-    },
-    {
-      "name": "doom",
-      "runes": "Hel, Ohm, Um, Lo, Cham",
-      "items": "Axes/Polearms/Hammers",
-      "link": "https://diablo2.diablowiki.net/Doom"
-    },
-    {
-      "name": "dragon",
-      "runes": "Sur, Lo, Sol",
-      "items": "Body Armor/Shields",
-      "link": "https://diablo2.diablowiki.net/Dragon"
-    },
-    {
-      "name": "dream",
-      "runes": "Io, Jah, Pul",
-      "items": "Helms/Shields",
-      "link": "https://diablo2.diablowiki.net/Dream"
-    },
-    {
-      "name": "duress",
-      "runes": "Shael, Um, Thul",
-      "items": "Body Armor",
-      "link": "https://diablo2.diablowiki.net/Duress"
-    },
-    {
-      "name": "edge",
-      "runes": "Tir, Tal, Amn",
-      "items": "Missile Weapons",
-      "link": "https://diablo2.diablowiki.net/Edge"
-    },
-    {
-      "name": "enigma",
-      "runes": "Jah, Ith, Ber",
-      "items": "Body Armor",
-      "link": "https://diablo2.diablowiki.net/Enigma"
-    },
-    {
-      "name": "enlightenment",
-      "runes": "Pul, Ral, Sol",
-      "items": "Body Armor (Sorceress)",
-      "link": "https://diablo2.diablowiki.net/Enlightenment"
-    },
-    {
-      "name": "eternity",
-      "runes": "Amn, Ber, Ist, Sol, Sur",
-      "items": "Melee Weapons",
-      "link": "https://diablo2.diablowiki.net/Eternity"
-    },
-    {
-      "name": "exile",
-      "runes": "Vex, Ohm, Ist, Dol",
-      "items": "Paladin Shields (only)",
-      "link": "https://diablo2.diablowiki.net/Exile"
-    },
-    {
-      "name": "faith",
-      "runes": "Ohm, Jah, Lem, Eld",
-      "items": "Missile Weapons",
-      "link": "https://diablo2.diablowiki.net/Faith"
-    },
-    {
-      "name": "famine",
-      "runes": "Fal, Ohm, Ort, Jah",
-      "items": "Axes/Hammers",
-      "link": "https://diablo2.diablowiki.net/Famine"
-    },
-    {
-      "name": "flickering flame",
-      "runes": "Nef, Pul, Vex",
-      "items": "Helms",
-      "link": "https://d2runewizard.com/runewords/Flickering%20Flame"
-    },
-    {
-      "name": "fortitude",
-      "runes": "El, Sol, Dol, Lo",
-      "items": "Weapons/Body Armor",
-      "link": "https://diablo2.diablowiki.net/Fortitude"
-    },
-    {
-      "name": "fury",
-      "runes": "Jah, Gul, Eth",
-      "items": "Melee Weapons",
-      "link": "https://diablo2.diablowiki.net/Fury"
-    },
-    { "name": "gloom", "runes": "Fal, Um, Pul", "items": "Body Armor", "link": "https://diablo2.diablowiki.net/Gloom" },
-    {
-      "name": "grief",
-      "runes": "Eth, Tir, Lo, Mal, Ral",
-      "items": "Swords/Axes",
-      "link": "https://diablo2.diablowiki.net/Grief"
-    },
-    {
-      "name": "ground",
-      "runes": "Shael, Io, Ort",
-      "items": "Helms, Barbarian Helms, Circlets, Druid Pelts",
-      "link": "https://d2trader.net/runeword/ground/"
-    },
-    {
-      "name": "hand of justice",
-      "runes": "Sur, Cham, Amn, Lo",
-      "items": "Weapons",
-      "link": "https://diablo2.diablowiki.net/Hand_of_Justice"
-    },
-    {
-      "name": "harmony",
-      "runes": "Tir, Ith, Sol, Ko",
-      "items": "Missile Weapons",
-      "link": "https://diablo2.diablowiki.net/Harmony"
-    },
-    {
-      "name": "heart of the oak",
-      "runes": "Ko, Vex, Pul, Thul",
-      "items": "Staves*/Maces",
-      "link": "https://diablo2.diablowiki.net/Heart_of_the_Oak"
-    },
-    {
-      "name": "hearth",
-      "runes": "Shael, Io, Thul",
-      "items": "Helms, Barbarian Helms, Circlets, Druid Pelts",
-      "link": "https://d2trader.net/runeword/hearth/"
-    },
-    {
-      "name": "holy thunder",
-      "runes": "Eth, Ral, Ort, Tal",
-      "items": "Scepters",
-      "link": "https://diablo2.diablowiki.net/Holy_Thunder"
-    },
-    {
-      "name": "honor",
-      "runes": "Amn, El, Ith, Tir, Sol",
-      "items": "Melee Weapons",
-      "link": "https://diablo2.diablowiki.net/Honor"
-    },
-    {
-      "name": "hustle",
-      "runes": "Shael, Ko, Eld",
-      "items": "Weapons, Armor",
-      "link": "https://d2trader.net/runeword/hustle-weapon/"
-    },
-    {
-      "name": "ice",
-      "runes": "Amn, Shael, Jah, Lo",
-      "items": "Missile Weapons",
-      "link": "https://diablo2.diablowiki.net/Ice"
-    },
-    {
-      "name": "infinity",
-      "runes": "Ber, Mal, Ber, Ist",
-      "items": "Polearms",
-      "link": "https://diablo2.diablowiki.net/Infinity"
-    },
-    {
-      "name": "insight",
-      "runes": "Ral, Tir, Tal, Sol",
-      "items": "Polearms/Staves",
-      "link": "https://diablo2.diablowiki.net/Insight"
-    },
-    {
-      "name": "kings grace",
-      "runes": "Amn, Ral, Thul",
-      "items": "Swords/Scepters",
-      "link": "https://diablo2.diablowiki.net/King's_Grace"
-    },
-    {
-      "name": "kingslayer",
-      "runes": "Mal, Um, Gul, Fal",
-      "items": "Swords/Axes",
-      "link": "https://diablo2.diablowiki.net/Kingslayer"
-    },
-    {
-      "name": "last wish",
-      "runes": "Jah, Mal, Jah, Sur, Jah, Ber",
-      "items": "Swords/Hammers/Axes",
-      "link": "https://diablo2.diablowiki.net/Last_Wish"
-    },
-    {
-      "name": "lawbringer",
-      "runes": "Amn, Lem, Ko",
-      "items": "Swords/Hammers/Scepter",
-      "link": "https://diablo2.diablowiki.net/Lawbringer"
-    },
-    {
-      "name": "leaf",
-      "runes": "Tir, Ral",
-      "items": "Staves (Not Orbs/Wands)",
-      "link": "https://diablo2.diablowiki.net/Leaf"
-    },
-    {
-      "name": "lionheart",
-      "runes": "Hel, Lum, Fal",
-      "items": "Body Armor",
-      "link": "https://diablo2.diablowiki.net/Lionheart"
-    },
-    { "name": "lore", "runes": "Ort, Sol", "items": "Helms", "link": "https://diablo2.diablowiki.net/Lore" },
-    {
-      "name": "malice",
-      "runes": "Ith, El, Eth",
-      "items": "Melee Weapons",
-      "link": "https://diablo2.diablowiki.net/Malice"
-    },
-    {
-      "name": "melody",
-      "runes": "Shael, Ko, Nef",
-      "items": "Missile Weapons",
-      "link": "https://diablo2.diablowiki.net/Melody"
-    },
-    {
-      "name": "memory",
-      "runes": "Lum, Io, Sol, Eth",
-      "items": "Staves (Not Orbs)",
-      "link": "https://diablo2.diablowiki.net/Memory"
-    },
-    {
-      "name": "metamorphosis",
-      "runes": "Io, Cham, Fal",
-      "items": "Helms, Barbarian Helms, Circlets, Druid Pelts",
-      "link": "https://d2trader.net/runeword/metamorphosis/"
-    },
-    {
-      "name": "mist",
-      "runes": "Cham, Shael, Gul, Thul, Ith",
-      "items": "Missile Weapons",
-      "link": "https://d2runewizard.com/runewords/Mist"
-    },
-    {
-      "name": "mosaic",
-      "runes": "Mal, Gul, Amn",
-      "items": "Assassin Claws",
-      "link": "https://d2trader.net/runeword/mosaic/"
-    },
-    {
-      "name": "myth",
-      "runes": "Hel, Amn, Nef",
-      "items": "Body Armor (Barbarian)",
-      "link": "https://diablo2.diablowiki.net/Myth"
-    },
-    { "name": "nadir", "runes": "Nef, Tir", "items": "Helms", "link": "https://diablo2.diablowiki.net/Nadir" },
-    {
-      "name": "oath",
-      "runes": "Shael, Pul, Mal, Lum",
-      "items": "Swords/Axes/Maces",
-      "link": "https://diablo2.diablowiki.net/Oath"
-    },
-    {
-      "name": "obedience",
-      "runes": "Hel, Ko, Thul, Eth, Fal",
-      "items": "Polearms",
-      "link": "https://diablo2.diablowiki.net/Obedience"
+      "link": "https://diablo2.io/runewords/rhyme-t1194.html"
     },
     {
       "name": "obsession",
-      "runes": "Zod, Ist, Lem, lum, Io, Nef",
+      "runes": "Zod, Ist, Lem, Lum, Io, Nef",
+      "level": "69",
       "items": "Staves",
-      "link": "https://d2runewizard.com/runewords/Obsession"
+      "link": "https://diablo2.io/runewords/obsession-t785744.html"
     },
     {
-      "name": "passion",
-      "runes": "Dol, Ort, Eld, Lem",
+      "name": "hysteria",
+      "runes": "Shael, Ko, Eld",
+      "level": "39",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/hysteria-t1674021.html"
+    },
+    {
+      "name": "mania",
+      "runes": "Shael, Ko, Eld",
+      "level": "39",
       "items": "Weapons",
-      "link": "https://diablo2.diablowiki.net/Passion"
+      "link": "https://diablo2.io/runewords/mania-t1674022.html"
     },
     {
-      "name": "pattern",
-      "runes": "Tal, Ort, Tir",
-      "items": "Claws",
-      "link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Pattern"
+      "name": "ritual",
+      "runes": "Amn, Shael, Ohm",
+      "level": "57",
+      "items": "Daggers",
+      "link": "https://diablo2.io/runewords/ritual-t1673938.html"
     },
     {
-      "name": "peace",
-      "runes": "Shael, Thul, Amn",
-      "items": "Body Armor (Amazon)",
-      "link": "https://diablo2.diablowiki.net/Peace"
+      "name": "vigilance",
+      "runes": "Dol, Gul",
+      "level": "53",
+      "items": "Grimoires",
+      "link": "https://diablo2.io/runewords/vigilance-t1673937.html"
+    },
+    {
+      "name": "coven",
+      "runes": "Ist, Ral, Io",
+      "level": "51",
+      "items": "Helms",
+      "link": "https://diablo2.io/runewords/coven-t1673935.html"
+    },
+    {
+      "name": "authority",
+      "runes": "Hel, Shael, Ral",
+      "level": "29",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/authority-t1673934.html"
     },
     {
       "name": "phoenix",
       "runes": "Vex, Vex, Lo, Jah",
-      "items": "Weapons/Shields",
-      "link": "https://diablo2.diablowiki.net/Phoenix"
-    },
-    {
-      "name": "plague",
-      "runes": "Cham, Fal, Um",
+      "level": "65",
       "items": "Weapons",
-      "link": "https://pathofdiablo.com/wiki/index.php?title=Runewords#Plague"
+      "link": "https://diablo2.io/runewords/phoenix-t1242.html"
     },
     {
-      "name": "pride",
-      "runes": "Cham, Sur, Io, Lo",
-      "items": "Polearms",
-      "link": "https://diablo2.diablowiki.net/Pride"
-    },
-    {
-      "name": "principle",
-      "runes": "Ral, Gul, Eld",
-      "items": "Body Armor (Paladin)",
-      "link": "https://diablo2.diablowiki.net/Principle"
-    },
-    {
-      "name": "prudence",
-      "runes": "Mal, Tir",
-      "items": "Body Armor",
-      "link": "https://diablo2.diablowiki.net/Prudence"
-    },
-    {
-      "name": "radiance",
-      "runes": "Nef, Sol, Ith",
+      "name": "flickering flame",
+      "runes": "Nef, Pul, Vex",
+      "level": "55",
       "items": "Helms",
-      "link": "https://diablo2.diablowiki.net/Radiance"
+      "link": "https://diablo2.io/runewords/flickering-flame-t775675.html"
     },
     {
       "name": "rain",
       "runes": "Ort, Mal, Ith",
-      "items": "Body Armor (Druid)",
-      "link": "https://diablo2.diablowiki.net/Rain"
-    },
-    { "name": "rhyme", "runes": "Shael, Eth", "items": "Shields", "link": "https://diablo2.diablowiki.net/Rhyme" },
-    {
-      "name": "rift",
-      "runes": "Hel, Ko, Lem, Gul",
-      "items": "Polearms/Scepters",
-      "link": "https://diablo2.diablowiki.net/Rift"
+      "level": "49",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/rain-t1252.html"
     },
     {
-      "name": "sanctuary",
-      "runes": "Ko, Ko, Mal",
-      "items": "Shields",
-      "link": "https://diablo2.diablowiki.net/Sanctuary"
+      "name": "bramble",
+      "runes": "Ral, Ohm, Sur, Eth",
+      "level": "61",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/bramble-t1203.html"
     },
-    {
-      "name": "silence",
-      "runes": "Dol, Eld, Hel, Ist, Tir, Vex",
-      "items": "Weapons",
-      "link": "https://diablo2.diablowiki.net/Silence"
-    },
-    { "name": "smoke", "runes": "Nef, Lum", "items": "Body Armor", "link": "https://diablo2.diablowiki.net/Smoke" },
     {
       "name": "spirit",
       "runes": "Tal, Thul, Ort, Amn",
-      "items": "Swords/Shields",
-      "link": "https://diablo2.diablowiki.net/Spirit"
+      "level": "25",
+      "items": "Swords",
+      "link": "https://diablo2.io/runewords/spirit-t3.html"
     },
-    { "name": "splendor", "runes": "Eth, Lum", "items": "Shields", "link": "https://diablo2.diablowiki.net/Splendor" },
-    { "name": "stealth", "runes": "Tal, Eth", "items": "Body Armor", "link": "https://diablo2.diablowiki.net/Stealth" },
+    {
+      "name": "black",
+      "runes": "Thul, Io, Nef",
+      "level": "35",
+      "items": "Clubs",
+      "link": "https://diablo2.io/runewords/black-t1182.html"
+    },
     {
       "name": "steel",
       "runes": "Tir, El",
-      "items": "Swords/Axes/Maces",
-      "link": "https://diablo2.diablowiki.net/Steel"
+      "level": "13",
+      "items": "Swords",
+      "link": "https://diablo2.io/runewords/steel-t1197.html"
+    },
+    {
+      "name": "peace",
+      "runes": "Shael, Thul, Amn",
+      "level": "29",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/peace-t1250.html"
+    },
+    {
+      "name": "dream",
+      "runes": "Io, Jah, Pul",
+      "level": "65",
+      "items": "Helms",
+      "link": "https://diablo2.io/runewords/dream-t1229.html"
+    },
+    {
+      "name": "ground",
+      "runes": "Shael, Io, Ort",
+      "level": "35",
+      "items": "Helms",
+      "link": "https://diablo2.io/runewords/ground-t1282115.html"
+    },
+    {
+      "name": "mosaic",
+      "runes": "Mal, Gul, Amn",
+      "level": "53",
+      "items": "Katars",
+      "link": "https://diablo2.io/runewords/mosaic-t1282119.html"
+    },
+    {
+      "name": "dragon",
+      "runes": "Sur, Lo, Sol",
+      "level": "61",
+      "items": "Shields",
+      "link": "https://diablo2.io/runewords/dragon-t1228.html"
+    },
+    {
+      "name": "lionheart",
+      "runes": "Hel, Lum, Fal",
+      "level": "41",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/lionheart-t1187.html"
+    },
+    {
+      "name": "bone",
+      "runes": "Sol, Um, Um",
+      "level": "47",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/bone-t1247.html"
+    },
+    {
+      "name": "principle",
+      "runes": "Ral, Gul, Eld",
+      "level": "53",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/principle-t1251.html"
+    },
+    {
+      "name": "cure",
+      "runes": "Shael, Io, Tal",
+      "level": "35",
+      "items": "Helms",
+      "link": "https://diablo2.io/runewords/cure-t1282114.html"
+    },
+    {
+      "name": "plague",
+      "runes": "Cham, Shael, Um",
+      "level": "67",
+      "items": "Swords",
+      "link": "https://diablo2.io/runewords/plague-t775670.html"
     },
     {
       "name": "stone",
       "runes": "Shael, Um, Pul, Lum",
+      "level": "47",
       "items": "Body Armor",
-      "link": "https://diablo2.diablowiki.net/Stone"
+      "link": "https://diablo2.io/runewords/stone-t1223.html"
     },
     {
-      "name": "strength",
-      "runes": "Amn, Tir",
-      "items": "Melee Weapons",
-      "link": "https://diablo2.diablowiki.net/Strength"
+      "name": "beast",
+      "runes": "Ber, Tir, Um, Mal, Lum",
+      "level": "63",
+      "items": "Axes",
+      "link": "https://diablo2.io/runewords/beast-t1202.html"
+    },
+    {
+      "name": "hearth",
+      "runes": "Shael, Io, Thul",
+      "level": "35",
+      "items": "Helms",
+      "link": "https://diablo2.io/runewords/hearth-t1282116.html"
+    },
+    {
+      "name": "doom",
+      "runes": "Hel, Ohm, Um, Lo, Cham",
+      "level": "67",
+      "items": "Axes",
+      "link": "https://diablo2.io/runewords/doom-t1210.html"
+    },
+    {
+      "name": "leaf",
+      "runes": "Tir, Ral",
+      "level": "19",
+      "items": "Staves",
+      "link": "https://diablo2.io/runewords/leaf-t57.html"
     },
     {
       "name": "temper",
       "runes": "Shael, Io, Ral",
-      "items": "Helms, Barbarian Helms, Circlets, Druid Pelts",
-      "link": "https://d2trader.net/runeword/temper/"
+      "level": "35",
+      "items": "Helms",
+      "link": "https://diablo2.io/runewords/temper-t1282117.html"
     },
     {
-      "name": "treachery",
-      "runes": "Shael, Thul, Lem",
-      "items": "Body Armor (Assassin)",
-      "link": "https://diablo2.diablowiki.net/Treachery"
+      "name": "metamorphosis",
+      "runes": "Io, Cham, Fal",
+      "level": "67",
+      "items": "Helms",
+      "link": "https://diablo2.io/runewords/metamorphosis-t1282120.html"
     },
     {
-      "name": "unbending will",
-      "runes": "Fal, Io, Ith, Eld, El, Hel",
-      "items": "Swords",
-      "link": "https://d2runewizard.com/runewords/Unbending%20Will"
+      "name": "bulwark",
+      "runes": "Shael, Io, Sol",
+      "level": "35",
+      "items": "Helms",
+      "link": "https://diablo2.io/runewords/bulwark-t1282113.html"
     },
-    { "name": "venom", "runes": "Tal, Dol, Mal", "items": "Weapons", "link": "https://diablo2.diablowiki.net/Venom" },
+    {
+      "name": "hustle",
+      "runes": "Shael, Ko, Eld",
+      "level": "39",
+      "items": "Weapons",
+      "link": "https://diablo2.io/runewords/hustle-t1282118.html"
+    },
+    {
+      "name": "white",
+      "runes": "Dol, Io",
+      "level": "35",
+      "items": "Wand",
+      "link": "https://diablo2.io/runewords/white-t1200.html"
+    },
+    {
+      "name": "holy thunder",
+      "runes": "Eth, Ral, Ort, Tal",
+      "level": "21",
+      "items": "Scepters",
+      "link": "https://diablo2.io/runewords/holy-thunder-t1184.html"
+    },
+    {
+      "name": "infinity",
+      "runes": "Ber, Mal, Ber, Ist",
+      "level": "63",
+      "items": "Polearms",
+      "link": "https://diablo2.io/runewords/infinity-t1236.html"
+    },
+    {
+      "name": "harmony",
+      "runes": "Tir, Ith, Sol, Ko",
+      "level": "39",
+      "items": "Missile Weapons",
+      "link": "https://diablo2.io/runewords/harmony-t1234.html"
+    },
+    {
+      "name": "sanctuary",
+      "runes": "Ko, Ko, Mal",
+      "level": "49",
+      "items": "Shields",
+      "link": "https://diablo2.io/runewords/sanctuary-t1221.html"
+    },
+    {
+      "name": "edge",
+      "runes": "Tir, Tal, Amn",
+      "level": "25",
+      "items": "Missile Weapons",
+      "link": "https://diablo2.io/runewords/edge-t1230.html"
+    },
+    {
+      "name": "ancients pledge",
+      "runes": "Ral, Ort, Tal",
+      "level": "21",
+      "items": "Shields",
+      "link": "https://diablo2.io/runewords/ancients-pledge-t46.html"
+    },
+    {
+      "name": "smoke",
+      "runes": "Nef, Lum",
+      "level": "37",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/smoke-t1195.html"
+    },
     {
       "name": "voice of reason",
       "runes": "Lem, Ko, El, Eld",
-      "items": "Swords/Maces",
-      "link": "https://diablo2.diablowiki.net/Voice_of_Reason"
+      "level": "43",
+      "items": "Swords",
+      "link": "https://diablo2.io/runewords/voice-of-reason-t1245.html"
     },
     {
-      "name": "wealth",
-      "runes": "Lem, Ko, Tir",
-      "items": "Body Armor",
-      "link": "https://diablo2.diablowiki.net/Wealth"
+      "name": "hand of justice",
+      "runes": "Sur, Cham, Amn, Lo",
+      "level": "67",
+      "items": "Weapons",
+      "link": "https://diablo2.io/runewords/hand-of-justice-t1216.html"
     },
-    { "name": "white", "runes": "Dol, Io", "items": "Wand", "link": "https://diablo2.diablowiki.net/White" },
-    { "name": "wind", "runes": "Sur, El", "items": "Melee Weapons", "link": "https://diablo2.diablowiki.net/Wind" },
     {
-      "name": "wisdom",
-      "runes": "Pul, Ith, Eld",
-      "items": "Helms",
-      "link": "https://d2runewizard.com/runewords/Wisdom"
+      "name": "pattern",
+      "runes": "Tal, Ort, Thul",
+      "level": "23",
+      "items": "Katars",
+      "link": "https://diablo2.io/runewords/pattern-t775672.html"
     },
     {
       "name": "wrath",
       "runes": "Pul, Lum, Ber, Mal",
+      "level": "63",
       "items": "Missile Weapons",
-      "link": "https://diablo2.diablowiki.net/Wrath"
+      "link": "https://diablo2.io/runewords/wrath-t1246.html"
+    },
+    {
+      "name": "kingslayer",
+      "runes": "Mal, Um, Gul, Fal",
+      "level": "53",
+      "items": "Swords",
+      "link": "https://diablo2.io/runewords/kingslayer-t1218.html"
+    },
+    {
+      "name": "duress",
+      "runes": "Shael, Um, Thul",
+      "level": "47",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/duress-t1211.html"
+    },
+    {
+      "name": "oath",
+      "runes": "Shael, Pul, Mal, Lum",
+      "level": "49",
+      "items": "Swords",
+      "link": "https://diablo2.io/runewords/oath-t1240.html"
+    },
+    {
+      "name": "stealth",
+      "runes": "Tal, Eth",
+      "level": "17",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/stealth-t1196.html"
+    },
+    {
+      "name": "venom",
+      "runes": "Tal, Dol, Mal",
+      "level": "49",
+      "items": "Weapons",
+      "link": "https://diablo2.io/runewords/venom-t1198.html"
+    },
+    {
+      "name": "last wish",
+      "runes": "Jah, Mal, Jah, Sur, Jah, Ber",
+      "level": "65",
+      "items": "Swords",
+      "link": "https://diablo2.io/runewords/last-wish-t1238.html"
+    },
+    {
+      "name": "heart of the oak",
+      "runes": "Ko, Vex, Pul, Thul",
+      "level": "55",
+      "items": "Maces",
+      "link": "https://diablo2.io/runewords/heart-of-the-oak-t1217.html"
+    },
+    {
+      "name": "lore",
+      "runes": "Ort, Sol",
+      "level": "27",
+      "items": "Helms",
+      "link": "https://diablo2.io/runewords/lore-t1188.html"
+    },
+    {
+      "name": "eternity",
+      "runes": "Amn, Ber, Ist, Sol, Sur",
+      "level": "63",
+      "items": "Melee Weapons",
+      "link": "https://diablo2.io/runewords/eternity-t1212.html"
+    },
+    {
+      "name": "honor",
+      "runes": "Amn, El, Ith, Tir, Sol",
+      "level": "27",
+      "items": "Melee Weapons",
+      "link": "https://diablo2.io/runewords/honor-t1185.html"
+    },
+    {
+      "name": "insight",
+      "runes": "Ral, Tir, Tal, Sol",
+      "level": "27",
+      "items": "Polearms",
+      "link": "https://diablo2.io/runewords/insight-t1237.html"
+    },
+    {
+      "name": "wealth",
+      "runes": "Lem, Ko, Tir",
+      "level": "43",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/wealth-t1199.html"
+    },
+    {
+      "name": "malice",
+      "runes": "Ith, El, Eth",
+      "level": "15",
+      "items": "Melee Weapons",
+      "link": "https://diablo2.io/runewords/malice-t1189.html"
+    },
+    {
+      "name": "fury",
+      "runes": "Jah, Gul, Eth",
+      "level": "65",
+      "items": "Melee Weapons",
+      "link": "https://diablo2.io/runewords/fury-t1183.html"
+    },
+    {
+      "name": "crescent moon runeword",
+      "runes": "Shael, Um, Tir",
+      "level": "47",
+      "items": "Polearms",
+      "link": "https://diablo2.io/runewords/crescent-moon-runeword-t1208.html"
+    },
+    {
+      "name": "call to arms",
+      "runes": "Amn, Ral, Mal, Ist, Ohm",
+      "level": "57",
+      "items": "Weapons",
+      "link": "https://diablo2.io/runewords/call-to-arms-t1205.html"
+    },
+    {
+      "name": "faith",
+      "runes": "Ohm, Jah, Lem, Eld",
+      "level": "65",
+      "items": "Missile Weapons",
+      "link": "https://diablo2.io/runewords/faith-t1231.html"
+    },
+    {
+      "name": "death",
+      "runes": "Hel, El, Vex, Ort, Gul",
+      "level": "55",
+      "items": "Swords",
+      "link": "https://diablo2.io/runewords/death-t1226.html"
+    },
+    {
+      "name": "chaos",
+      "runes": "Fal, Ohm, Um",
+      "level": "57",
+      "items": "Katars",
+      "link": "https://diablo2.io/runewords/chaos-t1207.html"
+    },
+    {
+      "name": "breath of the dying",
+      "runes": "Vex, Hel, El, Eld, Zod, Eth",
+      "level": "69",
+      "items": "Weapons",
+      "link": "https://diablo2.io/runewords/breath-of-the-dying-t1204.html"
+    },
+    {
+      "name": "grief",
+      "runes": "Eth, Tir, Lo, Mal, Ral",
+      "level": "59",
+      "items": "Axes",
+      "link": "https://diablo2.io/runewords/grief-t1233.html"
+    },
+    {
+      "name": "fortitude",
+      "runes": "El, Sol, Dol, Lo",
+      "level": "59",
+      "items": "Weapons",
+      "link": "https://diablo2.io/runewords/fortitude-t1232.html"
+    },
+    {
+      "name": "ice",
+      "runes": "Amn, Shael, Jah, Lo",
+      "level": "65",
+      "items": "Missile Weapons",
+      "link": "https://diablo2.io/runewords/ice-t1235.html"
+    },
+    {
+      "name": "delirium",
+      "runes": "Lem, Ist, Io",
+      "level": "51",
+      "items": "Helms",
+      "link": "https://diablo2.io/runewords/delirium-t1209.html"
+    },
+    {
+      "name": "gloom",
+      "runes": "Fal, Um, Pul",
+      "level": "47",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/gloom-t1215.html"
+    },
+    {
+      "name": "radiance",
+      "runes": "Nef, Sol, Ith",
+      "level": "27",
+      "items": "Helms",
+      "link": "https://diablo2.io/runewords/radiance-t1193.html"
+    },
+    {
+      "name": "silence",
+      "runes": "Dol, Eld, Hel, Ist, Tir, Vex",
+      "level": "55",
+      "items": "Weapons",
+      "link": "https://diablo2.io/runewords/silence-t55.html"
+    },
+    {
+      "name": "rift",
+      "runes": "Hel, Ko, Lem, Gul",
+      "level": "53",
+      "items": "Polearms",
+      "link": "https://diablo2.io/runewords/rift-t1244.html"
+    },
+    {
+      "name": "enigma",
+      "runes": "Jah, Ith, Ber",
+      "level": "65",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/enigma-t42.html"
+    },
+    {
+      "name": "melody",
+      "runes": "Shael, Ko, Nef",
+      "level": "39",
+      "items": "Missile Weapons",
+      "link": "https://diablo2.io/runewords/melody-t1190.html"
+    },
+    {
+      "name": "lawbringer",
+      "runes": "Amn, Lem, Ko",
+      "level": "43",
+      "items": "Swords",
+      "link": "https://diablo2.io/runewords/lawbringer-t1239.html"
+    },
+    {
+      "name": "destruction",
+      "runes": "Vex, Lo, Ber, Jah, Ko",
+      "level": "65",
+      "items": "Polearms",
+      "link": "https://diablo2.io/runewords/destruction-t1227.html"
+    },
+    {
+      "name": "obedience",
+      "runes": "Hel, Ko, Thul, Eth, Fal",
+      "level": "41",
+      "items": "Polearms",
+      "link": "https://diablo2.io/runewords/obedience-t1241.html"
+    },
+    {
+      "name": "chains of honor",
+      "runes": "Dol, Um, Ber, Ist",
+      "level": "63",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/chains-of-honor-t1206.html"
+    },
+    {
+      "name": "wisdom",
+      "runes": "Pul, Ith, Eld",
+      "level": "45",
+      "items": "Helms",
+      "link": "https://diablo2.io/runewords/wisdom-t785743.html"
+    },
+    {
+      "name": "exile",
+      "runes": "Vex, Ohm, Ist, Dol",
+      "level": "57",
+      "items": "Paladin Shields",
+      "link": "https://diablo2.io/runewords/exile-t1213.html"
+    },
+    {
+      "name": "wind",
+      "runes": "Sur, El",
+      "level": "61",
+      "items": "Melee Weapons",
+      "link": "https://diablo2.io/runewords/wind-t1224.html"
+    },
+    {
+      "name": "mist",
+      "runes": "Cham, Shael, Gul, Thul, Ith",
+      "level": "67",
+      "items": "Missile Weapons",
+      "link": "https://diablo2.io/runewords/mist-t775678.html"
+    },
+    {
+      "name": "brand",
+      "runes": "Jah, Lo, Mal, Gul",
+      "level": "65",
+      "items": "Missile Weapons",
+      "link": "https://diablo2.io/runewords/brand-t1225.html"
+    },
+    {
+      "name": "memory",
+      "runes": "Lum, Io, Sol, Eth",
+      "level": "37",
+      "items": "Staves",
+      "link": "https://diablo2.io/runewords/memory-t1191.html"
+    },
+    {
+      "name": "treachery",
+      "runes": "Shael, Thul, Lem",
+      "level": "43",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/treachery-t1253.html"
+    },
+    {
+      "name": "strength",
+      "runes": "Amn, Tir",
+      "level": "25",
+      "items": "Melee Weapons",
+      "link": "https://diablo2.io/runewords/strength-t56.html"
+    },
+    {
+      "name": "myth",
+      "runes": "Hel, Amn, Nef",
+      "level": "25",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/myth-t1249.html"
+    },
+    {
+      "name": "pride",
+      "runes": "Cham, Sur, Io, Lo",
+      "level": "67",
+      "items": "Polearms",
+      "link": "https://diablo2.io/runewords/pride-t1243.html"
+    },
+    {
+      "name": "unbending will",
+      "runes": "Fal, Io, Ith, Eld, El, Hel",
+      "level": "41",
+      "items": "Swords",
+      "link": "https://diablo2.io/runewords/unbending-will-t768058.html"
+    },
+    {
+      "name": "famine",
+      "runes": "Fal, Ohm, Ort, Jah",
+      "level": "65",
+      "items": "Axes",
+      "link": "https://diablo2.io/runewords/famine-t1214.html"
+    },
+    {
+      "name": "splendor",
+      "runes": "Eth, Lum",
+      "level": "37",
+      "items": "Shields",
+      "link": "https://diablo2.io/runewords/splendor-t1222.html"
+    },
+    {
+      "name": "nadir",
+      "runes": "Nef, Tir",
+      "level": "13",
+      "items": "Helms",
+      "link": "https://diablo2.io/runewords/nadir-t1192.html"
+    },
+    {
+      "name": "passion",
+      "runes": "Dol, Ort, Eld, Lem",
+      "level": "43",
+      "items": "Weapons",
+      "link": "https://diablo2.io/runewords/passion-t1219.html"
+    },
+    {
+      "name": "enlightenment",
+      "runes": "Pul, Ral, Sol",
+      "level": "45",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/enlightenment-t1248.html"
+    },
+    {
+      "name": "prudence",
+      "runes": "Mal, Tir",
+      "level": "49",
+      "items": "Body Armor",
+      "link": "https://diablo2.io/runewords/prudence-t1220.html"
     },
     {
       "name": "zephyr",
       "runes": "Ort, Eth",
+      "level": "21",
       "items": "Missile Weapons",
-      "link": "https://diablo2.diablowiki.net/Zephyr"
+      "link": "https://diablo2.io/runewords/zephyr-t1201.html"
+    },
+    {
+      "name": "kings grace",
+      "runes": "Amn, Ral, Thul",
+      "level": "25",
+      "items": "Swords",
+      "link": "https://diablo2.io/runewords/king-s-grace-t1186.html"
     }
   ]
 }
