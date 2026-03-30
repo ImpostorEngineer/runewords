@@ -83,11 +83,20 @@ function renderTable(data) {
 
   const fragment = document.createDocumentFragment();
 
-  data.forEach((entry) => {
+  data.forEach((entry, index) => {
     const row = document.createElement('tr');
+    const tooltipId = `runeword-stats-${index}`;
     row.innerHTML = `
-      <td>
-        <a href="${entry.link || '#'}" target="_blank" rel="noreferrer">${escapeHtml(entry.name)}</a>
+      <td class="runeword-cell">
+        <div class="runeword-trigger">
+          <a
+            href="${entry.link || '#'}"
+            target="_blank"
+            rel="noreferrer"
+            ${entry.stats ? `aria-describedby="${tooltipId}"` : ''}
+          >${escapeHtml(entry.name)}</a>
+          ${renderStatsTooltip(entry.stats, tooltipId)}
+        </div>
       </td>
       <td>${renderTags(entry.runes)}</td>
       <td>${escapeHtml(entry.itemsText || '')}</td>
@@ -103,6 +112,19 @@ function renderTable(data) {
 function renderTags(values) {
   const parts = Array.isArray(values) ? values : [];
   return parts.map((value) => `<span class="rune-chip">${escapeHtml(value)}</span>`).join('');
+}
+
+function renderStatsTooltip(stats, tooltipId) {
+  if (!stats) {
+    return '';
+  }
+
+  return `
+    <div class="stats-tooltip" id="${tooltipId}" role="tooltip">
+      <p class="stats-tooltip__label">Stats</p>
+      <div class="stats-tooltip__content">${stats}</div>
+    </div>
+  `;
 }
 
 function renderError(message) {

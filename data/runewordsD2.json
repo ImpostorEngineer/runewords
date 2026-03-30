@@ -2,703 +2,803 @@
   "runewords": [
     {
       "name": "Harmony",
-      "runes": "Tir, Ith, Sol, Ko",
+      "runes": ["Tir", "Ith", "Sol", "Ko"],
       "level": "Lvl:39",
       "items": ["Missile Weapons"],
-      "link": "https://diablo2.io/runewords/harmony-t1234.html"
+      "link": "https://diablo2.io/runewords/harmony-t1234.html",
+      "stats": "Level 10 Vigor Aura When Equipped  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">200-275</code>% Enhanced Damage  <br>+9 To Minimum Damage  <br>+9 To Maximum Damage  <br>Adds 55-160 Lightning Damage  <br>Adds 55-160 Fire Damage  <br>  Adds 55-160 Cold Damage  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">2-6</code> To Valkyrie  <br/>+10 To Dexterity  <br/>Regenerate Mana 20%  <br/>+2 To Mana After Each Kill  <br/>+2 To Light Radius  <br/>Level 20 Revive (25 Charges)</br>"
     },
     {
       "name": "Last Wish",
-      "runes": "Jah, Mal, Jah, Sur, Jah, Ber",
+      "runes": ["Jah", "Mal", "Jah", "Sur", "Jah", "Ber"],
       "level": "Lvl:65",
       "items": ["Swords", "Hammers", "Axes"],
-      "link": "https://diablo2.io/runewords/last-wish-t1238.html"
+      "link": "https://diablo2.io/runewords/last-wish-t1238.html",
+      "stats": "6% Chance To Cast Level 11 Fade When Struck  <br>10% Chance To Cast Level 18 Life Tap On Striking  <br>20% Chance To Cast Level 20 Charged Bolt On Attack  <br>Level 17 Might Aura When Equipped  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">330-375</code>% Enhanced Damage  <br/>Ignore Target's Defense  <br/><code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">60-70</code>% Chance of Crushing Blow  <br/>Prevent Monster Heal  <br/>Hit Blinds Target  <br/>+(0.5 per character level) <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">0.5-49.5</code>% Chance of Getting Magic Items (Based on Character Level)"
     },
     {
       "name": "Insight",
-      "runes": "Ral, Tir, Tal, Sol",
+      "runes": ["Ral", "Tir", "Tal", "Sol"],
       "level": "Lvl:27",
       "items": ["Polearms", "Staves", "Missile Weapons"],
-      "link": "https://diablo2.io/runewords/insight-t1237.html"
+      "link": "https://diablo2.io/runewords/insight-t1237.html",
+      "stats": "Level <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">12-17</code> Meditation Aura When Equipped  <br>+35% Faster Cast Rate  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">200-260</code>% Enhanced Damage   <br>+9 To Minimum Damage  <br><code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">180-250</code>% Bonus to Attack Rating  <br/>Adds 5-30 Fire Damage  <br/>+75 Poison Damage Over 5 Seconds  <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">1-6</code> To Critical Strike  <br/>+5 To All Attributes  <br/>+2 To Mana After Each Kill  <br/>23% Better Chance of Getting Magic Items"
     },
     {
       "name": "Obedience",
-      "runes": "Hel, Ko, Thul, Eth, Fal",
+      "runes": ["Hel", "Ko", "Thul", "Eth", "Fal"],
       "level": "Lvl:41",
       "items": ["Polearms", "Spears"],
-      "link": "https://diablo2.io/runewords/obedience-t1241.html"
+      "link": "https://diablo2.io/runewords/obedience-t1241.html",
+      "stats": "30% Chance To Cast Level 21 Enchant When You Kill An Enemy  <br>40% Faster Hit Recovery  <br>+370% Enhanced Damage  <br>-25% Target Defense  <br>Adds 3-14 Cold Damage 3 Second Duration  <br>-25% To Enemy Fire Resistance <br/>40% Chance of Crushing Blow  <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">200-300</code> Defense  <br/>+10 To Strength  <br/>+10 To Dexterity  <br/>All Resistances +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">20-30</code> <br/>Requirements -20%</br>"
     },
     {
       "name": "Edge",
-      "runes": "Tir, Tal, Amn",
+      "runes": ["Tir", "Tal", "Amn"],
       "level": "Lvl:25",
       "items": ["Missile Weapons"],
-      "link": "https://diablo2.io/runewords/edge-t1230.html"
+      "link": "https://diablo2.io/runewords/edge-t1230.html",
+      "stats": "Level 15 Thorns Aura When Equipped  <br>+35% Increased Attack Speed  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">320-380</code>% Damage To Demons  <br>+280% Damage To Undead  <br>+75 Poison Damage Over 5 Seconds  <br/>7% Life Stolen Per Hit  <br/>Prevent Monster Heal  <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">5-10</code> To All Attributes  <br/>+2 To Mana After Each Kill  <br/>Reduces All Vendor Prices 15%"
     },
     {
       "name": "Authority",
-      "runes": "Hel, Shael, Ral",
+      "runes": ["Hel", "Shael", "Ral"],
       "level": "Lvl:29",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/authority-t1673934.html"
+      "link": "https://diablo2.io/runewords/authority-t1673934.html",
+      "stats": "2% Chance to cast level 10 Psychic Ward when struck <br>10% Chance to cast level 15 Miasma Chain on striking <br>+2 to Warlock Skill Levels <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">40-60</code>% Enhanced Damage <br>Requirements -15% <br/>+20% Faster Hit Recovery <br/>Fire Resist +30%"
     },
     {
       "name": "Dream",
-      "runes": "Io, Jah, Pul",
+      "runes": ["Io", "Jah", "Pul"],
       "level": "Lvl:65",
       "items": ["Helms", "Shields"],
-      "link": "https://diablo2.io/runewords/dream-t1229.html"
+      "link": "https://diablo2.io/runewords/dream-t1229.html",
+      "stats": "10% Chance To Cast Level 15 Confuse When Struck <br>Level 15 Holy Shock Aura When Equipped <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">20-30</code>% Faster Hit Recovery <br>+30% Enhanced Defense <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">150-220</code> Defense <br/>+10 To Vitality <br/>Increase Maximum Life 5% (Helms Only) <br/>+50 To Life (Shields Only) <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">0.625-61.875</code> To Mana (Based On Character Level) <br/>All Resistances +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">5-20</code> <br/><code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">12-25</code>% Better Chance of Getting Magic Items"
     },
     {
       "name": "Void",
-      "runes": "Thul, Zod, Ist",
+      "runes": ["Thul", "Zod", "Ist"],
       "level": "Lvl:69",
       "items": ["Daggers"],
-      "link": "https://diablo2.io/runewords/void-t1673936.html"
+      "link": "https://diablo2.io/runewords/void-t1673936.html",
+      "stats": "+2 to All Skills <br>+40% Faster Cast Rate <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">10-15</code>% to Magic Skill Damage <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">1-3</code> to Abyss <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">8-12</code> to all Attributes <br/>Level 4 Decrepify (35/35 Charges) <br/>Adds 3-14 Cold Damage <br/>Indestructible <br/>30% Better Chance of Getting Magic Items"
     },
     {
       "name": "Oath",
-      "runes": "Shael, Pul, Mal, Lum",
+      "runes": ["Shael", "Pul", "Mal", "Lum"],
       "level": "Lvl:49",
       "items": ["Swords", "Axes", "Maces"],
-      "link": "https://diablo2.io/runewords/oath-t1240.html"
+      "link": "https://diablo2.io/runewords/oath-t1240.html",
+      "stats": "30% Chance To Cast Level 20 Bone Spirit On Striking  <br>Indestructible  <br>+50% Increased Attack Speed  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">210-340</code>% Enhanced Damage  <br>+75% Damage To Demons  <br/>+100 To Attack Rating Against Demons  <br/>Prevent Monster Heal  <br/>+10 To Energy  <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">10-15</code> Magic Absorb  <br/>Level 16 Heart of Wolverine (20 Charges)  <br/>Level 17 Iron Golem (14 Charges)"
     },
     {
       "name": "Enigma",
-      "runes": "Jah, Ith, Ber",
+      "runes": ["Jah", "Ith", "Ber"],
       "level": "Lvl:65",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/enigma-t42.html"
+      "link": "https://diablo2.io/runewords/enigma-t42.html",
+      "stats": "+2 To All Skills <br>+45% Faster Run/Walk <br>+1 To Teleport <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">750-775</code> Defense <br>+ (0.75 Per Character Level) +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">0-74</code> To Strength (Based On Character Level) <br/>Increase Maximum Life 5% <br/>Damage Reduced By 8% <br/>+14 Life After Each Kill <br/>15% Damage Taken Goes To Mana <br/>+ (1 Per Character Level) +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">1-99</code>% Better Chance of Getting Magic Items (Based On Character Level)"
     },
     {
       "name": "Crescent Moon",
-      "runes": "Shael, Um, Tir",
+      "runes": ["Shael", "Um", "Tir"],
       "level": "Lvl:47",
       "items": ["Polearms", "Axes", "Swords"],
-      "link": "https://diablo2.io/runewords/crescent-moon-runeword-t1208.html"
+      "link": "https://diablo2.io/runewords/crescent-moon-runeword-t1208.html",
+      "stats": "10% Chance To Cast Level 17 Chain Lightning On Striking  <br>7% Chance To Cast Level 13 Static Field On Striking  <br>+20% Increased Attack Speed  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">180-220</code>% Enhanced Damage  <br>Ignore Target's Defense  <br/>-35% To Enemy Lightning Resistance  <br/>25% Chance of Open Wounds  <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">9-11</code> Magic Absorb  <br/>+2 To Mana After Each Kill  <br/>Level 18 Summon Spirit Wolf (30 Charges)"
     },
     {
       "name": "Splendor",
-      "runes": "Eth, Lum",
+      "runes": ["Eth", "Lum"],
       "level": "Lvl:37",
       "items": ["Shields"],
-      "link": "https://diablo2.io/runewords/splendor-t1222.html"
+      "link": "https://diablo2.io/runewords/splendor-t1222.html",
+      "stats": "+1 To All Skills  <br>+10% Faster Cast Rate  <br>+20% Faster Block Rate  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">60-100</code>% Enhanced Defense  <br>+10 To Energy  <br/>Regenerate Mana 15%  <br/>50% Extra Gold From Monsters  <br/>20% Better Chance of Getting Magic Items  <br/>+3 To Light Radius"
     },
     {
       "name": "Vigilance",
-      "runes": "Dol, Gul",
+      "runes": ["Dol", "Gul"],
       "level": "Lvl:53",
       "items": ["Grimoires", "Shields", "Shrunken Heads", "Targes"],
-      "link": "https://diablo2.io/runewords/vigilance-t1673937.html"
+      "link": "https://diablo2.io/runewords/vigilance-t1673937.html",
+      "stats": "5% Chance to cast level 10 Ring of Fire when struck <br>+10% Faster Run/Walk <br>+30% Faster Block Rate <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">20-40</code> to Life <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">20-40</code> to Mana <br/>All Resistances +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">25-35</code> <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">75-100</code>% Enhanced Defense <br/>Replenish Life +7 <br/>+5% to Maximum Poison Resist"
     },
     {
       "name": "Ritual",
-      "runes": "Amn, Shael, Ohm",
+      "runes": ["Amn", "Shael", "Ohm"],
       "level": "Lvl:57",
       "items": ["Daggers"],
-      "link": "https://diablo2.io/runewords/ritual-t1673938.html"
+      "link": "https://diablo2.io/runewords/ritual-t1673938.html",
+      "stats": "13% Chance to cast level 1 Sigil Death when struck <br>+40% Increased Attack Speed <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">250-320</code>% Enhanced Damage <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">150-250</code>% Damage to Demons <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">200-260</code>% Bonus to Attack Rating <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">3-5</code> Life after each Kill <br/>Slain Monsters Rest in Peace <br/>7% Life stolen per hit"
     },
     {
       "name": "Mosaic",
-      "runes": "Mal, Gul, Amn",
+      "runes": ["Mal", "Gul", "Amn"],
       "level": "Lvl:53",
       "items": ["Katars"],
-      "link": "https://diablo2.io/runewords/mosaic-t1282119.html"
+      "link": "https://diablo2.io/runewords/mosaic-t1282119.html",
+      "stats": "+50% chance for finishing moves to not consume charges <br>When a finisher is executed this way, it now refreshes the expiration timer of the stack <br>+2 to Martial Arts (Assassin only) <br>+20% Increased Attack Speed <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">200-250</code>% Enhanced Damage <br/>+20% Bonus to Attack Rating <br/>7% Life Steal <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">8-15</code>% to Cold Skill Damage <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">8-15</code>% to Lightning Skill Damage <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">8-15</code>% to Fire Skill Damage <br/>Prevent Monster Heal"
     },
     {
       "name": "Leaf",
-      "runes": "Tir, Ral",
+      "runes": ["Tir", "Ral"],
       "level": "Lvl:19",
       "items": ["Staves"],
-      "link": "https://diablo2.io/runewords/leaf-t57.html"
+      "link": "https://diablo2.io/runewords/leaf-t57.html",
+      "stats": "Adds 5-30 Fire Damage <br>+3 To Fire Skills <br>+3 To Fire Bolt (Sorceress Only) <br>+3 To Inferno (Sorceress Only) <br>+3 To Warmth (Sorceress Only) <br/>+2 To Mana After Each Kill <br/>+ (2 Per Character Level) +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">2-198</code> To Defense (Based On Character Level) <br/>Cold Resist +33%"
     },
     {
       "name": "Coven",
-      "runes": "Ist, Ral, Io",
+      "runes": ["Ist", "Ral", "Io"],
       "level": "Lvl:51",
       "items": ["Helms"],
-      "link": "https://diablo2.io/runewords/coven-t1673935.html"
+      "link": "https://diablo2.io/runewords/coven-t1673935.html",
+      "stats": "5% Chance to cast level 10 Sigil Lethargy when struck <br>+1 to All Skills <br>+20% Faster Cast Rate <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">30-50</code>% Enhanced Defense <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">1-5</code> Life after each Kill <br/><code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">26-40</code>% Better Chance of Getting Magic Items <br/>Fire Resist +30% <br/>+10 to Vitality"
     },
     {
       "name": "Rhyme",
-      "runes": "Shael, Eth",
+      "runes": ["Shael", "Eth"],
       "level": "Lvl:29",
       "items": ["Shields"],
-      "link": "https://diablo2.io/runewords/rhyme-t1194.html"
+      "link": "https://diablo2.io/runewords/rhyme-t1194.html",
+      "stats": "20% Increased Chance of Blocking  <br>40% Faster Block Rate  <br>+25 to All Resistances  <br>Regenerate Mana 15%  <br>Cannot Be Frozen  <br/>50% Extra Gold From Monsters  <br/>25% Better Chance Of Getting Magic Items"
     },
     {
       "name": "Obsession",
-      "runes": "Zod, Ist, Lem, Lum, Io, Nef",
+      "runes": ["Zod", "Ist", "Lem", "Lum", "Io", "Nef"],
       "level": "Lvl:69",
       "items": ["Staves"],
-      "link": "https://diablo2.io/runewords/obsession-t785744.html"
+      "link": "https://diablo2.io/runewords/obsession-t785744.html",
+      "stats": "Indestructible <br>24% Chance to cast level 10 Weaken when struck <br>+4 To All Skills <br>+65% Faster Cast Rate <br>+60% Faster Hit Recovery <br/>Knockback <br/>+10 To Vitality <br/>+10 To Energy <br/>Increase Maximum Life <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">15-25</code>% <br/>Regenerate Mana <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">15-30</code>% <br/>All Resistances +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">60-70</code> <br/>75% Extra Gold from Monsters <br/>30% Better Chance of Getting Magic Items"
     },
     {
       "name": "Hysteria",
-      "runes": "Shael, Ko, Eld",
+      "runes": ["Shael", "Ko", "Eld"],
       "level": "Lvl:39",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/hysteria-t1674021.html"
+      "link": "https://diablo2.io/runewords/hysteria-t1674021.html",
+      "stats": "+65% Faster Run/Walk <br>+40% Increased Attack Speed <br>+20% Faster Hit Recovery <br>+6 to Evade <br>+10 to Dexterity <br/>50% Slower Stamina Drain <br/>+All Resistances +10"
     },
     {
       "name": "Mania",
-      "runes": "Shael, Ko, Eld",
+      "runes": ["Shael", "Ko", "Eld"],
       "level": "Lvl:39",
       "items": ["Weapons"],
-      "link": "https://diablo2.io/runewords/mania-t1674022.html"
+      "link": "https://diablo2.io/runewords/mania-t1674022.html",
+      "stats": "5% Chance to cast level 1 Burst of Speed on striking <br>Level 1 Fanaticism Aura When Equipped<br>+30% Increased Attack Speed <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">180-200</code>% Enhanced Damage <br>+75% Damage to Undead <br/>+50 to Attack Rating against Undead <br/>+10 to Dexterity"
     },
     {
       "name": "Phoenix",
-      "runes": "Vex, Vex, Lo, Jah",
+      "runes": ["Vex", "Vex", "Lo", "Jah"],
       "level": "Lvl:65",
       "items": ["Weapons", "Shields"],
-      "link": "https://diablo2.io/runewords/phoenix-t1242.html"
+      "link": "https://diablo2.io/runewords/phoenix-t1242.html",
+      "stats": "100% Chance To Cast level 40 Blaze When You Level Up <br>40% Chance To Cast Level 22 Firestorm On Striking <br>Level <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">10-15</code> Redemption Aura When Equipped <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">350-400</code>% Enhanced Damage <br>Ignores Target's Defense <br/>14% Mana Stolen Per Hit <br/>-28% To Enemy Fire Resistance <br/>20% Deadly Strike <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">350-400</code> Defense Vs. Missile <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">15-21</code> Fire Absorb <br/><br>100% Chance To Cast level 40 Blaze When You Level Up<br/>40% Chance To Cast Level 22 Firestorm On Striking<br/>Level <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">10-15</code> Redemption Aura When Equipped<br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">350-400</code> Defense Vs. Missile<br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">350-400</code>% Enhanced Damage<br/>-28% To Enemy Fire Resistance<br/>+50 To Life<br/>+5% To Maximum Lightning Resist<br/>+10% To Maximum Fire Resist<br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">15-21</code> Fire Absorb"
     },
     {
       "name": "Flickering Flame",
-      "runes": "Nef, Pul, Vex",
+      "runes": ["Nef", "Pul", "Vex"],
       "level": "Lvl:55",
       "items": ["Helms"],
-      "link": "https://diablo2.io/runewords/flickering-flame-t775675.html"
+      "link": "https://diablo2.io/runewords/flickering-flame-t775675.html",
+      "stats": "Level <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">4-8</code> Resist Fire Aura When Equipped <br>+3 To Fire Skills <br>-<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">10-15</code>% To Enemy Fire Resistance <br>+30% Enhanced Defense <br>+30 Defense vs. Missile <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">50-75</code> To Mana <br>Half Freeze Duration <br>+5% To Maximum Fire Resist <br>Poison Length Reduced by 50%"
     },
     {
       "name": "Rain",
-      "runes": "Ort, Mal, Ith",
+      "runes": ["Ort", "Mal", "Ith"],
       "level": "Lvl:49",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/rain-t1252.html"
+      "link": "https://diablo2.io/runewords/rain-t1252.html",
+      "stats": "5% Chance To Cast Level 15 Cyclone Armor When Struck <br>5% Chance To Cast Level 15 Twister On Striking <br>+2 To Druid Skill Levels <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">100-150</code> To Mana <br>Lightning Resist +30% <br>Magic Damage Reduced By 7 <br>15% Damage Taken Goes to Mana"
     },
     {
       "name": "Bramble",
-      "runes": "Ral, Ohm, Sur, Eth",
+      "runes": ["Ral", "Ohm", "Sur", "Eth"],
       "level": "Lvl:61",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/bramble-t1203.html"
+      "link": "https://diablo2.io/runewords/bramble-t1203.html",
+      "stats": "Level <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">15-21</code> Thorns Aura When Equipped  <br>+50% Faster Hit Recovery  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">25-50</code>% To Poison Skill Damage  <br>+300 Defense  <br>Increase Maximum Mana 5%  <br>Regenerate Mana 15%  <br>+5% To Maximum Cold Resist  <br>Fire Resist +30%  <br>Poison Resist +100%  <br>+13 Life After Each Kill  <br>Level 13 Spirit of Barbs (33 Charges)"
     },
     {
       "name": "Spirit",
-      "runes": "Tal, Thul, Ort, Amn",
+      "runes": ["Tal", "Thul", "Ort", "Amn"],
       "level": "Lvl:25",
       "items": ["Swords", "Shields"],
-      "link": "https://diablo2.io/runewords/spirit-t3.html"
+      "link": "https://diablo2.io/runewords/spirit-t3.html",
+      "stats": "+2 To All Skills  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">25-35</code>% Faster Cast Rate  <br>+55% Faster Hit Recovery  <br>Adds 1-50 Lightning Damage  <br>Adds 3-14 Cold Damage 3 Second Duration  <br/>+75 Poison Damage Over 5 Seconds  <br/>7% Life Stolen Per Hit  <br/>+250 Defense Vs. Missile  <br/>+22 To Vitality  <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">89-112</code> To Mana  <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">3-8</code> Magic Absorb <br/><br>+2 To All Skills <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">25-35</code>% Faster Cast Rate <br/>+55% Faster Hit Recovery <br/>+250 Defense Vs. Missile <br/>+22 To Vitality <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">89-112</code> To Mana <br/>Cold Resist +35% <br/>Lightning Resist +35% <br/>Poison Resist +35% <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">3-8</code> Magic Absorb <br/>Attacker Takes Damage of 14"
     },
     {
       "name": "Black",
-      "runes": "Thul, Io, Nef",
+      "runes": ["Thul", "Io", "Nef"],
       "level": "Lvl:35",
       "items": ["Clubs", "Hammers", "Maces"],
-      "link": "https://diablo2.io/runewords/black-t1182.html"
+      "link": "https://diablo2.io/runewords/black-t1182.html",
+      "stats": "+120% Enhanced Damage  <br>40% Chance of Crushing Blow  <br>+200 to Attack Rating  <br>Adds 3-14 Cold Damage for 3 seconds  <br>+10 to Vitality  <br>15% increased Attack Speed  <br>Magic Damage Reduced by 2  <br>Level 4 Corpse Explosion (12 charges)  <br>Knockback"
     },
     {
       "name": "Steel",
-      "runes": "Tir, El",
+      "runes": ["Tir", "El"],
       "level": "Lvl:13",
       "items": ["Swords", "Axes", "Maces"],
-      "link": "https://diablo2.io/runewords/steel-t1197.html"
+      "link": "https://diablo2.io/runewords/steel-t1197.html",
+      "stats": "20% Enhanced Damage  <br>+3 To Minimum Damage  <br>+3 To Maximum Damage  <br>+50 To Attack Rating  <br>50% Chance Of Open Wounds  <br>25% Increased Attack Speed  <br>+2 To Mana After Each Kill  <br>+1 To Light Radius</br>"
     },
     {
       "name": "Peace",
-      "runes": "Shael, Thul, Amn",
+      "runes": ["Shael", "Thul", "Amn"],
       "level": "Lvl:29",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/peace-t1250.html"
+      "link": "https://diablo2.io/runewords/peace-t1250.html",
+      "stats": "4% Chance To Cast Level 5 Slow Missiles When Struck <br>2% Chance To Cast level 15 Valkyrie On Striking <br>+2 To Amazon Skill Levels <br>+20% Faster Hit Recovery <br>+2 To Critical Strike <br>Cold Resist +30% <br>Attacker Takes Damage of 14"
     },
     {
       "name": "Ground",
-      "runes": "Shael, Io, Ort",
+      "runes": ["Shael", "Io", "Ort"],
       "level": "Lvl:35",
       "items": ["Helms"],
-      "link": "https://diablo2.io/runewords/ground-t1282115.html"
+      "link": "https://diablo2.io/runewords/ground-t1282115.html",
+      "stats": "+20% Faster Hit Recovery <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">75-100</code>% Enhanced Defense <br>+10 to Vitality <br>Increase Maximum Life 5% <br>Lightning Resist +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">40-60</code>% <br>Lightning Absorb +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">10-15</code>%</br>"
     },
     {
       "name": "Dragon",
-      "runes": "Sur, Lo, Sol",
+      "runes": ["Sur", "Lo", "Sol"],
       "level": "Lvl:61",
       "items": ["Shields", "Body Armor"],
-      "link": "https://diablo2.io/runewords/dragon-t1228.html"
+      "link": "https://diablo2.io/runewords/dragon-t1228.html",
+      "stats": "20% Chance to Cast Level 18  Venom When Struck  <br>12% Chance To Cast Level 15 Hydra On Striking  <br>Level 14 Holy Fire Aura When Equipped  <br>+360 Defense  <br>+230 Defense vs. Missile  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">3-5</code> To All Attributes   <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">0.375-37.125</code> To Strength (Based on Character Level)  <br>Increase Maximum Mana 5% (Armor Only)  <br/>+50 To Mana (Shields Only)  <br/>+5% To Maximum Lightning Resist  <br/>Damage Reduced by 7</br>"
     },
     {
       "name": "Lionheart",
-      "runes": "Hel, Lum, Fal",
+      "runes": ["Hel", "Lum", "Fal"],
       "level": "Lvl:41",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/lionheart-t1187.html"
+      "link": "https://diablo2.io/runewords/lionheart-t1187.html",
+      "stats": "+20% Enhanced Damage  <br>Requirements -15%  <br>+25 To Strength  <br>+10 To Energy  <br>+20 To Vitality  <br/>+15 To Dexterity  <br/>+50 To Life  <br/>All Resistances +30"
     },
     {
       "name": "Bone",
-      "runes": "Sol, Um, Um",
+      "runes": ["Sol", "Um", "Um"],
       "level": "Lvl:47",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/bone-t1247.html"
+      "link": "https://diablo2.io/runewords/bone-t1247.html",
+      "stats": "15% Chance To Cast level 10  Bone Armor When Struck <br>15% Chance To Cast level 10  Bone Spear On Striking <br>+2 To Necromancer Skill Levels <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">100-150</code> To Mana <br>All Resistances +30 <br/>Damage Reduced By 7"
     },
     {
       "name": "Principle",
-      "runes": "Ral, Gul, Eld",
+      "runes": ["Ral", "Gul", "Eld"],
       "level": "Lvl:53",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/principle-t1251.html"
+      "link": "https://diablo2.io/runewords/principle-t1251.html",
+      "stats": "100% Chance To Cast Level 5 Holy Bolt On Striking <br>+2 To Paladin Skill Levels <br>+50% Damage to Undead <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">100-150</code> To Life <br>15% Slower Stamina Drain <br/>+5% To Maximum Poison Resist <br/>Fire Resist +30%"
     },
     {
       "name": "Cure",
-      "runes": "Shael, Io, Tal",
+      "runes": ["Shael", "Io", "Tal"],
       "level": "Lvl:35",
       "items": ["Helms"],
-      "link": "https://diablo2.io/runewords/cure-t1282114.html"
+      "link": "https://diablo2.io/runewords/cure-t1282114.html",
+      "stats": "Level 1  Cleansing Aura when Equipped <br>+20% Faster Hit Recovery  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">75-100</code>% Enhanced Defense  <br>+10 to Vitality  <br>Increase Maximum Life 5%  <br/>Poison Resist +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">40-60</code>%  <br/>Poison Length Reduced by 50%"
     },
     {
       "name": "Plague",
-      "runes": "Cham, Shael, Um",
+      "runes": ["Cham", "Shael", "Um"],
       "level": "Lvl:67",
       "items": ["Swords", "Katars", "Daggers"],
-      "link": "https://diablo2.io/runewords/plague-t775670.html"
+      "link": "https://diablo2.io/runewords/plague-t775670.html",
+      "stats": "20% Chance To Cast Level 12 Lower Resist When Struck <br>25% Chance to Cast Level 15 Poison Nova On Striking <br>Level <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">13-17</code> Cleansing Aura When Equipped <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">1-2</code> To All Skills <br>+20% Increased Attack Speed <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">220-320</code>% Enhanced Damage <br/>-23% To Enemy Poison Resistance <br/>+0.3% (<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">0-29.7</code>) Deadly Strike (Based on Character Level) <br/>+25% Chance of Open Wounds <br/>Freezes Target +3"
     },
     {
       "name": "Stone",
-      "runes": "Shael, Um, Pul, Lum",
+      "runes": ["Shael", "Um", "Pul", "Lum"],
       "level": "Lvl:47",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/stone-t1223.html"
+      "link": "https://diablo2.io/runewords/stone-t1223.html",
+      "stats": "+60% Faster Hit Recovery  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">250-290</code>% Enhanced Defense  <br>+300 Defense vs. Missile  <br>+16 To Strength  <br>+16 To Vitality  <br/>+10 To Energy  <br/>All Resistances +15  <br/>Level 16 Molten Boulder (80 Charges)  <br/>Level 16 Clay Golem (16 Charges)"
     },
     {
       "name": "Beast",
-      "runes": "Ber, Tir, Um, Mal, Lum",
+      "runes": ["Ber", "Tir", "Um", "Mal", "Lum"],
       "level": "Lvl:63",
       "items": ["Axes", "Scepters", "Hammers"],
-      "link": "https://diablo2.io/runewords/beast-t1202.html"
+      "link": "https://diablo2.io/runewords/beast-t1202.html",
+      "stats": "Level 9 Fanaticism Aura When Equipped <br>+40% Increased Attack Speed <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">240-270</code>% Enhanced Damage <br>20% Chance of Crushing Blow <br>25% Chance of Open Wounds <br/>+3 To Werebear <br/>+3 To Lycanthropy <br/>Prevent Monster Heal <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">25-40</code> To Strength  <br/>+10 To Energy <br/>+2 To Mana After Each Kill <br/>Level 13 Summon Grizzly (5 Charges)"
     },
     {
       "name": "Hearth",
-      "runes": "Shael, Io, Thul",
+      "runes": ["Shael", "Io", "Thul"],
       "level": "Lvl:35",
       "items": ["Helms"],
-      "link": "https://diablo2.io/runewords/hearth-t1282116.html"
+      "link": "https://diablo2.io/runewords/hearth-t1282116.html",
+      "stats": "+20% Faster Hit Recovery <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">75-100</code>% Enhanced Defense <br>+10 to Vitality <br>Increase Maximum Life 5% <br>Cold Resist +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">40-60</code>% <br/>Cold Absorb +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">10-15</code>% <br/>Cannot be Frozen"
     },
     {
       "name": "Doom",
-      "runes": "Hel, Ohm, Um, Lo, Cham",
+      "runes": ["Hel", "Ohm", "Um", "Lo", "Cham"],
       "level": "Lvl:67",
       "items": ["Axes", "Polearms", "Hammers"],
-      "link": "https://diablo2.io/runewords/doom-t1210.html"
+      "link": "https://diablo2.io/runewords/doom-t1210.html",
+      "stats": "5% Chance To Cast Level 18 Volcano On Striking  <br>Level 12 Holy Freeze Aura When Equipped  <br>+2 To All Skills  <br>+45% Increased Attack Speed  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">330-370</code>% Enhanced Damage  <br/>-(<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">40-60</code>)% To Enemy Cold Resistance  <br/>20% Deadly Strike  <br/>25% Chance of Open Wounds  <br/>Prevent Monster Heal  <br/>Freezes Target +3  <br/>Requirements -20%"
     },
     {
       "name": "Temper",
-      "runes": "Shael, Io, Ral",
+      "runes": ["Shael", "Io", "Ral"],
       "level": "Lvl:35",
       "items": ["Helms"],
-      "link": "https://diablo2.io/runewords/temper-t1282117.html"
+      "link": "https://diablo2.io/runewords/temper-t1282117.html",
+      "stats": "+20% Faster Hit Recovery <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">75-100</code>% Enhanced Defense <br>+10 to Vitality <br>Increase Maximum Life 5% <br>Fire Resist +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">40-60</code>% <br/>Fire Absorb +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">10-15</code>%"
     },
     {
       "name": "Metamorphosis",
-      "runes": "Io, Cham, Fal",
+      "runes": ["Io", "Cham", "Fal"],
       "level": "Lvl:67",
       "items": ["Helms"],
-      "link": "https://diablo2.io/runewords/metamorphosis-t1282120.html"
+      "link": "https://diablo2.io/runewords/metamorphosis-t1282120.html",
+      "stats": "Werewolf strikes grant Mark for 180 seconds <br>Mark of the Wolf: <br>+30% Bonus to Attack Rating <br>Increase Maximum Life 40% <br><br/>Werebear strikes grant Mark for 180 seconds <br/>Mark of the Bear: <br/>+25% Attack Speed <br/>Physical Damage Received Reduced by 20% <br/><br/>+5 to Shape Shifting Skills (Druid only) <br/>+25% Chance of Crushing Blow <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">50-80</code>% Enhanced Defense <br/>+10 to Strength <br/>+10 to Vitality <br/>All Resistances +10 <br/>Cannot be Frozen"
     },
     {
       "name": "Bulwark",
-      "runes": "Shael, Io, Sol",
+      "runes": ["Shael", "Io", "Sol"],
       "level": "Lvl:35",
       "items": ["Helms"],
-      "link": "https://diablo2.io/runewords/bulwark-t1282113.html"
+      "link": "https://diablo2.io/runewords/bulwark-t1282113.html",
+      "stats": "+20% Faster Hit Recovery <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">4-6</code>% Life stolen per hit <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">75-100</code>% Enhanced Defense <br>+10 to Vitality <br>Increase Maximum Life 5% <br/>Replenish Life +30 <br/>Damage Reduced by 7 <br/>Physical Damage Received Reduced by <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">10-15</code>%"
     },
     {
       "name": "Hustle",
-      "runes": "Shael, Ko, Eld",
+      "runes": ["Shael", "Ko", "Eld"],
       "level": "Lvl:39",
       "items": ["Weapons", "Armor"],
-      "link": "https://diablo2.io/runewords/hustle-t1282118.html"
+      "link": "https://diablo2.io/runewords/hustle-t1282118.html",
+      "stats": "5% Chance to cast level 1 Burst of Speed on striking <br>Level 1 Fanaticism Aura When Equipped<br>+30% Increased Attack Speed <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">180-200</code>% Enhanced Damage <br>+75% Damage to Undead <br/>+50 to Attack Rating against Undead <br/>+10 to Dexterity <br/><br>+65% Faster Run/Walk <br>+40% Increased Attack Speed <br>+20% Faster Hit Recovery <br>+6 to Evade <br/>+10 to Dexterity <br/>50% Slower Stamina Drain <br/>+All Resistances +10</br>"
     },
     {
       "name": "White",
-      "runes": "Dol, Io",
+      "runes": ["Dol", "Io"],
       "level": "Lvl:35",
       "items": ["Wand"],
-      "link": "https://diablo2.io/runewords/white-t1200.html"
+      "link": "https://diablo2.io/runewords/white-t1200.html",
+      "stats": "Hit Causes Monster To Flee 25%  <br>+10 To Vitality  <br>+3 To Poison and Bone Skills (Necromancer Only)  <br>+3 To Bone Armor (Necromancer Only)  <br>+2 To Bone Spear (Necromancer Only)  <br/>+4 To Skeleton Mastery (Necromancer Only)  <br/>Magic Damage Reduced By 4  <br/>20% Faster Cast Rate  <br/>+13 To Mana"
     },
     {
       "name": "Holy Thunder",
-      "runes": "Eth, Ral, Ort, Tal",
+      "runes": ["Eth", "Ral", "Ort", "Tal"],
       "level": "Lvl:21",
       "items": ["Scepters"],
-      "link": "https://diablo2.io/runewords/holy-thunder-t1184.html"
+      "link": "https://diablo2.io/runewords/holy-thunder-t1184.html",
+      "stats": "+60% Enhanced Damage <br>-25% Target Defense <br>Adds 5-30 Fire Damage <br>Adds 21-110 Lightning Damage <br>+75 Poison Damage Over 5 Seconds <br/>+10 To Maximum Damage <br/>Lightning Resistance +60% <br/>+5 To Maximum Lightning Resistance <br/>+3 To Holy Shock (Paladin Only) <br/>Level 7 Chain Lightning (60 Charges)"
     },
     {
       "name": "Infinity",
-      "runes": "Ber, Mal, Ber, Ist",
+      "runes": ["Ber", "Mal", "Ber", "Ist"],
       "level": "Lvl:63",
       "items": ["Polearms", "Spears"],
-      "link": "https://diablo2.io/runewords/infinity-t1236.html"
+      "link": "https://diablo2.io/runewords/infinity-t1236.html",
+      "stats": "50% Chance To Cast Level 20 Chain Lightning When You Kill An Enemy  <br>Level 12 Conviction Aura When Equipped  <br>+35% Faster Run/Walk  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">255-325</code>% Enhanced Damage  <br>-(<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">45-55</code>)% To Enemy Lightning Resistance  <br/>40% Chance of Crushing Blow  <br/>Prevent Monster Heal  <br/><code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">0.5-49.5</code> To Vitality (Based on Character Level)  <br/>30% Better Chance of Getting Magic Items  <br/>Level 21 Cyclone Armor (30 Charges)"
     },
     {
       "name": "Sanctuary",
-      "runes": "Ko, Ko, Mal",
+      "runes": ["Ko", "Ko", "Mal"],
       "level": "Lvl:49",
       "items": ["Shields"],
-      "link": "https://diablo2.io/runewords/sanctuary-t1221.html"
+      "link": "https://diablo2.io/runewords/sanctuary-t1221.html",
+      "stats": "+20% Faster Hit Recovery  <br>+20% Faster Block Rate  <br>20% Increased Chance of Blocking  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">130-160</code>% Enhanced Defense  <br>+250 Defense vs. Missile  <br/>+20 To Dexterity  <br/>All Resistances +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">50-70</code> <br/>Magic Damage Reduced By 7  <br/>Level 12 Slow Missiles (60 Charges)"
     },
     {
       "name": "Ancients' Pledge",
-      "runes": "Ral, Ort, Tal",
+      "runes": ["Ral", "Ort", "Tal"],
       "level": "Lvl:21",
       "items": ["Shields"],
-      "link": "https://diablo2.io/runewords/ancients-pledge-t46.html"
+      "link": "https://diablo2.io/runewords/ancients-pledge-t46.html",
+      "stats": "+50% Enhanced Defense <br>Cold Resist +43% <br>Fire Resist +48% <br>Lightning Resist +48% <br>Poison Resist +48% <br/>10% Damage Goes To Mana"
     },
     {
       "name": "Smoke",
-      "runes": "Nef, Lum",
+      "runes": ["Nef", "Lum"],
       "level": "Lvl:37",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/smoke-t1195.html"
+      "link": "https://diablo2.io/runewords/smoke-t1195.html",
+      "stats": "+75% Enhanced Defense  <br>+280 Defense vs. Missiles  <br>All Resistances +50  <br>20% Faster Hit Recovery  <br>Level 6 Weaken (18 Charges)  <br/>+10 To Energy  <br/>-1 To Light Radius"
     },
     {
       "name": "Voice of Reason",
-      "runes": "Lem, Ko, El, Eld",
+      "runes": ["Lem", "Ko", "El", "Eld"],
       "level": "Lvl:43",
       "items": ["Swords", "Maces"],
-      "link": "https://diablo2.io/runewords/voice-of-reason-t1245.html"
+      "link": "https://diablo2.io/runewords/voice-of-reason-t1245.html",
+      "stats": "15% Chance To Cast Level 13 Frozen Orb On Striking <br>18% Chance To Cast Level 20  Ice Blast On Striking <br>+50 To Attack Rating <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">220-350</code>% Damage To Demons <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">355-375</code>% Damage To Undead <br/>+50 To Attack Rating Against Undead <br/>Adds 100-220 Cold Damage <br/>-24% To Enemy Cold Resistance <br/>+10 To Dexterity <br/>Cannot Be Frozen <br/>75% Extra Gold From Monsters <br/>+1 To Light Radius"
     },
     {
       "name": "Hand of Justice",
-      "runes": "Sur, Cham, Amn, Lo",
+      "runes": ["Sur", "Cham", "Amn", "Lo"],
       "level": "Lvl:67",
       "items": ["Weapons"],
-      "link": "https://diablo2.io/runewords/hand-of-justice-t1216.html"
+      "link": "https://diablo2.io/runewords/hand-of-justice-t1216.html",
+      "stats": "100% Chance To Cast Level 36 Blaze When You Level Up  <br>100% Chance To Cast Level 48 Meteor When You Die  <br>Level 16 Holy Fire Aura When Equipped  <br>+33% Increased Attack Speed  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">280-330</code>% Enhanced Damage  <br/>Ignore Target's Defense  <br/>7% Life Stolen Per Hit  <br/>-20% To Enemy Fire Resistance  <br/>20% Deadly Strike  <br/>Hit Blinds Target  <br/>Freezes Target +3"
     },
     {
       "name": "Pattern",
-      "runes": "Tal, Ort, Thul",
+      "runes": ["Tal", "Ort", "Thul"],
       "level": "Lvl:23",
       "items": ["Katars"],
-      "link": "https://diablo2.io/runewords/pattern-t775672.html"
+      "link": "https://diablo2.io/runewords/pattern-t775672.html",
+      "stats": "+30% Faster Block <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">40-80</code>% Enhanced Damage <br>10% Bonus to Attack Rating <br>Adds 12-32 Fire Damage <br>Adds 1-50 Lightning Damage <br/>Adds 3-14 Cold Damage <br/>+75 Poison Damage Over 5 Seconds <br/>+6 Strength <br/>+6 Dexterity <br/>All Resistances +15"
     },
     {
       "name": "Wrath",
-      "runes": "Pul, Lum, Ber, Mal",
+      "runes": ["Pul", "Lum", "Ber", "Mal"],
       "level": "Lvl:63",
       "items": ["Missile Weapons"],
-      "link": "https://diablo2.io/runewords/wrath-t1246.html"
+      "link": "https://diablo2.io/runewords/wrath-t1246.html",
+      "stats": "30% Chance To Cast Level 1 Decrepify On Striking <br>5% Chance To Cast Level 10 Life Tap On Striking <br>+375% Damage To Demons <br>+100 To Attack Rating Against Demons <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">250-300</code>% Damage To Undead <br/>Adds 85-120 Magic Damage <br/>Adds 41-240 Lightning Damage <br/>20% Chance of Crushing Blow <br/>Prevent Monster Heal <br/>+10 To Energy <br/>Cannot Be Frozen"
     },
     {
       "name": "Kingslayer",
-      "runes": "Mal, Um, Gul, Fal",
+      "runes": ["Mal", "Um", "Gul", "Fal"],
       "level": "Lvl:53",
       "items": ["Swords", "Axes"],
-      "link": "https://diablo2.io/runewords/kingslayer-t1218.html"
+      "link": "https://diablo2.io/runewords/kingslayer-t1218.html",
+      "stats": "+30% Increased Attack Speed  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">230-270</code>% Enhanced Damage  <br>-25% Target Defense  <br>20% Bonus To Attack Rating  <br>33% Chance of Crushing Blow  <br/>50% Chance of Open Wounds  <br/>+1 To Vengeance  <br/>Prevent Monster Heal  <br/>+10 To Strength  <br/>40% Extra Gold From Monsters"
     },
     {
       "name": "Duress",
-      "runes": "Shael, Um, Thul",
+      "runes": ["Shael", "Um", "Thul"],
       "level": "Lvl:47",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/duress-t1211.html"
+      "link": "https://diablo2.io/runewords/duress-t1211.html",
+      "stats": "+40% Faster Hit Recovery  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">10-20</code>% Enhanced Damage  <br>Adds 37-133 Cold Damage 2 sec.  Duration  <br>15% Chance of Crushing Blow  <br>33% Chance of Open Wounds  <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">150-200</code>% Enhanced Defense  <br/>-20% Slower Stamina Drain  <br/>Cold Resist +45%  <br/>Lightning Resist +15%  <br/>Fire Resist +15%  <br/>Poison Resist +15%"
     },
     {
       "name": "Stealth",
-      "runes": "Tal, Eth",
+      "runes": ["Tal", "Eth"],
       "level": "Lvl:17",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/stealth-t1196.html"
+      "link": "https://diablo2.io/runewords/stealth-t1196.html",
+      "stats": "Magic Damage Reduced By 3  <br>+6 To Dexterity  <br>+15 To Maximum Stamina  <br>Poison Resist +30%  <br>Regenerate Mana 15%  <br/>25% Faster Run/Walk  <br/>25% Faster Cast Rate  <br/>25% Faster Hit Recovery"
     },
     {
       "name": "Venom",
-      "runes": "Tal, Dol, Mal",
+      "runes": ["Tal", "Dol", "Mal"],
       "level": "Lvl:49",
       "items": ["Weapons"],
-      "link": "https://diablo2.io/runewords/venom-t1198.html"
+      "link": "https://diablo2.io/runewords/venom-t1198.html",
+      "stats": "Hit Causes Monster To Flee 25% <br>Prevent Monster Heal <br>Ignore Target's Defense <br>7% Mana Stolen Per Hit <br>Level 15 Poison Explosion (27 Charges) <br/>Level 13 Poison Nova (11 Charges) <br/>+273 Poison Damage Over 6 seconds"
     },
     {
       "name": "Heart of the Oak",
-      "runes": "Ko, Vex, Pul, Thul",
+      "runes": ["Ko", "Vex", "Pul", "Thul"],
       "level": "Lvl:55",
       "items": ["Maces", "Staves"],
-      "link": "https://diablo2.io/runewords/heart-of-the-oak-t1217.html"
+      "link": "https://diablo2.io/runewords/heart-of-the-oak-t1217.html",
+      "stats": "+3 To All Skills  <br>+40% Faster Cast Rate  <br>+75% Damage To Demons  <br>+100 To Attack Rating Against DemonsAdds 3-14 Cold Damage, 3 sec.Duration  <br>7% Mana Stolen Per Hit  <br/>+10 To Dexterity  <br/>Replenish Life +20  <br/>Increase Maximum Mana 15%  <br/>All Resistances +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">30-40</code> <br/>Level 4 Oak Sage (25 Charges)  <br/>Level 14 Raven (60 Charges)"
     },
     {
       "name": "Lore",
-      "runes": "Ort, Sol",
+      "runes": ["Ort", "Sol"],
       "level": "Lvl:27",
       "items": ["Helms"],
-      "link": "https://diablo2.io/runewords/lore-t1188.html"
+      "link": "https://diablo2.io/runewords/lore-t1188.html",
+      "stats": "+1 To All Skills <br>+10 To Energy <br>+2 To Mana After Each Kill <br>Lightning Resist +30% <br>Damage Reduced By 7 <br/>+2 To Light Radius"
     },
     {
       "name": "Eternity",
-      "runes": "Amn, Ber, Ist, Sol, Sur",
+      "runes": ["Amn", "Ber", "Ist", "Sol", "Sur"],
       "level": "Lvl:63",
       "items": ["Melee Weapons"],
-      "link": "https://diablo2.io/runewords/eternity-t1212.html"
+      "link": "https://diablo2.io/runewords/eternity-t1212.html",
+      "stats": "Indestructible  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">260-310</code>% Enhanced Damage  <br>+9 To Minimum Damage  <br>7% Life Stolen Per Hit  <br>20% Chance of Crushing Blow  <br/>Hit Blinds Target  <br/>Slows Target By 33%  <br/>Regenerate Mana 16%  <br/>Replenish Life +16  <br/>Cannot Be Frozen  <br/>30% Better Chance Of Getting Magic Items  <br/>Level 8 Revive (88 Charges)"
     },
     {
       "name": "Honor",
-      "runes": "Amn, El, Ith, Tir, Sol",
+      "runes": ["Amn", "El", "Ith", "Tir", "Sol"],
       "level": "Lvl:27",
       "items": ["Melee Weapons"],
-      "link": "https://diablo2.io/runewords/honor-t1185.html"
+      "link": "https://diablo2.io/runewords/honor-t1185.html",
+      "stats": "+160% Enhanced Damage  <br>+9 to Minimum Damage  <br>+9 to Maximum Damage  <br>25% Deadly Strike  <br>+250 to Attack Rating  <br/>+1 to All Skills  <br/>7% Life Stolen per Hit  <br/>+10 Replenish Life  <br/>+10 to Strength <br/>+1 to Light Radius <br/>+2 to Mana per Kill"
     },
     {
       "name": "Wealth",
-      "runes": "Lem, Ko, Tir",
+      "runes": ["Lem", "Ko", "Tir"],
       "level": "Lvl:43",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/wealth-t1199.html"
+      "link": "https://diablo2.io/runewords/wealth-t1199.html",
+      "stats": "300% Extra Gold From Monsters  <br>100% Better Chance Of Getting Magic Items  <br>+2 To Mana After Each Kill  <br>+10 To Dexterity</br>"
     },
     {
       "name": "Malice",
-      "runes": "Ith, El, Eth",
+      "runes": ["Ith", "El", "Eth"],
       "level": "Lvl:15",
       "items": ["Melee Weapons"],
-      "link": "https://diablo2.io/runewords/malice-t1189.html"
+      "link": "https://diablo2.io/runewords/malice-t1189.html",
+      "stats": "+33% Enhanced Damage  <br>+9 To Maximum Damage  <br>100% Chance Of Open Wounds  <br>-25% Target Defense  <br>-100 To Monster Defense per Hit  <br>Prevent Monster Heal  <br/>+50 To Attack Rating  <br/>Drain Life -5</br>"
     },
     {
       "name": "Fury",
-      "runes": "Jah, Gul, Eth",
+      "runes": ["Jah", "Gul", "Eth"],
       "level": "Lvl:65",
       "items": ["Melee Weapons"],
-      "link": "https://diablo2.io/runewords/fury-t1183.html"
+      "link": "https://diablo2.io/runewords/fury-t1183.html",
+      "stats": "+209% Enhanced Damage  <br>40% Increased Attack Speed  <br>Prevent Monster Heal  <br>66% Chance of Open Wounds  <br>33% Chance of Deadly Strike  <br/>-25% Target Defense  <br/>20% to Attack Rating  <br/>6% Life Stolen Per Hit  <br/>Ignores Target Defense  <br/>+5 to Frenzy (Barbarian only)"
     },
     {
       "name": "Call To Arms",
-      "runes": "Amn, Ral, Mal, Ist, Ohm",
+      "runes": ["Amn", "Ral", "Mal", "Ist", "Ohm"],
       "level": "Lvl:57",
       "items": ["Weapons"],
-      "link": "https://diablo2.io/runewords/call-to-arms-t1205.html"
+      "link": "https://diablo2.io/runewords/call-to-arms-t1205.html",
+      "stats": "+1 To All Skills  <br>+40% Increased Attack Speed  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">250-290</code>% Enhanced Damage  <br>Adds 5-30 Fire Damage  <br>7% Life Stolen Per Hit  <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">2-6</code> To Battle Command  <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">1-6</code> To Battle Orders  <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">1-4</code> To Battle Cry  <br/>Prevent Monster Heal  <br/>Replenish Life +12  <br/>30% Better Chance of Getting Magic Items"
     },
     {
       "name": "Faith",
-      "runes": "Ohm, Jah, Lem, Eld",
+      "runes": ["Ohm", "Jah", "Lem", "Eld"],
       "level": "Lvl:65",
       "items": ["Missile Weapons"],
-      "link": "https://diablo2.io/runewords/faith-t1231.html"
+      "link": "https://diablo2.io/runewords/faith-t1231.html",
+      "stats": "Level <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">12-15</code> Fanaticism Aura When Equipped  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">1-2</code> To All Skills <br>+330% Enhanced Damage  <br>Ignore Target's Defense  <br>300% Bonus To Attack Rating  <br/>+75% Damage To Undead  <br/>+50 To Attack Rating Against Undead  <br/>+120 Fire Damage  <br/>All Resistances +15  <br/>10% Reanimate As: Returned  <br/>75% Extra Gold From Monsters"
     },
     {
       "name": "Death",
-      "runes": "Hel, El, Vex, Ort, Gul",
+      "runes": ["Hel", "El", "Vex", "Ort", "Gul"],
       "level": "Lvl:55",
       "items": ["Swords", "Axes"],
-      "link": "https://diablo2.io/runewords/death-t1226.html"
+      "link": "https://diablo2.io/runewords/death-t1226.html",
+      "stats": "100% Chance To Cast Level 44 Chain Lightning When You Die  <br>25% Chance To Cast Level 18 Glacial Spike On Attack  <br>Indestructible  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">300-385</code>% Enhanced Damage  <br>20% Bonus To Attack Rating  <br/>+50 To Attack Rating  <br/>Adds 1-50 Lightning Damage  <br/>7% Mana Stolen Per Hit  <br/>50% Chance of Crushing Blow  <br/>+(0.5 per Character Level) <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">0.5-49.5</code>% Deadly Strike (Based on Character Level)  <br/>+1 To Light Radius  <br/>Level 22 Blood Golem (15 Charges)  <br/>Requirements -20%"
     },
     {
       "name": "Chaos",
-      "runes": "Fal, Ohm, Um",
+      "runes": ["Fal", "Ohm", "Um"],
       "level": "Lvl:57",
       "items": ["Katars"],
-      "link": "https://diablo2.io/runewords/chaos-t1207.html"
+      "link": "https://diablo2.io/runewords/chaos-t1207.html",
+      "stats": "9% Chance To Cast Level 11 Frozen Orb On Striking  <br>11% Chance To Cast Level 9 Charged Bolt On Striking  <br>+35% Increased Attack Speed  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">290-340</code>% Enhanced Damage  <br>Adds 216-471 Magic Damage  <br/>25% Chance of Open Wounds  <br/>+1 To Whirlwind  <br/>+10 To Strength  <br/>+15 Life After Each Demon Kill"
     },
     {
       "name": "Breath of the Dying",
-      "runes": "Vex, Hel, El, Eld, Zod, Eth",
+      "runes": ["Vex", "Hel", "El", "Eld", "Zod", "Eth"],
       "level": "Lvl:69",
       "items": ["Weapons"],
-      "link": "https://diablo2.io/runewords/breath-of-the-dying-t1204.html"
+      "link": "https://diablo2.io/runewords/breath-of-the-dying-t1204.html",
+      "stats": "50% Chance To Cast Level 20 Poison Nova When You Kill An Enemy  <br>Indestructible  <br>+60% Increased Attack Speed  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">350-400</code>% Enhanced Damage   <br>+200% Damage To Undead  <br/>-25% Target Defense  <br/>+50 To Attack Rating  <br/>+50 To Attack Rating Against Undead  <br/>7% Mana Stolen per Hit  <br/><code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">12-15</code>% Life Stolen per Hit  <br/>Prevent Monster Heal  <br/>+30 To All Attributes  <br/>+1 To Light Radius  <br/>Requirements -20%"
     },
     {
       "name": "Grief",
-      "runes": "Eth, Tir, Lo, Mal, Ral",
+      "runes": ["Eth", "Tir", "Lo", "Mal", "Ral"],
       "level": "Lvl:59",
       "items": ["Axes", "Swords"],
-      "link": "https://diablo2.io/runewords/grief-t1233.html"
+      "link": "https://diablo2.io/runewords/grief-t1233.html",
+      "stats": "35% Chance To Cast Level 15  Venom On Striking  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">30-40</code>% Increased Attack Speed  <br>Damage +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">340-400</code> <br>Ignore Target's Defense  <br>-25% Target Defense  <br/>+(1.875 per character level) <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">1.875-185.625</code>% Damage To Demons (Based on Character Level)  <br/>Adds 5-30 Fire Damage  <br/>-<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">20-25</code>% To Enemy Poison Resistance  <br/>20% Deadly Strike  <br/>Prevent Monster Heal  <br/>+2 To Mana After Each Kill  <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">10-15</code> Life After Each Kill"
     },
     {
       "name": "Fortitude",
-      "runes": "El, Sol, Dol, Lo",
+      "runes": ["El", "Sol", "Dol", "Lo"],
       "level": "Lvl:59",
       "items": ["Weapons", "Body Armor"],
-      "link": "https://diablo2.io/runewords/fortitude-t1232.html"
+      "link": "https://diablo2.io/runewords/fortitude-t1232.html",
+      "stats": "20% Chance To Cast Level 15 Chilling Armor when Struck  <br>+25% Faster Cast Rate  <br>+300% Enhanced Damage  <br>+9 To Minimum Damage  <br>+50 To Attack Rating  <br/>20% Deadly Strike  <br/>Hit Causes Monster To Flee 25%  <br/>+200% Enhanced Defense  <br/>+X To Life (Based on Character Level)  <br/>All Resistances +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">25-30</code> <br/>12% Damage Taken Goes To Mana  <br/>+1 To Light Radius <br/><br>20% Chance To Cast Level 15 Chilling Armor when Struck <br/>+25% Faster Cast Rate <br/>+300% Enhanced Damage <br/>+200% Enhanced Defense <br/>+15 Defense <br/>+X To Life (Based on Character Level) <br/>Replenish Life +7 <br/>+5% To Maximum Lightning Resist <br/>All Resistances +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">25-30</code> <br/>Damage Reduced By 7 <br/>12% Damage Taken Goes To Mana <br/>+1 To Light Radius "
     },
     {
       "name": "Ice",
-      "runes": "Amn, Shael, Jah, Lo",
+      "runes": ["Amn", "Shael", "Jah", "Lo"],
       "level": "Lvl:65",
       "items": ["Missile Weapons"],
-      "link": "https://diablo2.io/runewords/ice-t1235.html"
+      "link": "https://diablo2.io/runewords/ice-t1235.html",
+      "stats": "100% Chance To Cast Level 40 Blizzard When You Level Up  <br>25% Chance To Cast Level 22 Frost Nova On Striking  <br>Level 18 Holy Freeze Aura When Equipped  <br>+20% Increased Attack Speed  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">140-210</code>% Enhanced Damage  <br>Ignore Target's Defense  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">25-30</code>% To Cold Skill Damage  <br>-20% To Enemy Cold Resistance  <br>7% Life Stolen Per Hit  <br>20% Deadly Strike  <br><code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">3.125-309.375</code>% Extra Gold From Monsters (Based on Character Level)"
     },
     {
       "name": "Delirium",
-      "runes": "Lem, Ist, Io",
+      "runes": ["Lem", "Ist", "Io"],
       "level": "Lvl:51",
       "items": ["Helms"],
-      "link": "https://diablo2.io/runewords/delirium-t1209.html"
+      "link": "https://diablo2.io/runewords/delirium-t1209.html",
+      "stats": "1% Chance To Cast Level 50  Delirium (morph) When Struck <br>6% Chance To Cast Level 14 Mind Blast When Struck <br>14% Chance To Cast Level 13 Terror When Struck <br>11% Chance To Cast Level 18 Confuse On Striking <br>+2 To All Skills <br>+261 Defense <br>+10 To Vitality <br>50% Extra Gold From Monsters <br>25% Better Chance of Getting Magic Items <br>Level 17 Attract (60 Charges)</br>"
     },
     {
       "name": "Gloom",
-      "runes": "Fal, Um, Pul",
+      "runes": ["Fal", "Um", "Pul"],
       "level": "Lvl:47",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/gloom-t1215.html"
+      "link": "https://diablo2.io/runewords/gloom-t1215.html",
+      "stats": "15% Chance To Cast Level 3 Dim Vision When Struck  <br>+10% Faster Hit Recovery  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">200-260</code>% Enhanced Defense  <br>+10 To Strength  <br>All Resistances +45  <br>Half Freeze Duration  <br>5% Damage Taken Goes To Mana  <br>-3 To Light Radius</br>"
     },
     {
       "name": "Radiance",
-      "runes": "Nef, Sol, Ith",
+      "runes": ["Nef", "Sol", "Ith"],
       "level": "Lvl:27",
       "items": ["Helms"],
-      "link": "https://diablo2.io/runewords/radiance-t1193.html"
+      "link": "https://diablo2.io/runewords/radiance-t1193.html",
+      "stats": "+75% Enhanced Defense <br>+30 Defense Vs. Missile <br>+10 To Energy <br>+10 To Vitality <br>15% Damage Taken Goes To Mana <br/>Magic Damage Reduced By 3 <br/>+33 To Mana <br/>Damage Reduced By 7 <br/>+5 To Light Radius"
     },
     {
       "name": "Silence",
-      "runes": "Dol, Eld, Hel, Ist, Tir, Vex",
+      "runes": ["Dol", "Eld", "Hel", "Ist", "Tir", "Vex"],
       "level": "Lvl:55",
       "items": ["Weapons"],
-      "link": "https://diablo2.io/runewords/silence-t55.html"
+      "link": "https://diablo2.io/runewords/silence-t55.html",
+      "stats": "200% Enhanced Damage <br> +75% Damage To Undead <br> Requirements -20% <br> 20% Increased Attack Speed <br> +50 To Attack Rating Against Undead <br/> +2 To All Skills <br/> All Resistances +75 <br/> 20% Faster Hit Recovery <br/> 11% Mana Stolen Per Hit <br/> Hit Causes Monster To Flee 25% <br/> Hit Blinds Target +33 <br/> +2 To Mana After Each Kill <br/> 30% Better Chance Of Getting Magic Items"
     },
     {
       "name": "Rift",
-      "runes": "Hel, Ko, Lem, Gul",
+      "runes": ["Hel", "Ko", "Lem", "Gul"],
       "level": "Lvl:53",
       "items": ["Polearms", "Scepters"],
-      "link": "https://diablo2.io/runewords/rift-t1244.html"
+      "link": "https://diablo2.io/runewords/rift-t1244.html",
+      "stats": "20% Chance To Cast Level 16 Tornado On Striking <br>16% Chance To Cast Level 21 Frozen Orb On Attack <br>20% Bonus To Attack Rating <br>Adds 160-250 Magic Damage <br>Adds 60-180 Fire Damage <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">5-10</code> To All Stats <br/>+10 To Dexterity <br/>38% Damage Taken Goes To Mana <br/>75% Extra Gold From Monsters <br/>Level 15 Iron Maiden (40 Charges) <br/>Requirements -20%"
     },
     {
       "name": "Melody",
-      "runes": "Shael, Ko, Nef",
+      "runes": ["Shael", "Ko", "Nef"],
       "level": "Lvl:39",
       "items": ["Missile Weapons"],
-      "link": "https://diablo2.io/runewords/melody-t1190.html"
+      "link": "https://diablo2.io/runewords/melody-t1190.html",
+      "stats": "+50% Enhanced Damage  <br>+300% Damage To Undead  <br>+3 To Bow and Crossbow Skills  (Amazon Only)  <br>+3 To Critical Strike (Amazon Only)  <br>+3 To Dodge (Amazon Only)  <br/>+3 To Slow Missiles (Amazon Only)  <br/>20% Increased Attack Speed  <br/>+10 To Dexterity  <br/>Knockback"
     },
     {
       "name": "Lawbringer",
-      "runes": "Amn, Lem, Ko",
+      "runes": ["Amn", "Lem", "Ko"],
       "level": "Lvl:43",
       "items": ["Swords", "Hammers", "Scepters"],
-      "link": "https://diablo2.io/runewords/lawbringer-t1239.html"
+      "link": "https://diablo2.io/runewords/lawbringer-t1239.html",
+      "stats": "20% Chance To Cast Level 15 Decrepify On Striking <br>Level <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">16-18</code>  Sanctuary Aura When Equipped <br>-50% Target Defense <br>Adds 150-210 Fire Damage <br>Adds 130-180 Cold Damage <br/>7% Life Stolen Per Hit <br/>Slain Monsters Rest In  Peace <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">200-250</code> Defense Vs. Missile <br/>+10 To Dexterity <br/>75% Extra Gold From Monsters"
     },
     {
       "name": "Destruction",
-      "runes": "Vex, Lo, Ber, Jah, Ko",
+      "runes": ["Vex", "Lo", "Ber", "Jah", "Ko"],
       "level": "Lvl:65",
       "items": ["Polearms", "Swords"],
-      "link": "https://diablo2.io/runewords/destruction-t1227.html"
+      "link": "https://diablo2.io/runewords/destruction-t1227.html",
+      "stats": "23% Chance To Cast Level 12 Volcano On Striking  <br>5% Chance To Cast Level 23 Molten Boulder On Striking  <br>100% Chance To Cast level 45 Meteor When You Die  <br>15% Chance To Cast Level 22 Nova On Attack  <br>+350% Enhanced Damage  <br/>Ignore Target's Defense  <br/>Adds 100-180 Magic Damage  <br/>7% Mana Stolen Per Hit  <br/>20% Chance Of Crushing Blow  <br/>20% Deadly Strike  <br/>Prevent Monster Heal  <br/>+10 To Dexterity"
     },
     {
       "name": "Chains of Honor",
-      "runes": "Dol, Um, Ber, Ist",
+      "runes": ["Dol", "Um", "Ber", "Ist"],
       "level": "Lvl:63",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/chains-of-honor-t1206.html"
+      "link": "https://diablo2.io/runewords/chains-of-honor-t1206.html",
+      "stats": "+2 To All Skills  <br>+200% Damage To Demons  <br>+100% Damage To Undead  <br>8% Life Stolen Per Hit  <br>+70% Enhanced Defense  <br/>+20 To Strength  <br/>Replenish Life +7  <br/>All Resistances +65  <br/>Damage Reduced By 8%  <br/>25% Better Chance of Getting Magic Items"
     },
     {
       "name": "Wisdom",
-      "runes": "Pul, Ith, Eld",
+      "runes": ["Pul", "Ith", "Eld"],
       "level": "Lvl:45",
       "items": ["Helms"],
-      "link": "https://diablo2.io/runewords/wisdom-t785743.html"
+      "link": "https://diablo2.io/runewords/wisdom-t785743.html",
+      "stats": "+33% Piercing Attack <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">15-25</code>% Bonus to Attack Rating <br><code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">4-8</code>% Mana Stolen Per Hit <br>+30% Enhanced Defense <br>+10 Energy <br/>15% Slower Stamina Drain <br/>Cannot Be Frozen <br/>+5 Mana After Each Kill <br/>15% Damage Taken Goes to Mana"
     },
     {
       "name": "Exile",
-      "runes": "Vex, Ohm, Ist, Dol",
+      "runes": ["Vex", "Ohm", "Ist", "Dol"],
       "level": "Lvl:57",
       "items": ["Paladin Shields"],
-      "link": "https://diablo2.io/runewords/exile-t1213.html"
+      "link": "https://diablo2.io/runewords/exile-t1213.html",
+      "stats": "15% Chance To Cast Level 5 Life Tap On Striking  <br>Level <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">13-16</code> Defiance Aura When Equipped  <br>+2 To Offensive Auras (Paladin Only)  <br>+30% Faster Block Rate  <br>Freezes Target  <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">220-260</code>% Enhanced Defense  <br/>Replenish Life +7  <br/>+5% To Maximum Cold Resist  <br/>+5% To Maximum Fire Resist  <br/>25% Better Chance Of Getting Magic Items  <br/>Repairs 1 Durability in 4 Seconds"
     },
     {
       "name": "Wind",
-      "runes": "Sur, El",
+      "runes": ["Sur", "El"],
       "level": "Lvl:61",
       "items": ["Melee Weapons"],
-      "link": "https://diablo2.io/runewords/wind-t1224.html"
+      "link": "https://diablo2.io/runewords/wind-t1224.html",
+      "stats": "10% Chance To Cast Level 9 Tornado On Striking  <br>+20% Faster Run/Walk  <br>+40% Increased Attack Speed  <br>+15% Faster Hit Recovery  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">120-160</code>% Enhanced Damage  <br/>-50% Target Defense  <br/>+50 To Attack Rating  <br/>Hit Blinds Target  <br/>+1 To Light Radius  <br/>Level 13 Twister (127 Charges)"
     },
     {
       "name": "Mist",
-      "runes": "Cham, Shael, Gul, Thul, Ith",
+      "runes": ["Cham", "Shael", "Gul", "Thul", "Ith"],
       "level": "Lvl:67",
       "items": ["Missile Weapons"],
-      "link": "https://diablo2.io/runewords/mist-t775678.html"
+      "link": "https://diablo2.io/runewords/mist-t775678.html",
+      "stats": "Level <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">8-12</code> Concentration Aura When Equipped <br>+3 To All Skills <br>+20% Increased Attack Speed <br>+100% Piercing Attack <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">325-375</code>% Enhanced Damage <br/>+9 To Maximum Damage <br/>20% Bonus to Attack Rating <br/>Adds 3-14 Cold Damage <br/>Freezes Target +3 <br/>+24 to Vitality <br/>All Resistances +40"
     },
     {
       "name": "Brand",
-      "runes": "Jah, Lo, Mal, Gul",
+      "runes": ["Jah", "Lo", "Mal", "Gul"],
       "level": "Lvl:65",
       "items": ["Missile Weapons"],
-      "link": "https://diablo2.io/runewords/brand-t1225.html"
+      "link": "https://diablo2.io/runewords/brand-t1225.html",
+      "stats": "35% Chance To Cast Level 14 Amplify Damage When Struck  <br>100% Chance To Cast Level 18 Bone Spear On Striking  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">260-340</code>% Enhanced Damage  <br>Ignores Target's Defense  <br>20% Bonus to Attack Rating  <br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">280-330</code>% Damage To Demons  <br/>20% Deadly Strike  <br/>Prevent Monster Heal  <br/>Knockback  <br/>Fires Explosive Arrows or Bolts [level 15]"
     },
     {
       "name": "Memory",
-      "runes": "Lum, Io, Sol, Eth",
+      "runes": ["Lum", "Io", "Sol", "Eth"],
       "level": "Lvl:37",
       "items": ["Staves"],
-      "link": "https://diablo2.io/runewords/memory-t1191.html"
+      "link": "https://diablo2.io/runewords/memory-t1191.html",
+      "stats": "+3 to Sorceress Skill Levels  <br>33% Faster Cast Rate  <br>Increase Maximum Mana 20%  <br>+3 Energy Shield (Sorceress Only)  <br>+2 Static Field (Sorceress Only)  <br/>+10 To Energy  <br/>+10 To Vitality  <br/>+9 To Minimum Damage  <br/>-25% Target Defense  <br/>Magic Damage Reduced By 7  <br/>+50% Enhanced Defense"
     },
     {
       "name": "Treachery",
-      "runes": "Shael, Thul, Lem",
+      "runes": ["Shael", "Thul", "Lem"],
       "level": "Lvl:43",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/treachery-t1253.html"
+      "link": "https://diablo2.io/runewords/treachery-t1253.html",
+      "stats": "5% Chance To Cast Level 15 Fade When Struck <br>25% Chance To Cast level 15  Venom On Striking <br>+2 To Assassin Skill Levels <br>+45% Increased Attack Speed <br>+20% Faster Hit Recovery <br/>Cold Resist +30% <br/>50% Extra Gold From Monsters"
     },
     {
       "name": "Strength",
-      "runes": "Amn, Tir",
+      "runes": ["Amn", "Tir"],
       "level": "Lvl:25",
       "items": ["Melee Weapons"],
-      "link": "https://diablo2.io/runewords/strength-t56.html"
+      "link": "https://diablo2.io/runewords/strength-t56.html",
+      "stats": "35% Enhanced Damage <br>25% Chance Of Crushing Blow <br>7% Life Stolen Per Hit <br>+2 To Mana After Each Kill <br>+20 To Strength <br/>+10 To Vitality"
     },
     {
       "name": "Myth",
-      "runes": "Hel, Amn, Nef",
+      "runes": ["Hel", "Amn", "Nef"],
       "level": "Lvl:25",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/myth-t1249.html"
+      "link": "https://diablo2.io/runewords/myth-t1249.html",
+      "stats": "3% Chance To Cast Level 1 Howl When Struck <br>10% Chance To Cast Level 1 Taunt On Striking <br>+2 To Barbarian Skill Levels <br>+30 Defense Vs. Missile <br>Replenish Life +10 <br/>Attacker Takes Damage of 14 <br/>Requirements -15%"
     },
     {
       "name": "Pride",
-      "runes": "Cham, Sur, Io, Lo",
+      "runes": ["Cham", "Sur", "Io", "Lo"],
       "level": "Lvl:67",
       "items": ["Polearms", "Spears"],
-      "link": "https://diablo2.io/runewords/pride-t1243.html"
+      "link": "https://diablo2.io/runewords/pride-t1243.html",
+      "stats": "25% Chance To Cast Level 17 Fire Wall When Struck  <br>Level <code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">16-20</code> Concentration Aura When Equipped  <br><code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">260-300</code>% Bonus To Attack Rating  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">1-99</code>% Damage To Demons (Based on Character Level)  <br>Adds 50-280 Lightning Damage  <br/>20% Deadly Strike  <br/>Hit Blinds Target  <br/>Freezes Target +3  <br/>+10 To Vitality  <br/>Replenish Life +8  <br/><code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">1.875-185.625</code>% Extra Gold From Monsters (Based on Character Level)"
     },
     {
       "name": "Unbending Will",
-      "runes": "Fal, Io, Ith, Eld, El, Hel",
+      "runes": ["Fal", "Io", "Ith", "Eld", "El", "Hel"],
       "level": "Lvl:41",
       "items": ["Swords"],
-      "link": "https://diablo2.io/runewords/unbending-will-t768058.html"
+      "link": "https://diablo2.io/runewords/unbending-will-t768058.html",
+      "stats": "18% Chance to Cast Level 18 Taunt On Striking<br/>+3 to Combat Skills (Barbarian Only)<br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">20-30</code>% Increased Attack Speed<br/>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">300-350</code>% Enhanced Damage<br/>+9 to Maximum Damage<br/>+50 to Attack Rating<br/>+75% Damage To Undead<br/>+50 Attack Rating Against Undead<br/><code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">8-10</code>% Life Stolen Per Hit<br/>Prevent Monster Heal<br/>+10 To Strength<br/>+10 To Vitality<br/>Damage Reduced by 8<br/>+1 To Light Radius<br/>Requirements -20%"
     },
     {
       "name": "Famine",
-      "runes": "Fal, Ohm, Ort, Jah",
+      "runes": ["Fal", "Ohm", "Ort", "Jah"],
       "level": "Lvl:65",
       "items": ["Axes", "Hammers"],
-      "link": "https://diablo2.io/runewords/famine-t1214.html"
+      "link": "https://diablo2.io/runewords/famine-t1214.html",
+      "stats": "30% Increased Attack Speed  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">320-370</code>% Enhanced Damage  <br>Ignore Target's Defense  <br>Adds 180-200 Magic Damage  <br>Adds 50-200 Fire Damage  <br>Adds 51-250 Lightning Damage  <br>Adds 50-200 Cold Damage  <br>12% Life Stolen Per Hit  <br>Prevent Monster Heal  <br>+10 To Strength</br>"
     },
     {
       "name": "Nadir",
-      "runes": "Nef, Tir",
+      "runes": ["Nef", "Tir"],
       "level": "Lvl:13",
       "items": ["Helms"],
-      "link": "https://diablo2.io/runewords/nadir-t1192.html"
+      "link": "https://diablo2.io/runewords/nadir-t1192.html",
+      "stats": "+50% Enhanced Defense  <br>+10 Defense  <br>+30 Defense vs. Missile  <br>Level 13 Cloak of Shadows (9 Charges)  <br>+2 To Mana After Each Kill  <br>+5 To Strength  <br>-33% Extra Gold From Monsters  <br>-3 To Light Radius</br>"
     },
     {
       "name": "Passion",
-      "runes": "Dol, Ort, Eld, Lem",
+      "runes": ["Dol", "Ort", "Eld", "Lem"],
       "level": "Lvl:43",
       "items": ["Weapons"],
-      "link": "https://diablo2.io/runewords/passion-t1219.html"
+      "link": "https://diablo2.io/runewords/passion-t1219.html",
+      "stats": "+25% Increased Attack Speed  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">160-210</code>% Enhanced Damage  <br><code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">50-80</code>% Bonus To Attack Rating  <br>+75% Damage To Undead  <br>+50 To Attack Rating Against Undead  <br>Adds 1-50 Lightning Damage  <br>+1 To Berserk  <br>+1 To Zeal  <br>Hit Blinds Target +10  <br>Hit Causes Monster To Flee 25%  <br>75% Extra Gold From Monsters  <br>Level 3 Heart of Wolverine (12 Charges)</br>"
     },
     {
       "name": "Enlightenment",
-      "runes": "Pul, Ral, Sol",
+      "runes": ["Pul", "Ral", "Sol"],
       "level": "Lvl:45",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/enlightenment-t1248.html"
+      "link": "https://diablo2.io/runewords/enlightenment-t1248.html",
+      "stats": "5% Chance To Cast Level 15 Blaze When Struck <br>5% Chance To Cast level 15 Fire Ball On Striking <br>+2 To Sorceress Skill Levels <br>+1 To Warmth <br>+30% Enhanced Defense <br>Fire Resist +30% <br>Damage Reduced By 7"
     },
     {
       "name": "Prudence",
-      "runes": "Mal, Tir",
+      "runes": ["Mal", "Tir"],
       "level": "Lvl:49",
       "items": ["Body Armor"],
-      "link": "https://diablo2.io/runewords/prudence-t1220.html"
+      "link": "https://diablo2.io/runewords/prudence-t1220.html",
+      "stats": "+25% Faster Hit Recovery  <br>+<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">140-170</code>% Enhanced Defense  <br>All Resistances +<code class=\"z-trusty z-trusty-code z-trusty-code-var\" title=\"Variable stat or range\">25-35</code> <br>Damage Reduced by 3  <br>Magic Damage Reduced by 17  <br>+2 To Mana After Each Kill  <br/>+1 To Light Radius  <br/>Repairs Durability 1 In 4 Seconds</br>"
     },
     {
       "name": "Zephyr",
-      "runes": "Ort, Eth",
+      "runes": ["Ort", "Eth"],
       "level": "Lvl:21",
       "items": ["Missile Weapons"],
-      "link": "https://diablo2.io/runewords/zephyr-t1201.html"
+      "link": "https://diablo2.io/runewords/zephyr-t1201.html",
+      "stats": "+33% Enhanced Damage  <br>+66 To Attack Rating  <br>Adds 1-50 Lightning Damage  <br>-25% Target Defense  <br>+25 Defense  <br/>25% Faster Run/Walk  <br/>25% Increased Attack Speed  <br/>7% Chance To Cast Level 1 Twister  When Struck"
     },
     {
       "name": "King's Grace",
-      "runes": "Amn, Ral, Thul",
+      "runes": ["Amn", "Ral", "Thul"],
       "level": "Lvl:25",
       "items": ["Swords", "Scepters"],
-      "link": "https://diablo2.io/runewords/king-s-grace-t1186.html"
+      "link": "https://diablo2.io/runewords/king-s-grace-t1186.html",
+      "stats": "+100% Enhanced Damage <br>+100% Damage To Demons <br>+50% Damage To Undead <br>Adds 5-30 Fire Damage <br>Adds 3-14 Cold Damage - 3 Second Duration <br/>+150 To Attack Rating <br/>+100 To Attack Rating Against Demons <br/>+100 To Attack Rating Against Undead <br/>7% Life Stolen Per Hit"
     }
   ]
 }

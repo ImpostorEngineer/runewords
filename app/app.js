@@ -1,8 +1,6 @@
 const express = require('express');
 const router = express.Router();
 
-require('dotenv').config();
-
 // const pd2data = require('../data/runewordsPD2.json');
 // const pd2rw = pd2data.runewords;
 
