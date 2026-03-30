@@ -2,8 +2,7 @@ const express = require('express');
 const router = express.Router();
 
 const d2data = require('../data/runewordsD2.json');
-// const d2rw = (d2data.runewords || []).map(normalizeRuneword);
-const d2rw = d2data.runewords;
+const d2rw = (d2data.runewords || []).map(normalizeRuneword);
 
 function normalizeRuneword(record) {
   const items = Array.isArray(record.items)
