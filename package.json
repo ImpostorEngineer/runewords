@@ -1,7 +1,7 @@
 {
   "author": "Impostor Engineer",
   "name": "d2runewords",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A simple Node app built on Express, serving Diablo 2 runewords.",
   "main": "app/index.js",
   "scripts": {
@@ -9,17 +9,15 @@
     "dev": "nodemon app/index.js"
   },
   "dependencies": {
-    "axios": "^1.13.5",
     "dotenv": "^17.3.1",
     "express": "^5.2.1"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=24.0.0"
   },
   "license": "MIT",
   "keywords": [
-    "node",
-    "runewords",
-    "express"
+    "diablo2",
+    "runewords"
   ]
 }

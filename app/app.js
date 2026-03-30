@@ -1,60 +1,49 @@
 const express = require('express');
-const axios = require('axios');
 const router = express.Router();
 
 require('dotenv').config();
 
-const pd2data = require('../data/runewordsPD2.json');
-const pd2rw = pd2data.runewords;
+// const pd2data = require('../data/runewordsPD2.json');
+// const pd2rw = pd2data.runewords;
 
-const poddata = require('../data/runewordsPOD.json');
-const podrw = poddata.runewords;
+// const poddata = require('../data/runewordsPOD.json');
+// const podrw = poddata.runewords;
 
 const d2data = require('../data/runewordsD2.json');
-const d2rw = d2data.runewords;
+const d2rw = (d2data.runewords || []).map(normalizeRuneword);
 
-const newdawndata = require('../data/newdawn.json');
-const newdawn = newdawndata.runewords;
+function normalizeRuneword(record) {
+  const items = Array.isArray(record.items)
+    ? record.items
+    : typeof record.items === 'string'
+      ? record.items
+          .split(',')
+          .map((item) => item.trim())
+          .filter(Boolean)
+      : [];
 
-const goldURL = 'https://query1.finance.yahoo.com/v8/finance/chart/GC=F';
-const silverURL = 'https://query1.finance.yahoo.com/v8/finance/chart/SI=F';
+  const runes = Array.isArray(record.runes)
+    ? record.runes
+    : typeof record.runes === 'string'
+      ? record.runes
+          .split(',')
+          .map((rune) => rune.trim())
+          .filter(Boolean)
+      : [];
 
-const exURL =
-  'http://api.exchangeratesapi.io/v1/latest?access_key=' +
-  process.env.EXCHANGE_API_KEY +
-  '&symbols=TRY,USD,EUR,GBP,NOK';
-const kinaURL = 'https://fcsapi.com/api-v3/forex/latest?symbol=USD/PGK,USD/TRY&access_key=' + process.env.KINA_API_KEY;
-const coinURL = 'https://api.blockchain.com/v3/exchange/tickers';
+  const levelText = typeof record.level === 'string' ? record.level : String(record.level || '');
+  const levelMatch = levelText.match(/\d+/);
+  const levelValue = levelMatch ? Number(levelMatch[0]) : 0;
 
-let piyasa = {};
-
-async function getMetals() {
-  const goldResponse = await axios.get(goldURL);
-  const silverResponse = await axios.get(silverURL);
-
-  piyasa.Gold = goldResponse.data.chart.result[0].meta.regularMarketPrice;
-  piyasa.Silver = silverResponse.data.chart.result[0].meta.regularMarketPrice;
-}
-
-async function getExchange() {
-  const exResponse = await axios.get(exURL);
-  const dolar = Math.floor((exResponse.data.rates.TRY / exResponse.data.rates.USD) * 100) / 100;
-  const euro = Math.floor(exResponse.data.rates.TRY * 100) / 100;
-  const gbp = Math.floor((exResponse.data.rates.TRY / exResponse.data.rates.GBP) * 100) / 100;
-  const kron = Math.floor((exResponse.data.rates.TRY / exResponse.data.rates.NOK) * 100) / 100;
-  piyasa.dolar = dolar;
-  piyasa.euro = euro;
-  piyasa.gbp = gbp;
-  piyasa.kron = kron;
-}
-
-async function getCoins() {
-  const coinResponse = await axios.get(coinURL);
-  let btc = coinResponse.data.filter((c) => c.symbol.indexOf('BTC-USD') >= 0);
-  let eth = coinResponse.data.filter((c) => c.symbol.indexOf('ETH-USD') >= 0);
-
-  piyasa.btc = btc[0].last_trade_price;
-  piyasa.eth = eth[0].last_trade_price;
+  return {
+    ...record,
+    items,
+    itemsText: items.join(', '),
+    runes,
+    runesText: runes.join(', '),
+    level: levelText,
+    levelValue,
+  };
 }
 
 function filterRunewords(runeword, data) {
@@ -63,74 +52,83 @@ function filterRunewords(runeword, data) {
   return found;
 }
 
-router.get('/piyasalar', (req, res, next) => {
-  getMetals();
-  getExchange();
-  getCoins();
-  res.json(piyasa);
-});
+function includesValue(value, search) {
+  if (!search) {
+    return true;
+  }
+
+  if (Array.isArray(value)) {
+    return value.some((entry) => entry.toUpperCase().includes(search));
+  }
+
+  return String(value || '')
+    .toUpperCase()
+    .includes(search);
+}
 
 router.get('/', (req, res, next) => {
   res.json(d2rw);
 });
 
 router.get('/items/:items', (req, res) => {
-  const items = d2rw.filter((c) => c.items.toUpperCase().indexOf(req.params.items.toUpperCase()) !== -1);
+  const search = req.params.items.toUpperCase();
+  const items = d2rw.filter((c) => includesValue(c.items, search));
   res.json(items);
 });
 
 router.get('/runes/:runes', (req, res) => {
-  const runes = d2rw.filter((c) => c.runes.toUpperCase().indexOf(req.params.runes.toUpperCase()) !== -1);
+  const search = req.params.runes.toUpperCase();
+  const runes = d2rw.filter((c) => includesValue(c.runes, search));
   res.json(runes);
 });
 
-router.get('/pd2rw', (req, res) => {
-  res.json(pd2rw);
-});
+// router.get('/pd2rw', (req, res) => {
+//   res.json(pd2rw);
+// });
 
-router.get('/pd2rw/:name', (req, res) => {
-  const searchWord = req.params.name;
-  const runeword = pd2rw.filter((c) => c.name.toUpperCase().indexOf(searchWord.toUpperCase()) !== -1);
-  let finalResult = filterRunewords(searchWord, runeword);
-  if (runeword.length == 1) {
-    finalResult = runeword;
-  }
-  res.json(finalResult);
-});
+// router.get('/pd2rw/:name', (req, res) => {
+//   const searchWord = req.params.name;
+//   const runeword = pd2rw.filter((c) => c.name.toUpperCase().indexOf(searchWord.toUpperCase()) !== -1);
+//   let finalResult = filterRunewords(searchWord, runeword);
+//   if (runeword.length == 1) {
+//     finalResult = runeword;
+//   }
+//   res.json(finalResult);
+// });
 
-router.get('/podrw', (req, res) => {
-  res.json(podrw);
-});
+// router.get('/podrw', (req, res) => {
+//   res.json(podrw);
+// });
 
-router.get('/podrw/:name', (req, res) => {
-  const searchWord = req.params.name;
-  const runeword = podrw.filter((c) => c.name.toUpperCase().indexOf(searchWord.toUpperCase()) !== -1);
-  let finalResult = filterRunewords(searchWord, runeword);
-  if (runeword.length == 1) {
-    finalResult = runeword;
-  }
-  res.json(finalResult);
-});
+// router.get('/podrw/:name', (req, res) => {
+//   const searchWord = req.params.name;
+//   const runeword = podrw.filter((c) => c.name.toUpperCase().indexOf(searchWord.toUpperCase()) !== -1);
+//   let finalResult = filterRunewords(searchWord, runeword);
+//   if (runeword.length == 1) {
+//     finalResult = runeword;
+//   }
+//   res.json(finalResult);
+// });
 
-router.get('/podrw/name/:name', (req, res) => {
-  const searchWord = req.params.name;
-  const runeword = podrw.filter((c) => c.name.toUpperCase().indexOf(searchWord.toUpperCase()) !== -1);
-  let finalResult = filterRunewords(searchWord, runeword);
-  if (runeword.length == 1) {
-    finalResult = runeword;
-  }
-  res.json(finalResult);
-});
+// router.get('/podrw/name/:name', (req, res) => {
+//   const searchWord = req.params.name;
+//   const runeword = podrw.filter((c) => c.name.toUpperCase().indexOf(searchWord.toUpperCase()) !== -1);
+//   let finalResult = filterRunewords(searchWord, runeword);
+//   if (runeword.length == 1) {
+//     finalResult = runeword;
+//   }
+//   res.json(finalResult);
+// });
 
-router.get('/podrw/runes/:rune', (req, res) => {
-  const runeword = podrw.filter((c) => c.runes.toUpperCase().indexOf(req.params.rune.toUpperCase()) !== -1);
-  res.json(runeword);
-});
+// router.get('/podrw/runes/:rune', (req, res) => {
+//   const runeword = podrw.filter((c) => c.runes.toUpperCase().indexOf(req.params.rune.toUpperCase()) !== -1);
+//   res.json(runeword);
+// });
 
-router.get('/podrw/item/:item', (req, res) => {
-  const runeword = podrw.filter((c) => c.items.toUpperCase().indexOf(req.params.item.toUpperCase()) !== -1);
-  res.json(runeword);
-});
+// router.get('/podrw/item/:item', (req, res) => {
+//   const runeword = podrw.filter((c) => c.items.toUpperCase().indexOf(req.params.item.toUpperCase()) !== -1);
+//   res.json(runeword);
+// });
 
 router.get('/d2rw', (req, res) => {
   res.json(d2rw);
@@ -147,12 +145,14 @@ router.get('/d2rw/name/:name', (req, res) => {
 });
 
 router.get('/d2rw/runes/:rune', (req, res) => {
-  const runeword = d2rw.filter((c) => c.runes.toUpperCase().indexOf(req.params.rune.toUpperCase()) !== -1);
+  const search = req.params.rune.toUpperCase();
+  const runeword = d2rw.filter((c) => includesValue(c.runes, search));
   res.json(runeword);
 });
 
 router.get('/d2rw/item/:item', (req, res) => {
-  const runeword = d2rw.filter((c) => c.items.toUpperCase().indexOf(req.params.item.toUpperCase()) !== -1);
+  const search = req.params.item.toUpperCase();
+  const runeword = d2rw.filter((c) => includesValue(c.items, search));
   res.json(runeword);
 });
 
