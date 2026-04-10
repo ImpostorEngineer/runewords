@@ -74,6 +74,12 @@ router.get('/runes/:runes', (req, res) => {
   res.json(runes);
 });
 
+router.get('/stats/:stat', (req, res) => {
+  const search = req.params.stat.toUpperCase();
+  const runewords = d2rw.filter((c) => includesValue(c.stats, search));
+  res.json(runewords);
+});
+
 router.get('/d2rw', (req, res) => {
   res.json(d2rw);
 });
