@@ -28,39 +28,44 @@
         <section class="panel panel--info">
           <h2>Search The Forge</h2>
           <p>
-            Type a runeword, rune, or base item to filter the archive. Sorting updates instantly, and every result
-            links out to its reference page.
+            Filter the archive by allowed item base or rune. Choose from the data-backed lists below, and every result
+            updates instantly in the ledger.
           </p>
 
-          <form class="search-bar" novalidate>
-            <label class="sr-only" for="searchTerm">Search term</label>
-            <input id="searchTerm" name="searchTerm" type="text" autocomplete="off" placeholder="Enigma, Jah, Polearm..." />
+          <div class="filter-controls" aria-label="Runeword filters">
+            <div class="filter-group">
+              <button
+                type="button"
+                id="itemsToggle"
+                class="filter-toggle"
+                aria-expanded="false"
+                aria-controls="itemsFilters"
+              >
+                <span>Items</span>
+                <span id="itemsSelection" class="filter-toggle__value">All</span>
+              </button>
+              <div id="itemsFilters" class="filter-options" hidden></div>
+            </div>
 
-            <label class="sr-only" for="searchOptions">Search by</label>
-            <select id="searchOptions" name="searchOptions">
-              <option value="name">Name</option>
-              <option value="runes">Rune</option>
-              <option value="item">Items</option>
-            </select>
-
-            <button type="submit">Search</button>
-          </form>
+            <div class="filter-group">
+              <button
+                type="button"
+                id="runesToggle"
+                class="filter-toggle"
+                aria-expanded="false"
+                aria-controls="runesFilters"
+              >
+                <span>Runes</span>
+                <span id="runesSelection" class="filter-toggle__value">All</span>
+              </button>
+              <div id="runesFilters" class="filter-options" hidden></div>
+            </div>
+          </div>
 
           <div class="status-row">
             <p id="resultsSummary">Loading runewords...</p>
-            <button id="clearSearch" type="button" class="ghost-button">Clear</button>
+            <button id="clearFilters" type="button" class="ghost-button">Clear Filters</button>
           </div>
-        </section>
-
-        <section class="panel panel--docs">
-          <h2>API Routes</h2>
-          <ul class="api-list">
-            <li><code>/api/d2rw</code> returns the full D2R runeword list.</li>
-            <li><code>/api/d2rw/name/:name</code> searches by runeword name.</li>
-            <li><code>/api/d2rw/runes/:rune</code> searches by rune name.</li>
-            <li><code>/api/d2rw/item/:item</code> searches by allowed item base.</li>
-            <li><code>/api/runes/:rune</code> and <code>/api/items/:item</code> remain available as shortcuts.</li>
-          </ul>
         </section>
 
         <section class="panel panel--results">
