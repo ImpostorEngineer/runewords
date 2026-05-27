@@ -4,6 +4,10 @@ const router = express.Router();
 const d2data = require('../data/runewordsD2.json');
 const d2rw = (d2data.runewords || []).map(normalizeRuneword);
 
+const uniques = require('../data/uniques.json');
+
+const sets = require('../data/setitems.json');
+
 function normalizeRuneword(record) {
   const items = Array.isArray(record.items)
     ? record.items
@@ -99,6 +103,32 @@ router.get('/d2rw/item/:item', (req, res) => {
   const search = req.params.item.toUpperCase();
   const runeword = d2rw.filter((c) => includesValue(c.items, search));
   res.json(runeword);
+});
+
+router.get('/uniques/:name', (req, res) => {
+  const search = req.params.name.toUpperCase();
+  const unique = uniques.filter((c) => c.name.toUpperCase().indexOf(search) !== -1);
+  res.json(unique);
+});
+
+router.get('/uniquestats/:stats', (req, res) => {
+  const search = req.params.stats.toUpperCase();
+  const unique = uniques.filter((c) => includesValue(c.stats, search));
+  const sortedUnique = unique.sort((a, b) => a.name.localeCompare(b.name));
+  res.json(sortedUnique);
+});
+
+router.get('/sets/:name', (req, res) => {
+  const search = req.params.name.toLowerCase();
+  const set = sets.filter((c) => c.name.toLowerCase().indexOf(search) !== -1);
+  res.json(set);
+});
+
+router.get('/setstats/:stats', (req, res) => {
+  const search = req.params.stats.toUpperCase();
+  const set = sets.filter((c) => includesValue(c.stats, search));
+  const sortedSet = set.sort((a, b) => a.name.localeCompare(b.name));
+  res.json(sortedSet);
 });
 
 const allowCors = (fn) => async (req, res, next) => {

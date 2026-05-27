@@ -1,0 +1,2626 @@
+[
+  {
+    "name": "Cathan's Traps",
+    "item_type": "Cathan's Visage\u2022Mask",
+    "stats": []
+  },
+  {
+    "name": "Magnus' Skin",
+    "item_type": "Sharkskin Gloves",
+    "stats": [
+      "Defense:60",
+      "Durability:14",
+      "Req Strength:20",
+      "Req level:37",
+      "Quality level:41",
+      "Treasure class:39",
+      "+50% Enhanced Defense",
+      "+20% Increased Attack Speed",
+      "+100 To Attack Rating",
+      "+3 To Light Radius",
+      "Fire Resist +15%",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Taebaek's Glory",
+    "item_type": "Ward",
+    "stats": [
+      "Defense:203-220",
+      "Req Strength:185",
+      "Req level:81",
+      "Quality level:55",
+      "Treasure class:84",
+      "Class block:Pal: 79%",
+      "Ama/Asn/Bar: 74%",
+      "Dru/Nec/Sor: 69%",
+      "Paladin smite dmg:11-35",
+      "+50 Defense",
+      "+25% Increased Chance Of Blocking",
+      "Lightning Resist +30%",
+      "Indestructible",
+      "30% Faster Block Rate",
+      "+100 To Mana",
+      "Attacker Takes Damage of 30",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Bane's Oathmaker",
+    "item_type": "Kris",
+    "stats": [
+      "1H damage:2-11",
+      "Base speed:-20",
+      "Durability:24",
+      "Req Dexterity:45",
+      "Req level:8",
+      "Quality level:7",
+      "Treasure class:17",
+      "+20% Faster Run/Walk",
+      "+1 to Maximum Damage (Based on Character Level)",
+      "+3 to Mana After Each Kill(2 set items)",
+      "+30% Deadly Strike(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Aldur's Watchtower",
+    "item_type": "Aldur's Rhythm\u2022Jagged Star",
+    "stats": []
+  },
+  {
+    "name": "Griswold's Heart",
+    "item_type": "Ornate Plate",
+    "stats": [
+      "Defense:917-950",
+      "Durability:60",
+      "Req Strength:102",
+      "Req level:45",
+      "Quality level:44",
+      "Treasure class:66",
+      "+500 Defense",
+      "Requirements -40%",
+      "+20 To Strength",
+      "+2 To Defensive Aura Skills (Paladin Only)",
+      "Socketed (3)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Berserker's Arsenal",
+    "item_type": "Berserker's Hatchet\u2022Double Axe",
+    "stats": []
+  },
+  {
+    "name": "Tancred's Battlegear",
+    "item_type": "Tancred's Skull\u2022Bone Helm",
+    "stats": []
+  },
+  {
+    "name": "Horazon's Splendor",
+    "item_type": "Horazon's Countenance\u2022Demonhead",
+    "stats": []
+  },
+  {
+    "name": "Guillaume's Face",
+    "item_type": "Winged Helm",
+    "stats": [
+      "Defense:217",
+      "Durability:40",
+      "Req Strength:115",
+      "Req level:34",
+      "Quality level:41",
+      "Treasure class:51",
+      "+120% Enhanced Defense",
+      "+30% Faster Hit Recovery",
+      "15% Deadly Strike",
+      "35% Chance of Crushing Blow",
+      "+15 To Strength",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Bane's Garments",
+    "item_type": "Bane's Wraithskin\u2022Hard Leather Armor",
+    "stats": []
+  },
+  {
+    "name": "Horazon's Hold",
+    "item_type": "Demonhide Gloves",
+    "stats": [
+      "Defense:28-35",
+      "Durability:12",
+      "Req Strength:20",
+      "Req level:48",
+      "Quality level:40",
+      "Treasure class:33",
+      "10% Chance of Crushing Blow",
+      "+95-150to Attack Rating",
+      "+10-15to Dexterity",
+      "Adds 140-270 Fire Damage",
+      "+30-40to Life",
+      "+30% Increased Attack Speed(2 set items)",
+      "7% Mana stolen per hit(3 set items)",
+      "7% Life stolen per hit(4 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Horazon's Legacy",
+    "item_type": "Mirrored Boots",
+    "stats": [
+      "Defense:59-68",
+      "Durability:18",
+      "Req Strength:163",
+      "Req level:67",
+      "Quality level:40",
+      "Treasure class:81",
+      "Assassin kick dmg:50-145",
+      "+30% Faster Run/Walk",
+      "+10-15to Strength",
+      "+10-15to Dexterity",
+      "+20-30% Magic Resist",
+      "Cannot Be Frozen",
+      "Requirements -30%",
+      "+10% Faster Run/Walk(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sander's Paragon",
+    "item_type": "Cap",
+    "stats": [
+      "Defense:4-104",
+      "Durability:12",
+      "Req level:25",
+      "Quality level:20",
+      "Treasure class:3",
+      "+ (1 Per Character Level)1-99Defense (Based on Character Level)",
+      "Attacker Takes Damage of 8",
+      "35% Better Chance of Getting Magic Items",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Bul-Kathos' Sacred Charge",
+    "item_type": "Colossus Blade",
+    "stats": [
+      "2H damage:174-345",
+      "1H damage:75-195",
+      "Base speed:5",
+      "Durability:50",
+      "Req Strength:189",
+      "Req Dexterity:110",
+      "Req level:63",
+      "Quality level:50",
+      "Treasure class:87",
+      "+200% Enhanced Damage",
+      "35% Chance of Crushing Blow",
+      "All Resistances +20",
+      "+20% Increased Attack Speed",
+      "Knockback (Only if found before 2.7)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Civerb's Cudgel",
+    "item_type": "Grand Scepter",
+    "stats": [
+      "1H damage:8-140",
+      "Base speed:10",
+      "Durability:60",
+      "Req Strength:37",
+      "Req level:9",
+      "Quality level:13",
+      "Treasure class:15",
+      "+ (1 Per Character Level)1-99To Maximum Damage (Based On Character Level)",
+      "+17-23to Max Damage",
+      "+50% Damage To Undead",
+      "+75 to Attack Rating",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Bane's Wraithskin",
+    "item_type": "Hard Leather Armor",
+    "stats": [
+      "Defense:71-74",
+      "Durability:28",
+      "Req Strength:20",
+      "Req level:8",
+      "Quality level:7",
+      "Treasure class:5",
+      "+50 Defense",
+      "+30% Magic Resist",
+      "+25% Faster Hit Recovery(2 set items)",
+      "+8 to Attack Rating (Based on Character Level)(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Naj's Ancient Vestige",
+    "item_type": "Naj's Circlet\u2022Circlet",
+    "stats": []
+  },
+  {
+    "name": "Naj's Light Plate",
+    "item_type": "Hellforge Plate",
+    "stats": [
+      "Defense:721-830",
+      "Durability:60",
+      "Req Strength:79",
+      "Req level:71",
+      "Quality level:43",
+      "Treasure class:78",
+      "+300 Defense",
+      "Requirements -60%",
+      "45% Damage Taken Goes To Mana",
+      "+1 To All Skills",
+      "All Resistances +25",
+      "+65 To Life",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Orphan's Call",
+    "item_type": "Whitstan's Guard\u2022Round Shield",
+    "stats": []
+  },
+  {
+    "name": "Naj's Puzzler",
+    "item_type": "Elder Staff",
+    "stats": [
+      "2H damage:200-232",
+      "Base speed:[0]",
+      "Durability:35",
+      "Req Strength:44",
+      "Req Dexterity:37",
+      "Req level:78",
+      "Quality level:43",
+      "Treasure class:75",
+      "+150% Enhanced Damage",
+      "+50% Damage To Undead",
+      "Adds 6-45 Lightning Damage",
+      "+30% Faster Cast Rate",
+      "+1 To All Skills",
+      "+70 To Mana",
+      "+35 To Energy",
+      "Level 11 Teleport (69 Charges)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Bane's Authority",
+    "item_type": "Light Belt",
+    "stats": [
+      "Defense:3",
+      "Durability:14",
+      "Req level:8",
+      "Quality level:7",
+      "Treasure class:7",
+      "+10% Faster Cast Rate",
+      "+20 to Life",
+      "+15 Energy(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Cow King's Leathers",
+    "item_type": "Cow King's Horns\u2022War Hat",
+    "stats": []
+  },
+  {
+    "name": "Cow King's Hide",
+    "item_type": "Studded Leather",
+    "stats": [
+      "Defense:57",
+      "Durability:32",
+      "Req Strength:27",
+      "Req level:18",
+      "Quality level:20",
+      "Treasure class:9",
+      "+60% Enhanced Defense",
+      "18% Chance To Cast Level 5 Chain Lightning When Struck",
+      "All Resistances +18",
+      "+30 To Life",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Whitstan's Guard",
+    "item_type": "Round Shield",
+    "stats": [
+      "Defense:154",
+      "Durability:64",
+      "Req Strength:53",
+      "Req level:29",
+      "Quality level:41",
+      "Treasure class:39",
+      "Class block:Pal: 97%",
+      "Ama/Asn/Bar: 92%",
+      "Dru/Nec/Sor: 87%",
+      "Paladin smite dmg:7-14",
+      "+175% Enhanced Defense",
+      "Half Freeze Duration",
+      "40% Faster Block Rate",
+      "+55% Increased Chance Of Blocking",
+      "+5 To Light Radius",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Iratha's Finery",
+    "item_type": "Iratha's Coil\u2022Crown",
+    "stats": []
+  },
+  {
+    "name": "Cow King's Horns",
+    "item_type": "War Hat",
+    "stats": [
+      "Defense:120-128",
+      "Durability:12",
+      "Req Strength:20",
+      "Req level:25",
+      "Quality level:20",
+      "Treasure class:36",
+      "+75 Defense",
+      "Half Freeze Duration",
+      "Attacker Takes Damage of 10",
+      "35% Damage Taken Goes To Mana",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Natalya's Soul",
+    "item_type": "Mesh Boots",
+    "stats": [
+      "Defense:112-169",
+      "Durability:66",
+      "Req Strength:65",
+      "Req level:25",
+      "Quality level:22",
+      "Treasure class:45",
+      "Assassin kick dmg:23-52",
+      "+75-125Defense",
+      "+40% Faster Run/Walk",
+      "Heal Stamina Plus (0.25 Per Character Level)0-24% (Based On Character Level)",
+      "Cold Resist +15-25%",
+      "Lightning Resist +15-25%",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Horazon's Secrets",
+    "item_type": "Occult Codex",
+    "stats": [
+      "Defense:98-142",
+      "Durability:20",
+      "Req Strength:91",
+      "Req level:57",
+      "Quality level:40",
+      "Treasure class:66",
+      "Weight:Light",
+      "Base block:8",
+      "Class block:War: 53%",
+      "+2 to Eldritch Weapons Skills (Warlock)",
+      "+30% Faster Hit Recovery",
+      "20% Increased Chance of Blocking",
+      "+20-30to Vitality",
+      "+30-50to Life",
+      "Poison Length Reduced by 75%(2 set items)",
+      "-25% to Enemy Fire Resistance(3 set items)",
+      "+15 to Energy(4 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Tal Rasha's Wrappings",
+    "item_type": "Tal Rasha's Adjudication\u2022Amulet",
+    "stats": []
+  },
+  {
+    "name": "Cathan's Rule",
+    "item_type": "Battle Staff",
+    "stats": [
+      "2H damage:6-13",
+      "Base speed:[0]",
+      "Durability:40",
+      "Req level:11",
+      "Quality level:15",
+      "Treasure class:18",
+      "+1 to Fire Skills",
+      "+10 Maximum Fire Damage",
+      "+50% Damage To Undead",
+      "+50 Mana(2 set items)",
+      "All Resistances +10(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Horazon's Dominion",
+    "item_type": "Russet Armor",
+    "stats": [
+      "Defense:394\u2013486",
+      "Durability:30",
+      "Req Strength:97",
+      "Req level:55",
+      "Quality level:40",
+      "Treasure class:49",
+      "+2 to Demonic Binding Skills (Warlock only)",
+      "+75-100% Enhanced Defense",
+      "+75-100to Mana",
+      "Cold Resist +15-25%",
+      "Fire Resist +15-25%",
+      "Lightning Resist +15-25%",
+      "Poison Resist +25%(2 set items)",
+      "+15 to Vitality(3 set items)",
+      "Damage Reduced by 15%(4 set items)",
+      "+15 to Strength(5 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Horazon's Countenance",
+    "item_type": "Demonhead",
+    "stats": [
+      "Defense:101\u2013154",
+      "Durability:20",
+      "Req Strength:102",
+      "Req level:62",
+      "Quality level:40",
+      "Treasure class:74",
+      "+1% Bonus to Attack Rating per Character Level",
+      "+1 to Warlock Skill Levels",
+      "+10-20to Strength",
+      "Magic Damage Reduced by7-10",
+      "+5% to Maximum Life(2 set items)",
+      "+15 to Strength(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Heaven's Brethren",
+    "item_type": "Dangoon's Teaching\u2022Reinforced Mace",
+    "stats": []
+  },
+  {
+    "name": "Death's Disguise",
+    "item_type": "Death's Touch\u2022War Sword",
+    "stats": []
+  },
+  {
+    "name": "Sazabi's Ghost Liberator",
+    "item_type": "Balrog Skin",
+    "stats": [
+      "Defense:810-917",
+      "Durability:30",
+      "Req Strength:165",
+      "Req level:67",
+      "Quality level:34",
+      "Treasure class:78",
+      "+400 Defense",
+      "+30% Faster Hit Recovery",
+      "+300 To Attack Rating Against Demons",
+      "+25 To Strength",
+      "+50-75To Life",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Dangoon's Teaching",
+    "item_type": "Reinforced Mace",
+    "stats": [
+      "1H damage:41-197",
+      "Base speed:[0]",
+      "Durability:60",
+      "Req Strength:145",
+      "Req Dexterity:46",
+      "Req level:68",
+      "Quality level:55",
+      "Treasure class:63",
+      "+ (1.5 Per Character Level) +1-148To Maximum Damage (Based on Character Level)",
+      "+50% Damage To Undead",
+      "+40% Increased Attack Speed",
+      "10% Chance To Cast Level 3 Frost Nova On Striking",
+      "Adds 20-30 Fire Damage",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Aldur's Rhythm",
+    "item_type": "Jagged Star",
+    "stats": [
+      "1H damage:60-93",
+      "Base speed:10",
+      "Durability:72",
+      "Req Strength:74",
+      "Req level:42",
+      "Quality level:29",
+      "Treasure class:39",
+      "+200% Damage To Demons",
+      "+50% Damage To Undead",
+      "Adds 40-62 Damage",
+      "Adds 50-75 Lightning Damage",
+      "30% Increased Attack Speed",
+      "10% Life Stolen Per Hit",
+      "5% Mana Stolen Per Hit",
+      "Socketed (2-3)",
+      "+15 To Strength(2 set items)",
+      "+15 To Strength(3 set items)",
+      "+15 To Strength(completed set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sigon's Guard",
+    "item_type": "Tower Shield",
+    "stats": [
+      "Defense:22-25",
+      "Durability:60",
+      "Req Strength:75",
+      "Req Dexterity:60",
+      "Req level:6",
+      "Quality level:9",
+      "Treasure class:24",
+      "Paladin smite dmg:1-5",
+      "+1 to All Skills",
+      "+20% Increased Chance To Block",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Laying of Hands",
+    "item_type": "Bramble Mitts",
+    "stats": [
+      "Defense:79-87",
+      "Durability:12",
+      "Req Strength:50",
+      "Req level:63",
+      "Quality level:39",
+      "Treasure class:57",
+      "+25 Defense",
+      "+20% Increased Attack Speed",
+      "+350% Damage To Demons",
+      "Fire Resist +50%",
+      "10% Chance To Cast Level 3 Holy Bolt On Striking",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Tal Rasha's Horadric Crest",
+    "item_type": "Death Mask",
+    "stats": [
+      "Defense:99-131",
+      "Durability:20",
+      "Req Strength:55",
+      "Req level:66",
+      "Quality level:26",
+      "Treasure class:48",
+      "10% Life Stolen Per Hit",
+      "10% Mana Stolen Per Hit",
+      "All Resistances +15",
+      "+45 Defense",
+      "+30 To Mana",
+      "+60 To Life",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Hwanin's Justice",
+    "item_type": "Bill",
+    "stats": [
+      "2H damage:42-159",
+      "Base speed:[0]",
+      "Req Strength:95",
+      "Req level:28",
+      "Quality level:28",
+      "Treasure class:39",
+      "+200% Enhanced Damage",
+      "Adds 5-25 Lightning Damage",
+      "40% Increased Attack Speed",
+      "+330 To Attack Rating",
+      "Indestructible",
+      "10% Chance To Cast Level 3 Ice Blast On Striking",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "M'avina's Tenet",
+    "item_type": "Sharkskin Belt",
+    "stats": [
+      "Defense:81-86",
+      "Durability:14",
+      "Req Strength:20",
+      "Req level:45",
+      "Quality level:21",
+      "Treasure class:39",
+      "Belt boxes:16",
+      "+50 Defense",
+      "+20% Faster Run/Walk",
+      "+5 To Light Radius",
+      "5% Mana Stolen Per Hit",
+      "All Resistances +25(4 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sazabi's Grand Tribute",
+    "item_type": "Sazabi's Cobalt Redeemer\u2022Cryptic Sword",
+    "stats": []
+  },
+  {
+    "name": "Tal Rasha's Adjudication",
+    "item_type": "Tal Rasha's Wrappings",
+    "stats": [
+      "Req level:67",
+      "Quality level:26",
+      "+2 To Sorceress Skill Levels",
+      "Lightning Resist +33%",
+      "Adds 3-32 Lightning Damage",
+      "+42 To Mana",
+      "+50 To Life",
+      "+10% Faster Cast Rate(4 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sazabi's Cobalt Redeemer",
+    "item_type": "Cryptic Sword",
+    "stats": [
+      "1H damage:12-192",
+      "Base speed:-10",
+      "Req Strength:99",
+      "Req Dexterity:109",
+      "Req level:73",
+      "Quality level:34",
+      "Treasure class:84",
+      "+150% Enhanced Damage",
+      "+318% Damage To Demons",
+      "Adds 25-35 Cold Damage, 2 sec. Duration",
+      "+40% Increased Attack Speed",
+      "Indestructible",
+      "+15 To Dexterity",
+      "+5 To Strength",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "The Disciple",
+    "item_type": "Dark Adherent\u2022Dusk Shroud",
+    "stats": []
+  },
+  {
+    "name": "Death's Guard",
+    "item_type": "Sash",
+    "stats": [
+      "Defense:22",
+      "Durability:12",
+      "Req level:6",
+      "Quality level:8",
+      "Treasure class:3",
+      "Belt boxes:8",
+      "Cannot be Frozen",
+      "+20 Defense",
+      "All Resistances +15(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Bul-Kathos' Children",
+    "item_type": "Bul-Kathos' Sacred Charge\u2022Colossus Blade",
+    "stats": []
+  },
+  {
+    "name": "Immortal King's Detail",
+    "item_type": "War Belt",
+    "stats": [
+      "Defense:89",
+      "Durability:24",
+      "Req Strength:110",
+      "Req level:29",
+      "Quality level:37",
+      "Treasure class:54",
+      "Belt boxes:16",
+      "+36 Defense",
+      "Lightning Resist +31%",
+      "Fire Resist +28%",
+      "+25 To Strength",
+      "+105 Defense(2 set items)",
+      "+25% Faster Hit Recovery(3 set items)",
+      "+100% Enhanced Defense(4 set items)",
+      "Damage Reduced By 20%(5 set items)",
+      "+2 To Masteries (Barbarian Only)(completed set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "M'avina's True Sight",
+    "item_type": "Diadem",
+    "stats": [
+      "Defense:200-210",
+      "Durability:20",
+      "Req level:64",
+      "Quality level:21",
+      "Treasure class:87",
+      "+150 Defense",
+      "Replenish Life +10",
+      "+25 To Mana",
+      "+30% Increased Attack Speed",
+      "+1 To All Skills(2 set items)",
+      "50% Bonus To Attack Rating(3 set items)",
+      "All Resistances +25(4 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Tal Rasha's Guardianship",
+    "item_type": "Lacquered Plate",
+    "stats": [
+      "Defense:833-941",
+      "Durability:55",
+      "Req Strength:84",
+      "Req level:71",
+      "Quality level:26",
+      "Treasure class:84",
+      "+400 Defense",
+      "Requirements -60%",
+      "Magic Damage Reduced By 15",
+      "Cold Resist +40%",
+      "Lightning Resist +40%",
+      "Fire Resist +40%",
+      "88% Better Chance Of Getting Magic Items",
+      "+10% Faster Cast Rate(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Isenhart's Armory",
+    "item_type": "Isenhart's Lightbrand\u2022Broad Sword",
+    "stats": []
+  },
+  {
+    "name": "Cleglaw's Pincers",
+    "item_type": "Chain Gloves",
+    "stats": [
+      "Defense:8-9",
+      "Durability:16",
+      "Req Strength:25",
+      "Req level:4",
+      "Quality level:6",
+      "Treasure class:12",
+      "Slows Target by 25%",
+      "Knockback",
+      "+ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Angelic Raiment",
+    "item_type": "Angelic Wings\u2022Amulet",
+    "stats": []
+  },
+  {
+    "name": "M'avina's Embrace",
+    "item_type": "Kraken Shell",
+    "stats": [
+      "Defense:771-1269",
+      "Durability:48",
+      "Req Strength:122",
+      "Req level:70",
+      "Quality level:21",
+      "Treasure class:81",
+      "Requirements -30%",
+      "10% Chance To Cast Level 3 Glacial Spike When Struck",
+      "Magic Damage Reduced By5-12",
+      "+ (4 Per Character Level)4-396Defense (Based On Character Level)",
+      "+2 To Passive And Magic Skills (Amazon Only)",
+      "+350 Defense",
+      "+30% Faster Hit Recovery(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Milabrega's Robe",
+    "item_type": "Ancient Armor",
+    "stats": [
+      "Defense:234",
+      "Durability:60",
+      "Req Strength:100",
+      "Req level:17",
+      "Quality level:23",
+      "Treasure class:42",
+      "Damage Reduced by 2",
+      "Attacker Takes Damage of 3",
+      "+100% Enhanced Defense(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Haemosu's Adamant",
+    "item_type": "Cuirass",
+    "stats": [
+      "Defense:688-702",
+      "Durability:50",
+      "Req Strength:52",
+      "Req level:44",
+      "Quality level:55",
+      "Treasure class:48",
+      "+500 Defense",
+      "+40 Defense Vs. Melee",
+      "+35 Defense Vs. Missile",
+      "Requirements -20%",
+      "+75 To Life",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Ondal's Almighty",
+    "item_type": "Spired Helm",
+    "stats": [
+      "Defense:164-209",
+      "Durability:40",
+      "Req Strength:116",
+      "Req level:69",
+      "Quality level:55",
+      "Treasure class:81",
+      "10% Chance To Cast Level 3 Weaken On Striking",
+      "24% Faster Hit Recovery",
+      "Requirements -40%",
+      "+50 Defense",
+      "+15 To Dexterity",
+      "+10 To Strength",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Trang-Oul's Scales",
+    "item_type": "Chaos Armor",
+    "stats": [
+      "Defense:857",
+      "Durability:70",
+      "Req Strength:84",
+      "Req level:49",
+      "Quality level:32",
+      "Treasure class:63",
+      "+150% Enhanced Defense",
+      "Requirements -40%",
+      "40% Faster Run/Walk",
+      "Poison Resist +40%",
+      "+100 Defense vs. Missile",
+      "+2 To Summoning Skills (Necromancer Only)",
+      "Lightning Resist +50%(3 set items)",
+      "Damage Reduced By 25%(completed set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Immortal King's Will",
+    "item_type": "Avenger Guard",
+    "stats": [
+      "Defense:160-175",
+      "Durability:55",
+      "Req Strength:65",
+      "Req level:47",
+      "Quality level:37",
+      "Treasure class:24",
+      "+4 To Light Radius",
+      "+125 Defense",
+      "37% Extra Gold From Monsters",
+      "25-40% Better Chance Of Getting Magic Items",
+      "+2 To Warcries Skills (Barbarian Only)",
+      "Socketed (2)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sigon's Sabot",
+    "item_type": "Greaves",
+    "stats": [
+      "Defense:12-15",
+      "Durability:24",
+      "Req Strength:70",
+      "Req level:6",
+      "Quality level:9",
+      "Treasure class:27",
+      "Assassin kick dmg:10-20",
+      "20% Faster Run/Walk",
+      "Cold Resist +40%",
+      "+50 to Attack Rating(2 set items)",
+      "+50% Better Chance To Find Magic Items(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Vidala's Fetlock",
+    "item_type": "Light Plated Boots",
+    "stats": [
+      "Defense:9-11",
+      "Durability:18",
+      "Req Strength:50",
+      "Req level:14",
+      "Quality level:19",
+      "Treasure class:21",
+      "Assassin kick dmg:8-16",
+      "30% Faster Run/Walk",
+      "+150 to Maximum Stamina",
+      "All Resistances +8 (2 Items)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Rite of Passage",
+    "item_type": "Demonhide Boots",
+    "stats": [
+      "Defense:53-60",
+      "Durability:12",
+      "Req Strength:20",
+      "Req level:29",
+      "Quality level:39",
+      "Treasure class:36",
+      "Assassin kick dmg:26-46",
+      "+25 Defense",
+      "30% Faster Run/Walk",
+      "+15-25Maximum Stamina",
+      "Half Freeze Duration",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Tancred's Hobnails",
+    "item_type": "Boots",
+    "stats": [
+      "Defense:2-3",
+      "Durability:12",
+      "Req level:20",
+      "Quality level:27",
+      "Treasure class:3",
+      "Assassin kick dmg:3-8",
+      "Heal Stamina Plus 25%",
+      "+10 to Dexterity",
+      "30% Faster Run/Walk(2 set items)",
+      "+10 To Strength(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Aldur's Advance",
+    "item_type": "Battle Boots",
+    "stats": [
+      "Defense:39-47",
+      "Req Strength:95",
+      "Req level:45",
+      "Quality level:29",
+      "Treasure class:51",
+      "Assassin kick dmg:37-64",
+      "Indestructible",
+      "40% Faster Run/Walk",
+      "+180 Maximum Stamina",
+      "10% Damage Taken Goes To Mana",
+      "Heal Stamina Plus +32%",
+      "+50 To Life",
+      "Fire Resist +40-50%",
+      "+15 To Dexterity(2 set items)",
+      "+15 To Dexterity(3 set items)",
+      "+15 To Dexterity(completed set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sander's Riprap",
+    "item_type": "Heavy Boots",
+    "stats": [
+      "Defense:5-6",
+      "Durability:14",
+      "Req Strength:18",
+      "Req level:20",
+      "Quality level:20",
+      "Treasure class:9",
+      "Assassin kick dmg:4-10",
+      "+40% Faster Run/Walk",
+      "+100 To Attack Rating",
+      "+10 To Dexterity",
+      "+5 To Strength",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Cow King's Hooves",
+    "item_type": "Heavy Boots",
+    "stats": [
+      "Defense:30-41",
+      "Durability:14",
+      "Req Strength:18",
+      "Req level:13",
+      "Quality level:20",
+      "Treasure class:9",
+      "Assassin kick dmg:4-10",
+      "+25-35Defense",
+      "+30% Faster Run/Walk",
+      "Adds 25-35 Fire Damage",
+      "+20 To Dexterity",
+      "25% Better Chance of Getting Magic Items",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Immortal King's Pillar",
+    "item_type": "War Boots",
+    "stats": [
+      "Defense:118-128",
+      "Durability:24",
+      "Req Strength:125",
+      "Req level:31",
+      "Quality level:37",
+      "Treasure class:54",
+      "Assassin kick dmg:39-80",
+      "+75 Defense",
+      "40% Faster Run/Walk",
+      "+110 To Attack Rating",
+      "+44 To Life",
+      "25% Better Chance of Getting Magic Items(2 set items)",
+      "+2 To Combat Skills (Barbarian Only)(3 set items)",
+      "+160 Defense(4 set items)",
+      "Half Freeze Duration(5 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Hsarus' Iron Heel",
+    "item_type": "Chain Boots",
+    "stats": [
+      "Defense:8-9",
+      "Durability:16",
+      "Req Strength:30",
+      "Req level:3",
+      "Quality level:4",
+      "Treasure class:12",
+      "Assassin kick dmg:6-12",
+      "20% Faster Run/Walk",
+      "Fire Resist +25%",
+      "+ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Cathan's Seal",
+    "item_type": "Cathan's Traps",
+    "stats": [
+      "Req level:11",
+      "Quality level:15",
+      "6% Life Stolen Per Hit",
+      "Damage Reduced by 2",
+      "+10 Strength(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Hwanin's Majesty",
+    "item_type": "Hwanin's Justice\u2022Bill",
+    "stats": []
+  },
+  {
+    "name": "Griswold's Legacy",
+    "item_type": "Griswold's Redemption\u2022Caduceus",
+    "stats": []
+  },
+  {
+    "name": "M'avina's Battle Hymn",
+    "item_type": "M'avina's Caster\u2022Grand Matron Bow",
+    "stats": []
+  },
+  {
+    "name": "Bul-Kathos' Tribal Guardian",
+    "item_type": "Mythical Sword",
+    "stats": [
+      "1H damage:120-150",
+      "Base speed:[0]",
+      "Durability:44",
+      "Req Strength:147",
+      "Req Dexterity:124",
+      "Req level:66",
+      "Quality level:50",
+      "Treasure class:87",
+      "+200% Enhanced Damage",
+      "+50 Poison Damage Over 2 Seconds",
+      "Fire Resist +50%",
+      "+20 To Strength",
+      "+20% Increased Attack Speed",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Trang-Oul's Claws",
+    "item_type": "Heavy Bracers",
+    "stats": [
+      "Defense:67-74",
+      "Durability:16",
+      "Req Strength:58",
+      "Req level:45",
+      "Quality level:32",
+      "Treasure class:45",
+      "+20% Faster Cast Rate",
+      "Cold Resist +30%",
+      "+30 Defense",
+      "+25% Poison Skill Damage",
+      "+2 To Curses (Necromancer Only)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Trang-Oul's Avatar",
+    "item_type": "Trang-Oul's Guise\u2022Bone Visage",
+    "stats": []
+  },
+  {
+    "name": "Griswold's Valor",
+    "item_type": "Corona",
+    "stats": [
+      "Defense:249-290",
+      "Durability:50",
+      "Req Strength:105",
+      "Req level:69",
+      "Quality level:44",
+      "Treasure class:87",
+      "+50-75% Enhanced Defense",
+      "All Resistances +5",
+      "20-30% Better Chance Of Getting Magic Items",
+      "Requirements -40%",
+      "+ (0.25 Per Character Level)0-24Absorbs Cold Damage (Based On Character Level)",
+      "Socketed (2)",
+      "+2 To Offensive Auras (Paladin Only)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Infernal Torch",
+    "item_type": "Grim Wand",
+    "stats": [
+      "1H damage:13-14",
+      "Base speed:[0]",
+      "Durability:15",
+      "Req level:5",
+      "Quality level:7",
+      "Treasure class:27",
+      "+1 To Necromancer Skill Levels",
+      "+8 to Min Damage",
+      "+50% Damage to Undead",
+      "+ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Angelic Halo",
+    "item_type": "Angelic Raiment",
+    "stats": [
+      "Req level:12",
+      "Quality level:17",
+      "Replenish Life +6",
+      "+20 To Life",
+      "+ (12 Per Character Level) 144-1188 Attack Rating (Based On Character Level)(2 set items)",
+      "+50% Better Chance Of Getting Magic Items(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Iratha's Cuff",
+    "item_type": "Light Gauntlets",
+    "stats": [
+      "Defense:9-11",
+      "Durability:18",
+      "Req Strength:45",
+      "Req level:15",
+      "Quality level:21",
+      "Treasure class:21",
+      "Half Freeze Duration",
+      "Cold Resist +30%",
+      "20% Increased Attack Speed(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Arctic Mitts",
+    "item_type": "Light Gauntlets",
+    "stats": [
+      "Defense:9-11",
+      "Durability:18",
+      "Req Strength:45",
+      "Req level:2",
+      "Quality level:3",
+      "Treasure class:21",
+      "+20 To Life",
+      "10% Increased Attack Speed",
+      "+50 To Attack Rating(2 set items)",
+      "+10 To Dexterity(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Hwanin's Blessing",
+    "item_type": "Belt",
+    "stats": [
+      "Defense:6-153",
+      "Durability:16",
+      "Req Strength:25",
+      "Req level:35",
+      "Quality level:28",
+      "Treasure class:12",
+      "Belt boxes:12",
+      "+ (1.5 Per Character Level)1-148Defense (Based on Character Level)",
+      "Adds 3-33 Lightning Damage",
+      "Prevent Monster Heal",
+      "12% Damage Taken Goes To Mana",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Hsarus' Iron Stay",
+    "item_type": "Belt",
+    "stats": [
+      "Defense:5",
+      "Durability:16",
+      "Req Strength:25",
+      "Req level:3",
+      "Quality level:4",
+      "Treasure class:12",
+      "Belt boxes:12",
+      "Cold Resist +20%",
+      "+20 to Life",
+      "+ (2.5 Per Character Level) 2-247 Defense (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Milabrega's Diadem",
+    "item_type": "Crown",
+    "stats": [
+      "Defense:25-45",
+      "Durability:50",
+      "Req Strength:55",
+      "Req level:17",
+      "Quality level:23",
+      "Treasure class:30",
+      "+15 to Mana",
+      "+15 to Life",
+      "Cold Resist +40%(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Iratha's Coil",
+    "item_type": "Crown",
+    "stats": [
+      "Defense:25-45",
+      "Durability:50",
+      "Req Strength:55",
+      "Req level:15",
+      "Quality level:21",
+      "Treasure class:30",
+      "Lightning Resist +30%",
+      "Fire Resist +30%",
+      "+ (2 Per Character Level) 2-198 Defense (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Iratha's Cord",
+    "item_type": "Heavy Belt",
+    "stats": [
+      "Defense:31",
+      "Durability:18",
+      "Req Strength:45",
+      "Req level:15",
+      "Quality level:21",
+      "Treasure class:21",
+      "Belt boxes:12",
+      "+25 Defense",
+      "+5 To Minimum Damage",
+      "+10 To Dexterity(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Infernal Sign",
+    "item_type": "Heavy Belt",
+    "stats": [
+      "Defense:31",
+      "Durability:18",
+      "Req Strength:45",
+      "Req level:5",
+      "Quality level:7",
+      "Treasure class:21",
+      "Belt boxes:12",
+      "+25 Defense",
+      "+20 to Life",
+      "Poison Resist +25%(2 set items)",
+      "Half Freeze Duration(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Telling of Beads",
+    "item_type": "The Disciple",
+    "stats": [
+      "Req level:30",
+      "Quality level:39",
+      "+1 To All Skills",
+      "Poison Resist +35-50%",
+      "Cold Resist +18%",
+      "Attacker Takes Damage of8-10",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Tancred's Weird",
+    "item_type": "Tancred's Battlegear",
+    "stats": [
+      "Req level:20",
+      "Quality level:27",
+      "Damage Reduced by 2",
+      "Magic Damage Reduced by 1",
+      "+78% Better Chance Of Getting Magic Items(2 set items)",
+      "+60 To Attack Rating(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Iratha's Collar",
+    "item_type": "Iratha's Finery",
+    "stats": [
+      "Req level:15",
+      "Quality level:21",
+      "Poison Length Reduced by 75%",
+      "Poison Resist +30%",
+      "All Resistances +15(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Arcanna's Sign",
+    "item_type": "Arcanna's Tricks",
+    "stats": [
+      "Req level:15",
+      "Quality level:20",
+      "Regenerate Mana 20%",
+      "+15 to Mana",
+      "+50% Better Chance To Find Magic Items(2 set items)",
+      "Fire Resist +20%(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Vidala's Snare",
+    "item_type": "Vidala's Rig",
+    "stats": [
+      "Req level:14",
+      "Quality level:19",
+      "Cold Resist 20%",
+      "+15 To Life",
+      "50% Better Chance Of Getting Magic Items (2 Items)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Angelic Wings",
+    "item_type": "Angelic Raiment",
+    "stats": [
+      "Req level:12",
+      "Quality level:17",
+      "20% Damage Taken Goes to Mana",
+      "+3 To Light Radius",
+      "+75 Life(2 set items)",
+      "+1 To All Skills(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Cathan's Sigil",
+    "item_type": "Cathan's Traps",
+    "stats": [
+      "Req level:11",
+      "Quality level:15",
+      "Attacker Takes Lightning Damage of 5",
+      "10% Faster Hit Recovery",
+      "+50 To Attack Rating(2 set items)",
+      "+25% Better Chance of Getting Magic Items(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Civerb's Icon",
+    "item_type": "Civerb's Vestments",
+    "stats": [
+      "Req level:9",
+      "Quality level:13",
+      "Replenish Life +4",
+      "Regenerate Mana 40%",
+      "Cold Resist +25%(2 set items)",
+      "+25 Defense(completed set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Infernal Cranium",
+    "item_type": "Cap",
+    "stats": [
+      "Defense:3-5",
+      "Durability:12",
+      "Req level:5",
+      "Quality level:7",
+      "Treasure class:3",
+      "20% Damage Taken Goes to Mana",
+      "All Resistances +10",
+      "+ (2 Per Character Level) 2-198 Defense (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "M'avina's Caster",
+    "item_type": "Grand Matron Bow",
+    "stats": [
+      "2H damage:40-207",
+      "Base speed:10",
+      "Req Strength:108",
+      "Req Dexterity:152",
+      "Req level:70",
+      "Quality level:21",
+      "Treasure class:78",
+      "+188% Enhanced Damage",
+      "+40% Increased Attack Speed",
+      "+50 To Attack Rating",
+      "Fires Magic Arrows [Level 1]",
+      "Adds 114-377 Magic Damage(2 set items)",
+      "10% Chance To Cast Level 15 Nova On Striking(3 set items)",
+      "+2 To Bow and  Crossbow Skills (Amazon Only)(4 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Trang-Oul's Wing",
+    "item_type": "Cantor Trophy",
+    "stats": [
+      "Defense:175-189",
+      "Durability:20",
+      "Req Strength:50",
+      "Req level:54",
+      "Quality level:32",
+      "Treasure class:51",
+      "Base block:60",
+      "+125 Defense",
+      "+30% Increased Chance Of Blocking",
+      "Poison Resist +40%",
+      "Fire Resist +38-45%",
+      "+15 To Dexterity",
+      "+25 To Strength",
+      "+2 To Poison And Bone Skills (Necromancer Only)",
+      "-25% To Enemy Poison Resistance(3 set items)",
+      "Replenish Life +15(4 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Infernal Tools",
+    "item_type": "Infernal Sign\u2022Heavy Belt",
+    "stats": []
+  },
+  {
+    "name": "Trang-Oul's Girth",
+    "item_type": "Troll Belt",
+    "stats": [
+      "Defense:134-166",
+      "Durability:18",
+      "Req Strength:91",
+      "Req level:62",
+      "Quality level:32",
+      "Treasure class:84",
+      "+75-100Defense",
+      "Requirements -40%",
+      "Cannot Be Frozen",
+      "Replenish Life +5",
+      "+25-50To Mana",
+      "+30 Maximum Stamina",
+      "+66 To Life",
+      "Cold Resist +40%(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Immortal King's Stone Crusher",
+    "item_type": "Ogre Maul",
+    "stats": [
+      "2H damage:231-318",
+      "Base speed:10",
+      "Req Strength:225",
+      "Req level:76",
+      "Quality level:37",
+      "Treasure class:69",
+      "+200% Enhanced Damage",
+      "+200% Damage To Demons",
+      "+250% Damage To Undead",
+      "40% Increased Attack Speed",
+      "Indestructible",
+      "35-40% Chance Of Crushing Blow",
+      "Socketed (2)",
+      "Adds 211-397 Fire Damage(2 set items)",
+      "Adds 7-477 Lightning Damage(3 set items)",
+      "Adds 127-364 Cold Damage, 6 sec. Duration (Normal)(4 set items)",
+      "+204 Poison Damage Over 6 Seconds(5 set items)",
+      "Adds 250-361 Magic Damage(completed set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Arctic Gear",
+    "item_type": "Arctic Mitts\u2022Light Gauntlets",
+    "stats": []
+  },
+  {
+    "name": "Immortal King",
+    "item_type": "Immortal King's Stone Crusher\u2022Ogre Maul",
+    "stats": []
+  },
+  {
+    "name": "Aldur's Deception",
+    "item_type": "Shadow Plate",
+    "stats": [
+      "Defense:746-857",
+      "Durability:70",
+      "Req Strength:115",
+      "Req level:76",
+      "Quality level:29",
+      "Treasure class:84",
+      "+300 Defense",
+      "Requirements -50%",
+      "Lightning Resist +40-50%",
+      "+15 To Dexterity",
+      "+20 To Strength",
+      "+1 To Elemental Skills (Druid Only)",
+      "+1 To Shape Shifting Skills (Druid Only)",
+      "+15 To Vitality(2 set items)",
+      "+15 To Vitality(3 set items)",
+      "+15 To Vitality(completed set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Aldur's Stony Gaze",
+    "item_type": "Hunter's Guise",
+    "stats": [
+      "Defense:157-171",
+      "Durability:20",
+      "Req Strength:56",
+      "Req level:36",
+      "Quality level:29",
+      "Treasure class:48",
+      "+90 Defense",
+      "25% Faster Hit Recovery",
+      "Regenerate Mana 17%",
+      "Cold Resist +40-50%",
+      "Socketed (2)",
+      "+5 To Light Radius",
+      "+15 To Energy(2 set items)",
+      "+15 To Energy(3 set items)",
+      "+15 To Energy(completed set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Tal Rasha's Lidless Eye",
+    "item_type": "Swirling Crystal",
+    "stats": [
+      "1H damage:18-42",
+      "Base speed:10",
+      "Durability:50",
+      "Req level:65",
+      "Quality level:26",
+      "Treasure class:51",
+      "20% Faster Cast Rate",
+      "+77 To Mana",
+      "+57 To Life",
+      "+10 To Energy",
+      "+1-2To Lightning Mastery (Sorceress Only)",
+      "+1-2To Fire Mastery (Sorceress Only)",
+      "+1-2To Cold Mastery (Sorceress Only)",
+      "+1 To Sorceress Skill Levels(2 set items)",
+      "-15% To Enemy Fire Resistance(3 set items)",
+      "-15% To Enemy Lightning Resistance(4 set items)",
+      "+15% To Cold Skill Damage(completed set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Natalya's Shadow",
+    "item_type": "Loricated Mail",
+    "stats": [
+      "Defense:540-721",
+      "Durability:36",
+      "Req Strength:149",
+      "Req level:73",
+      "Quality level:22",
+      "Treasure class:75",
+      "+150-225Defense",
+      "+ (1 Per Character Level)1-99To Life (Based On Character Level)",
+      "Poison Length Reduced By 75%",
+      "Poison Resist +25%",
+      "+2 To Shadow Disciplines Skills (Assassin Only)",
+      "Socketed (1-3)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Natalya's Mark",
+    "item_type": "Scissors Suwayyah",
+    "stats": [
+      "1H damage:120-153",
+      "Base speed:[0]",
+      "Durability:68",
+      "Req Strength:118",
+      "Req Dexterity:118",
+      "Req level:79",
+      "Quality level:22",
+      "Treasure class:87",
+      "+200% Enhanced Damage",
+      "+200% Damage To Undead",
+      "+200% Damage To Demons",
+      "Adds 12-17 Fire Damage",
+      "Ignores Target's Defense",
+      "40% Increased Attack Speed",
+      "+50 Cold Damage, 4 sec. Duration",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sigon's Gage",
+    "item_type": "Gauntlets",
+    "stats": [
+      "Defense:12-15",
+      "Durability:24",
+      "Req Strength:60",
+      "Req level:6",
+      "Quality level:9",
+      "Treasure class:27",
+      "+20 to Attack Rating",
+      "+10 to Strength",
+      "30% Increased Attack Speed (2 Items)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sigon's Complete Steel",
+    "item_type": "Sigon's Shelter\u2022Gothic Plate",
+    "stats": []
+  },
+  {
+    "name": "M'avina's Icy Clutch",
+    "item_type": "Battle Gauntlets",
+    "stats": [
+      "Defense:84-97",
+      "Durability:18",
+      "Req Strength:88",
+      "Req level:32",
+      "Quality level:21",
+      "Treasure class:51",
+      "+45-50Defense",
+      "6-18Cold Damage, 6 sec. Duration",
+      "Half Freeze Duration",
+      "56% Extra Gold From Monsters",
+      "+10 To Strength",
+      "+15 To Dexterity",
+      "Adds 131-252 Cold Damage, 4 sec. Duration (Normal)(4 set items)",
+      "+20% To Cold Skill Damage(completed set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Civerb's Vestments",
+    "item_type": "Civerb's Cudgel\u2022Grand Scepter",
+    "stats": []
+  },
+  {
+    "name": "Angelic Sickle",
+    "item_type": "Sabre",
+    "stats": [
+      "1H damage:3-8",
+      "Base speed:-10",
+      "Durability:32",
+      "Req Strength:25",
+      "Req Dexterity:25",
+      "Req level:12",
+      "Quality level:17",
+      "Treasure class:9",
+      "+250% Damage to Undead",
+      "+75 To Attack Rating",
+      "+75% Enhanced Damage(2 set items)",
+      "30% Increased Attack Speed(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Natalya's Odium",
+    "item_type": "Natalya's Mark\u2022Scissors Suwayyah",
+    "stats": []
+  },
+  {
+    "name": "Vidala's Rig",
+    "item_type": "Vidala's Snare\u2022Amulet",
+    "stats": []
+  },
+  {
+    "name": "Vidala's Ambush",
+    "item_type": "Leather Armor",
+    "stats": [
+      "Defense:64-67",
+      "Durability:24",
+      "Req Strength:15",
+      "Req level:14",
+      "Quality level:19",
+      "Treasure class:3",
+      "+50 Defense",
+      "+11 to Dexterity",
+      "+24% Fire Resist (2 Items)(2 set items)",
+      "+ (2.5 Per Character Level) +2-247 Defense (Based On Character Level) (3 Items)(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Milabrega's Regalia",
+    "item_type": "Milabrega's Rod\u2022War Scepter",
+    "stats": []
+  },
+  {
+    "name": "Arcanna's Tricks",
+    "item_type": "Arcanna's Sign\u2022Amulet",
+    "stats": []
+  },
+  {
+    "name": "Dark Adherent",
+    "item_type": "Dusk Shroud",
+    "stats": [
+      "Defense:666-882",
+      "Durability:20",
+      "Req Strength:77",
+      "Req level:49",
+      "Quality level:39",
+      "Treasure class:66",
+      "+305-415Defense",
+      "Fire Resist +24%",
+      "25% Chance To Cast Level 3 Nova When Struck",
+      "Adds 24-34 Poison Damage Over 2 Seconds",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Cleglaw's Claw",
+    "item_type": "Small Shield",
+    "stats": [
+      "Defense:25-27",
+      "Durability:16",
+      "Req Strength:22",
+      "Req level:4",
+      "Quality level:6",
+      "Treasure class:6",
+      "Class block:Pal: 35%,",
+      "Ama/Asn/Bar: 30%",
+      "Dru/Nec/Sor: 25%",
+      "Paladin smite dmg:2-3",
+      "Poison Length Reduced by 75%",
+      "+17 Defense",
+      "All Resistances +15(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Hsarus' Iron Fist",
+    "item_type": "Buckler",
+    "stats": [
+      "Defense:4-6",
+      "Durability:12",
+      "Req Strength:12",
+      "Req level:3",
+      "Quality level:4",
+      "Treasure class:3",
+      "Class block:Pal: 30%",
+      "Ama/Asn/Bar/: 25%",
+      "Dru/Nec/Sor: 20%",
+      "Paladin smite dmg:1-3",
+      "Damage Reduced by 2",
+      "+10 to Strength",
+      "+ (2.5 Per Character Level) 2-247 Defense (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Tancred's Spine",
+    "item_type": "Full Plate Mail",
+    "stats": [
+      "Defense:150-161",
+      "Durability:70",
+      "Req Strength:80",
+      "Req level:20",
+      "Quality level:27",
+      "Treasure class:39",
+      "+40 to Life",
+      "+15 to Strength",
+      "+ (2 Per Character Level) 2-198 Defense (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Naj's Circlet",
+    "item_type": "Circlet",
+    "stats": [
+      "Defense:95-105",
+      "Durability:35",
+      "Req level:28",
+      "Quality level:43",
+      "Treasure class:24",
+      "+75 Defense",
+      "+25-35Fire Damage",
+      "12% Chance To Cast Level 5 Chain Lightning When Struck",
+      "+15 To Strength",
+      "+5 To Light Radius",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Trang-Oul's Guise",
+    "item_type": "Bone Visage",
+    "stats": [
+      "Defense:180-257",
+      "Durability:40",
+      "Req Strength:106",
+      "Req level:65",
+      "Quality level:32",
+      "Treasure class:84",
+      "25% Faster Hit Recovery",
+      "Replenish Life +5",
+      "+80-100Defense",
+      "+150 To Mana",
+      "Attacker Takes Damage of 20",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Isenhart's Parry",
+    "item_type": "Gothic Shield",
+    "stats": [
+      "Defense:70-75",
+      "Durability:40",
+      "Req Strength:60",
+      "Req level:8",
+      "Quality level:11",
+      "Treasure class:30",
+      "Class block:Pal: 46%",
+      "Ama/Asn/Bar: 41%",
+      "Dru/Nec/Sor: 36%",
+      "Paladin smite dmg:2-6",
+      "Attacker Takes Lightning Damage of 4",
+      "+40 Defense",
+      "All Resistances +8(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Tancred's Skull",
+    "item_type": "Bone Helm",
+    "stats": [
+      "Defense:33-36",
+      "Durability:40",
+      "Req Strength:25",
+      "Req level:20",
+      "Quality level:27",
+      "Treasure class:24",
+      "+10% Enhanced Damage",
+      "+40 to Attack Rating",
+      "All Resistances +10(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Milabrega's Orb",
+    "item_type": "Kite Shield",
+    "stats": [
+      "Defense:44",
+      "Durability:30",
+      "Req Strength:47",
+      "Req level:17",
+      "Quality level:23",
+      "Treasure class:15",
+      "Class block:Pal: 38%",
+      "Ama/Asn/Bar: 33%",
+      "Dru/Nec/Sor: 28%",
+      "Paladin smite dmg:2-5",
+      "+25 Defense",
+      "20% Better Chance of Getting Magic Items",
+      "+50 Life(2 set items)",
+      "+50% Enhanced Defense(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sazabi's Mental Sheath",
+    "item_type": "Basinet",
+    "stats": [
+      "Defense:175-184",
+      "Durability:30",
+      "Req Strength:82",
+      "Req level:43",
+      "Quality level:34",
+      "Treasure class:45",
+      "+1 To All Skills",
+      "Lightning Resist +15-20%",
+      "Fire Resist +15-20%",
+      "+100 Defense",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Hwanin's Splendor",
+    "item_type": "Grand Crown",
+    "stats": [
+      "Defense:228",
+      "Durability:50",
+      "Req Strength:103",
+      "Req level:45",
+      "Quality level:28",
+      "Treasure class:57",
+      "+100% Enhanced Defense",
+      "Replenish Life +20",
+      "Magic Damage Reduced By 10",
+      "Cold Resist +37%",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Civerb's Ward",
+    "item_type": "Large Shield",
+    "stats": [
+      "Defense:27-29",
+      "Durability:24",
+      "Req Strength:34",
+      "Req level:9",
+      "Quality level:13",
+      "Treasure class:12",
+      "Class block:Pal: 57%",
+      "Ama/Asn/Bar: 52%",
+      "Dru/Nec/Sor: 47%",
+      "Paladin smite dmg:2-4",
+      "15 Defense",
+      "+15% Increased Block",
+      "+21-22 Mana ( Civerb's Icon) or Poison Resist +25-26% ( Civerb's Cudgel)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Tancred's Crowbill",
+    "item_type": "Military Pick",
+    "stats": [
+      "1H damage:12-19",
+      "Base speed:-10",
+      "Durability:26",
+      "Req Strength:49",
+      "Req Dexterity:33",
+      "Req level:20",
+      "Quality level:27",
+      "Treasure class:21",
+      "+80% Enhanced Damage",
+      "+75 to Attack Rating",
+      "+20 To Mana(2 set items)",
+      "20% Increased Attack Speed(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Natalya's Totem",
+    "item_type": "Grim Helm",
+    "stats": [
+      "Defense:195-300",
+      "Durability:40",
+      "Req Strength:58",
+      "Req level:59",
+      "Quality level:22",
+      "Treasure class:51",
+      "+135-175Defense",
+      "All Resistances +10-20",
+      "+20-30To Dexterity",
+      "+10-20To Strength",
+      "Magic Damage Reduced By 3",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Arctic Furs",
+    "item_type": "Quilted Armor",
+    "stats": [
+      "Defense:45-51",
+      "Durability:20",
+      "Req Strength:12",
+      "Req level:2",
+      "Quality level:3",
+      "Treasure class:3",
+      "+275-325% Enhanced Defense",
+      "All Resistances +10",
+      "+ (3 Per Character Level) 3-297 Defense (Based On Character Level)(2 set items)",
+      "Cold Resist +15%(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Immortal King's Forge",
+    "item_type": "War Gauntlets",
+    "stats": [
+      "Defense:108-118",
+      "Durability:24",
+      "Req Strength:110",
+      "Req level:30",
+      "Quality level:37",
+      "Treasure class:54",
+      "+65 Defense",
+      "12% Chance To Cast Level 4 Charged Bolt When Struck",
+      "+20 To Dexterity",
+      "+20 To Strength",
+      "+25% Increased Attack Speed(2 set items)",
+      "+120 Defense(3 set items)",
+      "10% Life Stolen Per Hit(4 set items)",
+      "10% Mana Stolen Per Hit(5 set items)",
+      "Freezes Target +2(completed set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Death's Hand",
+    "item_type": "Leather Gloves",
+    "stats": [
+      "Defense:2-3",
+      "Durability:12",
+      "Req level:6",
+      "Quality level:8",
+      "Treasure class:3",
+      "Poison Length Reduced by 75%",
+      "Poison Resist 50%",
+      "30% Increased Attack Speed(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Vidala's Barb",
+    "item_type": "Long Battle Bow",
+    "stats": [
+      "2H damage:3-18",
+      "Base speed:10",
+      "Req Strength:40",
+      "Req Dexterity:50",
+      "Req level:14",
+      "Quality level:19",
+      "Treasure class:24",
+      "Adds 1-20 Lightning Damage",
+      "+ (8 Per Character Level) 8-792 To Attack Rating (Based On Character Level) (2 Items)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Death's Touch",
+    "item_type": "War Sword",
+    "stats": [
+      "1H damage:10-25",
+      "Base speed:[0]",
+      "Durability:44",
+      "Req Strength:71",
+      "Req Dexterity:45",
+      "Req level:6",
+      "Quality level:8",
+      "Treasure class:27",
+      "+25% Enhanced Damage",
+      "4% Life Stolen Per Hit",
+      "Adds 25-75 Cold Damage, 3 sec. Duration (Normal)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Hwanin's Refuge",
+    "item_type": "Tigulated Mail",
+    "stats": [
+      "Defense:376-390",
+      "Durability:36",
+      "Req Strength:86",
+      "Req level:30",
+      "Quality level:28",
+      "Treasure class:45",
+      "+200 Defense",
+      "10% Chance To Cast Level 3 Static Field When Struck",
+      "Poison Resist +27%",
+      "+100 To Life",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Arctic Horn",
+    "item_type": "Short War Bow",
+    "stats": [
+      "2H damage:9-21",
+      "Base speed:[0]",
+      "Req Strength:35",
+      "Req Dexterity:55",
+      "Req level:2",
+      "Quality level:3",
+      "Treasure class:27",
+      "+50% Enhanced Damage",
+      "20% Bonus To Attack Rating",
+      "+ (8 Per Character Level) 8-792 Attack Rating (Based On Character Level)(2 set items)",
+      "+20-30 Cold Damage, 3 sec. Duration (Normal)(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Tal Rasha's Fine-Spun Cloth",
+    "item_type": "Mesh Belt",
+    "stats": [
+      "Defense:35-40",
+      "Durability:16",
+      "Req Strength:47",
+      "Req level:53",
+      "Quality level:26",
+      "Treasure class:45",
+      "Belt boxes:16",
+      "Requirements -20%",
+      "37% Damage Taken Goes To Mana",
+      "+30 To Mana",
+      "+20 To Dexterity",
+      "10-15% Better Chance Of Getting Magic Items",
+      "+60 Defense(2 set items)",
+      "+10% Faster Cast Rate(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Isenhart's Case",
+    "item_type": "Breast Plate",
+    "stats": [
+      "Defense:105-108",
+      "Durability:50",
+      "Req Strength:30",
+      "Req level:8",
+      "Quality level:11",
+      "Treasure class:18",
+      "Magic Damage Reduced by 2",
+      "+40 Defense",
+      "+ (2 Per Character Level) 2-198 Defense (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Cathan's Visage",
+    "item_type": "Mask",
+    "stats": [
+      "Defense:9-27",
+      "Durability:23",
+      "Req Strength:23",
+      "Req level:11",
+      "Quality level:15",
+      "Treasure class:21",
+      "Cold Resist +25%",
+      "+20 to Mana",
+      "+ (2 Per Character Level) 2-198 Defense (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Credendum",
+    "item_type": "Mithril Coil",
+    "stats": [
+      "Defense:108-115",
+      "Durability:16",
+      "Req Strength:106",
+      "Req level:65",
+      "Quality level:39",
+      "Treasure class:75",
+      "Belt boxes:16",
+      "+50 Defense",
+      "All Resistances +15",
+      "+10 To Dexterity",
+      "+10 To Strength",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sigon's Wrap",
+    "item_type": "Plated Belt",
+    "stats": [
+      "Defense:8-11",
+      "Durability:24",
+      "Req Strength:60",
+      "Req level:6",
+      "Quality level:9",
+      "Treasure class:27",
+      "Belt boxes:16",
+      "Fire Resist +20%",
+      "+20 to Life",
+      "+ (2 Per Character Level) 2-198 To Defense (Based On Character Level) (2 Items)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sigon's Visor",
+    "item_type": "Great Helm",
+    "stats": [
+      "Defense:55-60",
+      "Durability:40",
+      "Req Strength:63",
+      "Req level:6",
+      "Quality level:9",
+      "Treasure class:24",
+      "+25 Defense",
+      "+30 to Mana",
+      "+ (8 Per Character Level) 8-792 To Attack Rating (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sigon's Shelter",
+    "item_type": "Gothic Plate",
+    "stats": [
+      "Defense:170",
+      "Durability:55",
+      "Req Strength:70",
+      "Req level:6",
+      "Quality level:9",
+      "Treasure class:33",
+      "+25% Enhanced Defense",
+      "Lightning Resist +30%",
+      "Attacker Takes Damage of 20 (2 Items)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sander's Taboo",
+    "item_type": "Heavy Gloves",
+    "stats": [
+      "Defense:25-31",
+      "Durability:14",
+      "Req level:28",
+      "Quality level:20",
+      "Treasure class:9",
+      "Adds 9-11 Poison Damage Over 3 Seconds",
+      "+20-25Defense",
+      "+40 To Life",
+      "+20% Increased Attack Speed",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sander's Folly",
+    "item_type": "Sander's Superstition\u2022Bone Wand",
+    "stats": []
+  },
+  {
+    "name": "Wilhelm's Pride",
+    "item_type": "Battle Belt",
+    "stats": [
+      "Defense:75",
+      "Durability:18",
+      "Req Strength:88",
+      "Req level:42",
+      "Quality level:41",
+      "Treasure class:51",
+      "Belt boxes:16",
+      "+75% Enhanced Defense",
+      "5% Life Stolen Per Hit",
+      "5% Mana Stolen Per Hit",
+      "Cold Resist +10%",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Milabrega's Rod",
+    "item_type": "War Scepter",
+    "stats": [
+      "1H damage:15-25",
+      "Base speed:-10",
+      "Durability:70",
+      "Req Strength:55",
+      "Req level:17",
+      "Quality level:23",
+      "Treasure class:21",
+      "+50% Enhanced Damage",
+      "+50% Damage to Undead",
+      "+1 to Paladin Skills",
+      "+2 to Light Radius",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Isenhart's Horns",
+    "item_type": "Full Helm",
+    "stats": [
+      "Defense:23-26",
+      "Durability:30",
+      "Req Strength:41",
+      "Req level:8",
+      "Quality level:11",
+      "Treasure class:15",
+      "Damage Reduced by 2",
+      "+6 to Dexterity",
+      "All Resistances +8(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Isenhart's Lightbrand",
+    "item_type": "Broad Sword",
+    "stats": [
+      "1H damage:17-18",
+      "Base speed:[0]",
+      "Durability:32",
+      "Req Strength:48",
+      "Req level:8",
+      "Quality level:11",
+      "Treasure class:15",
+      "+10 to Min Damage",
+      "20% Increased Attack Speed",
+      "+ (5 Per Character Level) 5-495 Attack Rating (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Immortal King's Soul Cage",
+    "item_type": "Sacred Armor",
+    "stats": [
+      "Defense:1001",
+      "Durability:60",
+      "Req Strength:232",
+      "Req level:76",
+      "Quality level:37",
+      "Treasure class:87",
+      "+400 Defense",
+      "5% Chance To Cast Level 5 Enchant When Struck",
+      "Poison Resist +50%",
+      "+2 To Combat Skills (Barbarian Only)",
+      "+25% Faster Hit Recovery(2 set items)",
+      "Cold Resist +40%(3 set items)",
+      "Fire Resist +40%(4 set items)",
+      "Lightning Resist +40%(5 set items)",
+      "+50% Enhanced Defense(completed set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Hsarus' Defense",
+    "item_type": "Hsarus' Iron Stay\u2022Belt",
+    "stats": []
+  },
+  {
+    "name": "Griswold's Honor",
+    "item_type": "Vortex Shield",
+    "stats": [
+      "Defense:290-333",
+      "Durability:90",
+      "Req Strength:148",
+      "Req level:68",
+      "Quality level:44",
+      "Treasure class:87",
+      "Base block:69",
+      "Paladin smite dmg:5-87",
+      "65% Faster Block Rate",
+      "20% Increased Chance of Blocking",
+      "+108 Defense",
+      "All Resistances +45",
+      "Socketed (3)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Griswold's Redemption",
+    "item_type": "Caduceus",
+    "stats": [
+      "1H damage:111-146",
+      "Base speed:-10",
+      "Durability:70",
+      "Req Strength:78",
+      "Req Dexterity:56",
+      "Req level:66",
+      "Quality level:44",
+      "Treasure class:87",
+      "+200-240% Enhanced Damage",
+      "+250% Damage To Undead",
+      "Requirements -20%",
+      "40% Increased Attack Speed",
+      "Socketed (3-4)",
+      "+2 To Combat Skills (Paladin Only)(2 set items)",
+      "Adds 10-20 Damage(3 set items)",
+      "Adds 10-20 Damage(completed set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Cleglaw's Tooth",
+    "item_type": "Long Sword",
+    "stats": [
+      "1H damage:3-19",
+      "Base speed:-10",
+      "Durability:44",
+      "Req Strength:55",
+      "Req Dexterity:39",
+      "Req level:4",
+      "Quality level:6",
+      "Treasure class:21",
+      "50% Deadly Strike",
+      "30% Bonus to Attack rating",
+      "+ (1.25 Per Character Level) +1-123 To Maximum Damage (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Cleglaw's Brace",
+    "item_type": "Cleglaw's Tooth\u2022Long Sword",
+    "stats": []
+  },
+  {
+    "name": "Berserker's Headgear",
+    "item_type": "Helm",
+    "stats": [
+      "Defense:30-33",
+      "Durability:24",
+      "Req Strength:26",
+      "Req level:3",
+      "Quality level:5",
+      "Treasure class:12",
+      "+15 Defense",
+      "Fire Resist +25%",
+      "+ (8 Per Character Level) 48-792 Attack Rating (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Berserker's Hauberk",
+    "item_type": "Splint Mail",
+    "stats": [
+      "Defense:90-95",
+      "Durability:30",
+      "Req Strength:51",
+      "Req level:3",
+      "Quality level:5",
+      "Treasure class:21",
+      "+1 to Barbarian Skill Levels",
+      "Magic Damage Reduced by 2",
+      "+ (3 Per Character Level) 3-297 Defense (Based On Character Level)(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Berserker's Hatchet",
+    "item_type": "Double Axe",
+    "stats": [
+      "1H damage:5-13",
+      "Base speed:10",
+      "Durability:24",
+      "Req Strength:43",
+      "Req level:3",
+      "Quality level:5",
+      "Treasure class:15",
+      "30% Bonus To Attack Rating",
+      "5% Mana Stolen Per Hit",
+      "+50% Enhanced Damage(2 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Arctic Binding",
+    "item_type": "Light Belt",
+    "stats": [
+      "Defense:33",
+      "Durability:14",
+      "Req level:2",
+      "Quality level:3",
+      "Treasure class:9",
+      "Cold Resist +40%",
+      "+30 Defense",
+      "+40% Better Chance Of Getting Magic Items(2 set items)",
+      "Cold Resist +10%(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Arcanna's Deathwand",
+    "item_type": "War Staff",
+    "stats": [
+      "2H damage:12-28",
+      "Base speed:20",
+      "Durability:50",
+      "Req level:15",
+      "Quality level:20",
+      "Treasure class:24",
+      "+1 to Sorceress Skill Levels",
+      "25% Deadly Strike",
+      "+50% Damage To Undead",
+      "+50 Mana(2 set items)",
+      "Regenerate Mana +5%(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Arcanna's Flesh",
+    "item_type": "Light Plate",
+    "stats": [
+      "Defense:90-107",
+      "Durability:60",
+      "Req Strength:41",
+      "Req level:15",
+      "Quality level:20",
+      "Treasure class:36",
+      "+2 To Light Radius",
+      "Damage Reduced By 3",
+      "+100 Defense(2 set items)",
+      "+10 Energy(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Arcanna's Head",
+    "item_type": "Skull Cap",
+    "stats": [
+      "Defense:8-11",
+      "Durability:18",
+      "Req Strength:15",
+      "Req level:15",
+      "Quality level:20",
+      "Treasure class:6",
+      "Replenish Life +4",
+      "Attacker Takes Damage of 2",
+      "+ (3 Per Character Level) 3-297 Defense (Based On Character Level)(2 set items)",
+      "Lightning Resist +15%(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Angelic Mantle",
+    "item_type": "Ring Mail",
+    "stats": [
+      "Defense:68",
+      "Durability:26",
+      "Req Strength:36",
+      "Req level:12",
+      "Quality level:17",
+      "Treasure class:12",
+      "+40% Enhanced Defense",
+      "Damage Reduced by 3",
+      "+150 Defense(2 set items)",
+      "Fire Resist +50%(3 set items)",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Sander's Superstition",
+    "item_type": "Bone Wand",
+    "stats": [
+      "1H damage:5 To 12 (8.5 Avg)",
+      "Base speed:-20",
+      "Durability:15",
+      "Req level:25",
+      "Quality level:20",
+      "Treasure class:18",
+      "+75% Enhanced Damage",
+      "+50% Damage To Undead",
+      "+20% Faster Cast Rate",
+      "+25 To Mana",
+      "8% Mana Stolen Per Hit",
+      "25-75Cold Damage, 2 sec. Duration",
+      "Part of set:"
+    ]
+  },
+  {
+    "name": "Cathan's Mesh",
+    "item_type": "Chain Mail",
+    "stats": [
+      "Defense:87-90",
+      "Durability:45",
+      "Req Strength:24",
+      "Req level:11",
+      "Quality level:15",
+      "Treasure class:15",
+      "+15 Defense",
+      "Requirements -50%",
+      "Attacker Takes Damage of 5(2 set items)",
+      "Fire Resist +30%(3 set items)",
+      "Part of set:"
+    ]
+  }
+]
